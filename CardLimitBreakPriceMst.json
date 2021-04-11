@@ -1,0 +1,482 @@
+[
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 10000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 1, 
+        "rarity": 1, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 20000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 2, 
+        "rarity": 1, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 30000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 3, 
+        "rarity": 1, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 40000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 4, 
+        "rarity": 1, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 50000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 5, 
+        "rarity": 1, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 20000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 6, 
+        "rarity": 2, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 40000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 7, 
+        "rarity": 2, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 60000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 8, 
+        "rarity": 2, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 80000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 9, 
+        "rarity": 2, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 100000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 10, 
+        "rarity": 2, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 30000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 11, 
+        "rarity": 3, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 60000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 12, 
+        "rarity": 3, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 90000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 13, 
+        "rarity": 3, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 120000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 14, 
+        "rarity": 3, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 150000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 15, 
+        "rarity": 3, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 50000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 16, 
+        "rarity": 4, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 100000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 17, 
+        "rarity": 4, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 150000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 18, 
+        "rarity": 4, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 200000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 19, 
+        "rarity": 4, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 250000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 20, 
+        "rarity": 4, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 100000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 21, 
+        "rarity": 5, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 200000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 22, 
+        "rarity": 5, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 300000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 23, 
+        "rarity": 5, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 400000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 24, 
+        "rarity": 5, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 500000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 25, 
+        "rarity": 5, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 150000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 26, 
+        "rarity": 6, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 300000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 27, 
+        "rarity": 6, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 450000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 28, 
+        "rarity": 6, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 600000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 29, 
+        "rarity": 6, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 750000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 30, 
+        "rarity": 6, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 5000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 31, 
+        "rarity": 1, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 10000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 32, 
+        "rarity": 1, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 15000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 33, 
+        "rarity": 1, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 20000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 34, 
+        "rarity": 1, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 25000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 35, 
+        "rarity": 1, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 10000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 36, 
+        "rarity": 2, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 20000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 37, 
+        "rarity": 2, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 30000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 38, 
+        "rarity": 2, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 40000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 39, 
+        "rarity": 2, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 50000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 40, 
+        "rarity": 2, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 15000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 41, 
+        "rarity": 3, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 30000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 42, 
+        "rarity": 3, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 45000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 43, 
+        "rarity": 3, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 60000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 44, 
+        "rarity": 3, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 75000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 45, 
+        "rarity": 3, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 25000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 46, 
+        "rarity": 4, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 50000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 47, 
+        "rarity": 4, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 75000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 48, 
+        "rarity": 4, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 100000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 49, 
+        "rarity": 4, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 125000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 50, 
+        "rarity": 4, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 50000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 51, 
+        "rarity": 5, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 100000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 52, 
+        "rarity": 5, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 150000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 53, 
+        "rarity": 5, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 200000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 54, 
+        "rarity": 5, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 250000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 55, 
+        "rarity": 5, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 75000, 
+        "limitBreakLevel": 1, 
+        "cardLimitBreakPriceMstId": 56, 
+        "rarity": 6, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 150000, 
+        "limitBreakLevel": 2, 
+        "cardLimitBreakPriceMstId": 57, 
+        "rarity": 6, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 225000, 
+        "limitBreakLevel": 3, 
+        "cardLimitBreakPriceMstId": 58, 
+        "rarity": 6, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 300000, 
+        "limitBreakLevel": 4, 
+        "cardLimitBreakPriceMstId": 59, 
+        "rarity": 6, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakPrice": 375000, 
+        "limitBreakLevel": 5, 
+        "cardLimitBreakPriceMstId": 60, 
+        "rarity": 6, 
+        "type": "support"
+    }
+]

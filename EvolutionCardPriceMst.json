@@ -1,0 +1,114 @@
+[
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 10000, 
+        "evolutionCardPriceMstId": 9, 
+        "evolutionLevel": 1, 
+        "rarity": 3
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 30000, 
+        "evolutionCardPriceMstId": 10, 
+        "evolutionLevel": 2, 
+        "rarity": 3
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 100000, 
+        "evolutionCardPriceMstId": 11, 
+        "evolutionLevel": 3, 
+        "rarity": 3
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 300000, 
+        "evolutionCardPriceMstId": 12, 
+        "evolutionLevel": 4, 
+        "rarity": 3
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 30000, 
+        "evolutionCardPriceMstId": 13, 
+        "evolutionLevel": 1, 
+        "rarity": 4
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 100000, 
+        "evolutionCardPriceMstId": 14, 
+        "evolutionLevel": 2, 
+        "rarity": 4
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 300000, 
+        "evolutionCardPriceMstId": 15, 
+        "evolutionLevel": 3, 
+        "rarity": 4
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 500000, 
+        "evolutionCardPriceMstId": 16, 
+        "evolutionLevel": 4, 
+        "rarity": 4
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 100000, 
+        "evolutionCardPriceMstId": 17, 
+        "evolutionLevel": 1, 
+        "rarity": 5
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 300000, 
+        "evolutionCardPriceMstId": 18, 
+        "evolutionLevel": 2, 
+        "rarity": 5
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 500000, 
+        "evolutionCardPriceMstId": 19, 
+        "evolutionLevel": 3, 
+        "rarity": 5
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 1000000, 
+        "evolutionCardPriceMstId": 20, 
+        "evolutionLevel": 4, 
+        "rarity": 5
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 300000, 
+        "evolutionCardPriceMstId": 21, 
+        "evolutionLevel": 1, 
+        "rarity": 6
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 500000, 
+        "evolutionCardPriceMstId": 22, 
+        "evolutionLevel": 2, 
+        "rarity": 6
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 1000000, 
+        "evolutionCardPriceMstId": 23, 
+        "evolutionLevel": 3, 
+        "rarity": 6
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "evolvePrice": 3000000, 
+        "evolutionCardPriceMstId": 24, 
+        "evolutionLevel": 4, 
+        "rarity": 6
+    }
+]

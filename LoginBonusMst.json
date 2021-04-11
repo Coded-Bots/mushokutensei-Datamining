@@ -1,0 +1,72 @@
+[
+    {
+        "backgroundImg": "neet_loginbonusBG01", 
+        "closeTime": 1618412399, 
+        "titleImg": "neet_loginBonusTitle_02", 
+        "priority": 3, 
+        "loginBonusMstId": 1, 
+        "startTime": 1614783600, 
+        "characterGroupId": 2000005, 
+        "type": 5
+    }, 
+    {
+        "backgroundImg": "neet_loginbonusBG02", 
+        "closeTime": 1924959599, 
+        "titleImg": "neet_loginBonusTitle_01", 
+        "priority": 2, 
+        "loginBonusMstId": 2, 
+        "startTime": 1614783600, 
+        "characterGroupId": 2000014, 
+        "type": 5
+    }, 
+    {
+        "backgroundImg": "neet_loginbonusBG02", 
+        "closeTime": 1924959599, 
+        "titleImg": "neet_loginBonusTitle_01", 
+        "priority": 1, 
+        "loginBonusMstId": 3, 
+        "startTime": 1614783600, 
+        "characterGroupId": 2000009, 
+        "type": 5
+    }, 
+    {
+        "backgroundImg": "neet_loginbonusBG02", 
+        "closeTime": 1618153199, 
+        "titleImg": "neet_loginBonusTitle_03", 
+        "priority": 4, 
+        "loginBonusMstId": 4, 
+        "startTime": 1614783600, 
+        "characterGroupId": 2000005, 
+        "type": 5
+    }, 
+    {
+        "backgroundImg": "neet_loginbonusBG02", 
+        "closeTime": 1618153199, 
+        "titleImg": "neet_loginBonusTitle_04", 
+        "priority": 5, 
+        "loginBonusMstId": 5, 
+        "startTime": 1614783600, 
+        "characterGroupId": 2000009, 
+        "type": 5
+    }, 
+    {
+        "backgroundImg": "neet_loginbonusBG01", 
+        "closeTime": 1924959599, 
+        "titleImg": "neet_loginBonusTitle_05", 
+        "priority": 6, 
+        "loginBonusMstId": 6, 
+        "startTime": 1614783600, 
+        "characterGroupId": 2000006, 
+        "type": 1
+    }, 
+    {
+        "backgroundImg": "neet_loginbonusBG03", 
+        "closeTime": 1618498799, 
+        "titleImg": "neet_loginBonuscommon_01", 
+        "priority": 3, 
+        "loginBonusMstId": 7, 
+        "startTime": 1617721200, 
+        "characterGroupId": 2000004, 
+        "type": 2
+    }
+]

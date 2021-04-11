@@ -1,0 +1,1922 @@
+[
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 100, 
+        "character": "", 
+        "showCharaDetailMstId": 1000, 
+        "voiceMstId": 0, 
+        "talk": "", 
+        "background": "bg_0001_01", 
+        "presetName": ""
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 101, 
+        "character": "", 
+        "showCharaDetailMstId": 1001, 
+        "voiceMstId": 0, 
+        "talk": "", 
+        "background": "bg_0001_02", 
+        "presetName": ""
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 102, 
+        "character": "", 
+        "showCharaDetailMstId": 1002, 
+        "voiceMstId": 0, 
+        "talk": "", 
+        "background": "bg_0002_01", 
+        "presetName": ""
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 103, 
+        "character": "", 
+        "showCharaDetailMstId": 1003, 
+        "voiceMstId": 0, 
+        "talk": "", 
+        "background": "bg_0003_01", 
+        "presetName": ""
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 200, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2000, 
+        "voiceMstId": 100214, 
+        "talk": "ストーリーを読んで\n記憶を集めましょう！", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20200, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2001, 
+        "voiceMstId": 100215, 
+        "talk": "ふっふっふ……\n僕のカッコイイ冒険譚ですよ！", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20201, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2011, 
+        "voiceMstId": 0, 
+        "talk": "ふっふっふ……\n僕のカッコイイ冒険譚ですよ！", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20300, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2002, 
+        "voiceMstId": 100216, 
+        "talk": "期間限定のお話です！\nフィクションなんですけどね……", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20301, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2012, 
+        "voiceMstId": 0, 
+        "talk": "期間限定のお話です！\nフィクションなんですけどね……", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20400, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2003, 
+        "voiceMstId": 100217, 
+        "talk": "他では見れない\n限定のお話です！\nネタバレ禁止です！", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20401, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2013, 
+        "voiceMstId": 0, 
+        "talk": "他では見れない\n限定のお話です！\nネタバレ禁止です！", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20500, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2004, 
+        "voiceMstId": 100218, 
+        "talk": "みんなの物語は\n僕も知らないのでワクワクしますね！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 20501, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 2014, 
+        "voiceMstId": 0, 
+        "talk": "みんなの物語は\n僕も知らないのでワクワクしますね！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 300, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 3000, 
+        "voiceMstId": 400372, 
+        "talk": "戦いの時間よ！\n私についてきなさい！", 
+        "background": "", 
+        "presetName": "Preset_013"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 30200, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 3001, 
+        "voiceMstId": 400373, 
+        "talk": "実戦は腕がなるわ\nノーマルなんて余裕よ余裕！", 
+        "background": "", 
+        "presetName": "Preset_113"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 30300, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 3002, 
+        "voiceMstId": 400374, 
+        "talk": "期間限定の戦いよ！\n急いで出発するわよ！", 
+        "background": "", 
+        "presetName": "Preset_213"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 30400, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 3003, 
+        "voiceMstId": 400375, 
+        "talk": "さぁ戦いよ！準備はいい？\n燃えるわね！", 
+        "background": "", 
+        "presetName": "Preset_113"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 30500, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 3004, 
+        "voiceMstId": 400376, 
+        "talk": "へぇー\n私達以外もみんな戦ってたのね！", 
+        "background": "", 
+        "presetName": "Preset_106"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 30600, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 3005, 
+        "voiceMstId": 400375, 
+        "talk": "さぁ戦いよ！準備はいい？\n燃えるわね！", 
+        "background": "", 
+        "presetName": "Preset_113"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 400, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 4000, 
+        "voiceMstId": 15001110, 
+        "talk": "ギルドから依頼だ\n毎日受けるんだぞ", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 40200, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 4001, 
+        "voiceMstId": 15001111, 
+        "talk": "金策や成長\n報酬が違うからきちんと調べるんだぞ", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 40300, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 4002, 
+        "voiceMstId": 15001112, 
+        "talk": "大型の魔物が出没してる\n子供たちを助けなければ……", 
+        "background": "", 
+        "presetName": "Preset_008"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 40400, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 4003, 
+        "voiceMstId": 15001113, 
+        "talk": "準備を怠るな\n危険だがまれに魔道具を入手できる", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 40500, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 4004, 
+        "voiceMstId": 15001114, 
+        "talk": "腕試しをするか\n戦士として訓練は必要だ", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 500, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 5000, 
+        "voiceMstId": 2001116, 
+        "talk": "旅の準備は大切です\nよく考えてくださいね", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 10200, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 5001, 
+        "voiceMstId": 2001117, 
+        "talk": "パーティを編成しましょう\n属性は大切ですよ", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 10600, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 5002, 
+        "voiceMstId": 2001130, 
+        "talk": "お別れをすると\n冒険者メダルがもらえますよ", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 600, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 6000, 
+        "voiceMstId": 1002132, 
+        "talk": "今までの記憶を振り返りましょう！\n懐かしいですね", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 10800, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 7000, 
+        "voiceMstId": 3001133, 
+        "talk": "目標は大事だよ！\nどんどんクリアしようね！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 700, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 7001, 
+        "voiceMstId": 3001134, 
+        "talk": "すごい！すごいよ！\nボクからのプレゼント！", 
+        "background": "", 
+        "presetName": "Preset_103"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 800, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 8000, 
+        "voiceMstId": 7001135, 
+        "talk": "何かご入用ですか？\n無駄遣いに気を付けてください", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1000, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 10000, 
+        "voiceMstId": 5001141, 
+        "talk": "好きなメニューを選んでくれ\n困ったらすぐヘルプだ", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1100, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 11000, 
+        "voiceMstId": 6001142, 
+        "talk": "定期的に取りに来てね", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 50100, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 12000, 
+        "voiceMstId": 1003106, 
+        "talk": "また一つ、冒険者としての格が上がりましたね！", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001001, 
+        "character": "ac_0001_001", 
+        "showCharaDetailMstId": 10010010, 
+        "voiceMstId": 100108, 
+        "talk": "僕はこの世界では\n本気だそうと思います", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001001, 
+        "character": "ac_0001_001", 
+        "showCharaDetailMstId": 10010011, 
+        "voiceMstId": 100109, 
+        "talk": "父様、外で遊んできてもいいですか？", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001001, 
+        "character": "ac_0001_001", 
+        "showCharaDetailMstId": 10010012, 
+        "voiceMstId": 100110, 
+        "talk": "強さとは……\n女の子にいい格好を見せる為にあるんです", 
+        "background": "", 
+        "presetName": "Preset_208"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001001, 
+        "character": "ac_0001_001", 
+        "showCharaDetailMstId": 10010013, 
+        "voiceMstId": 100111, 
+        "talk": "そろそろ魔力量も増えてきたし、中級魔術を試そう", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001001, 
+        "character": "ac_0001_001", 
+        "showCharaDetailMstId": 10010014, 
+        "voiceMstId": 100112, 
+        "talk": "魔術は誰でも使えるものではないんですか？", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001001, 
+        "character": "ac_0001_001", 
+        "showCharaDetailMstId": 10010015, 
+        "voiceMstId": 100113, 
+        "talk": "う、\n馬は別に怖くないですよ？", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001002, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 10010020, 
+        "voiceMstId": 100208, 
+        "talk": "お嬢様は\n可愛いところいっぱいあるんですよ～", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001002, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 10010021, 
+        "voiceMstId": 100209, 
+        "talk": "子供に\n何させようっていうんですか……", 
+        "background": "", 
+        "presetName": "Preset_108"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001002, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 10010022, 
+        "voiceMstId": 100210, 
+        "talk": "なにか面白そうな本\nないかと思いまして……", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001002, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 10010023, 
+        "voiceMstId": 100211, 
+        "talk": "僕の言うことが聞けるなら\n付いてきてもいいですよ", 
+        "background": "", 
+        "presetName": "Preset_008"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001002, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 10010024, 
+        "voiceMstId": 100212, 
+        "talk": "金では『デレ』は買えないんです！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001002, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 10010025, 
+        "voiceMstId": 100213, 
+        "talk": "はぁー\n疲れたでも明日のテキスト作らないと…", 
+        "background": "", 
+        "presetName": "Preset_105"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001003, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 10010030, 
+        "voiceMstId": 100308, 
+        "talk": "僕は今まで\n一人で何とかしなきゃと焦っていました", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001003, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 10010031, 
+        "voiceMstId": 100309, 
+        "talk": "では\n第１５回『デッドエンド作戦会議』を始めます", 
+        "background": "", 
+        "presetName": "Preset_301"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001003, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 10010032, 
+        "voiceMstId": 100310, 
+        "talk": "１秒先が見えれば\n世界を制することだってできますよ", 
+        "background": "", 
+        "presetName": "Preset_202"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001003, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 10010033, 
+        "voiceMstId": 100311, 
+        "talk": "遊びでもやっていいことと\n悪いことがあるんだぞ！", 
+        "background": "", 
+        "presetName": "Preset_308"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001003, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 10010034, 
+        "voiceMstId": 100312, 
+        "talk": "やっぱりルイジェルドさんには\n勝てませんね……", 
+        "background": "", 
+        "presetName": "Preset_015"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1001003, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 10010035, 
+        "voiceMstId": 100313, 
+        "talk": "誕生日にエリスがくれた杖\n大事にしてるんです", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002001, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 10020010, 
+        "voiceMstId": 200108, 
+        "talk": "一度しか使いません\nしっかりと見て真似して下さい", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002001, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 10020011, 
+        "voiceMstId": 200109, 
+        "talk": "ちっちゃくありません", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002001, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 10020012, 
+        "voiceMstId": 200110, 
+        "talk": "自分より力の劣る者を\n師匠と呼ぶのは嫌でしょう？", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002001, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 10020013, 
+        "voiceMstId": 200111, 
+        "talk": "きちんと訓練すれば\nこのぐらいは誰にでもできますよ", 
+        "background": "", 
+        "presetName": "Preset_208"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002001, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 10020014, 
+        "voiceMstId": 200112, 
+        "talk": "元気にしていればいいな……\nノコパラとブレイズ……", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002001, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 10020015, 
+        "voiceMstId": 200113, 
+        "talk": "こ、この事は\nナイショでおねがいしますね？", 
+        "background": "", 
+        "presetName": "Preset_207"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002002, 
+        "character": "ac_0002_002", 
+        "showCharaDetailMstId": 10020020, 
+        "voiceMstId": 200108, 
+        "talk": "一度しか使いません\nしっかりと見て真似して下さい", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002002, 
+        "character": "ac_0002_002", 
+        "showCharaDetailMstId": 10020021, 
+        "voiceMstId": 200109, 
+        "talk": "ちっちゃくありません", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002002, 
+        "character": "ac_0002_002", 
+        "showCharaDetailMstId": 10020022, 
+        "voiceMstId": 200110, 
+        "talk": "自分より力の劣る者を\n師匠と呼ぶのは嫌でしょう？", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002002, 
+        "character": "ac_0002_002", 
+        "showCharaDetailMstId": 10020023, 
+        "voiceMstId": 200111, 
+        "talk": "きちんと訓練すれば\nこのぐらいは誰にでもできますよ", 
+        "background": "", 
+        "presetName": "Preset_208"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002002, 
+        "character": "ac_0002_002", 
+        "showCharaDetailMstId": 10020024, 
+        "voiceMstId": 200112, 
+        "talk": "元気にしていればいいな……\nノコパラとブレイズ……", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002002, 
+        "character": "ac_0002_002", 
+        "showCharaDetailMstId": 10020025, 
+        "voiceMstId": 200113, 
+        "talk": "こ、この事は\nナイショでおねがいしますね？", 
+        "background": "", 
+        "presetName": "Preset_207"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002003, 
+        "character": "ac_0002_003", 
+        "showCharaDetailMstId": 10020030, 
+        "voiceMstId": 200108, 
+        "talk": "一度しか使いません\nしっかりと見て真似して下さい", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002003, 
+        "character": "ac_0002_003", 
+        "showCharaDetailMstId": 10020031, 
+        "voiceMstId": 200109, 
+        "talk": "ちっちゃくありません", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002003, 
+        "character": "ac_0002_003", 
+        "showCharaDetailMstId": 10020032, 
+        "voiceMstId": 200110, 
+        "talk": "自分より力の劣る者を\n師匠と呼ぶのは嫌でしょう？", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002003, 
+        "character": "ac_0002_003", 
+        "showCharaDetailMstId": 10020033, 
+        "voiceMstId": 200111, 
+        "talk": "きちんと訓練すれば\nこのぐらいは誰にでもできますよ", 
+        "background": "", 
+        "presetName": "Preset_208"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002003, 
+        "character": "ac_0002_003", 
+        "showCharaDetailMstId": 10020034, 
+        "voiceMstId": 200112, 
+        "talk": "元気にしていればいいな……\nノコパラとブレイズ……", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1002003, 
+        "character": "ac_0002_003", 
+        "showCharaDetailMstId": 10020035, 
+        "voiceMstId": 200113, 
+        "talk": "こ、この事は\nナイショでおねがいしますね？", 
+        "background": "", 
+        "presetName": "Preset_207"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1003001, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 10030010, 
+        "voiceMstId": 300108, 
+        "talk": "き、きみは、\nボクを見ても平気……なの？", 
+        "background": "", 
+        "presetName": "Preset_009"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1003001, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 10030011, 
+        "voiceMstId": 300109, 
+        "talk": "ねーねー\n今日は何の魔術の練習をする？", 
+        "background": "", 
+        "presetName": "Preset_202"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1003001, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 10030012, 
+        "voiceMstId": 300110, 
+        "talk": "さっきの、あれ。教えて\n口で言わないやつ。", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1003001, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 10030013, 
+        "voiceMstId": 300111, 
+        "talk": "ひっく、やだよぉ、\nどこにも、いかないでよぉ……", 
+        "background": "", 
+        "presetName": "Preset_105"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1003001, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 10030014, 
+        "voiceMstId": 300112, 
+        "talk": "わかんない……\n友達と、遊んだことないから……", 
+        "background": "", 
+        "presetName": "Preset_109"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1003001, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 10030015, 
+        "voiceMstId": 300113, 
+        "talk": "やだ……最近のきみ、\nなんかちょっと変なんだもん……", 
+        "background": "", 
+        "presetName": "Preset_009"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004001, 
+        "character": "ac_0004_001", 
+        "showCharaDetailMstId": 10040010, 
+        "voiceMstId": 400108, 
+        "talk": "なんで私があなたとの\n約束を守らなきゃならないの？", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004001, 
+        "character": "ac_0004_001", 
+        "showCharaDetailMstId": 10040011, 
+        "voiceMstId": 400109, 
+        "talk": "特別にエリスって\n呼ぶことを許してあげるわ！", 
+        "background": "", 
+        "presetName": "Preset_107"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004001, 
+        "character": "ac_0004_001", 
+        "showCharaDetailMstId": 10040012, 
+        "voiceMstId": 400110, 
+        "talk": "なによその文字！\n読めないじゃないの！", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004001, 
+        "character": "ac_0004_001", 
+        "showCharaDetailMstId": 10040013, 
+        "voiceMstId": 400111, 
+        "talk": "え、エリスに魔術を\n教えてくださいニャン☆", 
+        "background": "", 
+        "presetName": "Preset_207"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004001, 
+        "character": "ac_0004_001", 
+        "showCharaDetailMstId": 10040014, 
+        "voiceMstId": 400112, 
+        "talk": "情けないわね！\nそんなんだからナメられるのよ！", 
+        "background": "", 
+        "presetName": "Preset_204"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004001, 
+        "character": "ac_0004_001", 
+        "showCharaDetailMstId": 10040015, 
+        "voiceMstId": 400113, 
+        "talk": "えっ！えっと、５ひく３たす４で、\n銀貨６枚！", 
+        "background": "", 
+        "presetName": "Preset_006"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004002, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 10040020, 
+        "voiceMstId": 400308, 
+        "talk": "なんか私たち今\n仲間っぽかったわね！", 
+        "background": "", 
+        "presetName": "Preset_113"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004002, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 10040021, 
+        "voiceMstId": 400309, 
+        "talk": "冒険者！？\nこれで私も冒険者なのね！", 
+        "background": "", 
+        "presetName": "Preset_213"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004002, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 10040022, 
+        "voiceMstId": 400310, 
+        "talk": "一生後悔させてやるわ！\n踏み潰してやる！", 
+        "background": "", 
+        "presetName": "Preset_204"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004002, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 10040023, 
+        "voiceMstId": 400311, 
+        "talk": "なによ文句ばっかり！\n蹴るぐらい私だってするわよ！", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004002, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 10040024, 
+        "voiceMstId": 400312, 
+        "talk": "見て見て！\nあれさっき倒した大きなやつじゃない？", 
+        "background": "", 
+        "presetName": "Preset_203"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004002, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 10040025, 
+        "voiceMstId": 400313, 
+        "talk": "え、え、エリス・ぼぼボレアス・グレイラットです！", 
+        "background": "", 
+        "presetName": "Preset_206"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004003, 
+        "character": "ac_0004_003", 
+        "showCharaDetailMstId": 10040030, 
+        "voiceMstId": 400308, 
+        "talk": "なんか私たち今\n仲間っぽかったわね！", 
+        "background": "", 
+        "presetName": "Preset_113"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004003, 
+        "character": "ac_0004_003", 
+        "showCharaDetailMstId": 10040031, 
+        "voiceMstId": 400309, 
+        "talk": "冒険者！？\nこれで私も冒険者なのね！", 
+        "background": "", 
+        "presetName": "Preset_213"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004003, 
+        "character": "ac_0004_003", 
+        "showCharaDetailMstId": 10040032, 
+        "voiceMstId": 400310, 
+        "talk": "一生後悔させてやるわ！\n踏み潰してやる！", 
+        "background": "", 
+        "presetName": "Preset_204"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004003, 
+        "character": "ac_0004_003", 
+        "showCharaDetailMstId": 10040033, 
+        "voiceMstId": 400311, 
+        "talk": "なによ文句ばっかり！\n蹴るぐらい私だってするわよ！", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004003, 
+        "character": "ac_0004_003", 
+        "showCharaDetailMstId": 10040034, 
+        "voiceMstId": 400312, 
+        "talk": "見て見て！\nあれさっき倒した大きなやつじゃない？", 
+        "background": "", 
+        "presetName": "Preset_203"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1004003, 
+        "character": "ac_0004_003", 
+        "showCharaDetailMstId": 10040035, 
+        "voiceMstId": 400313, 
+        "talk": "え、え、エリス・ぼぼボレアス・グレイラットです！", 
+        "background": "", 
+        "presetName": "Preset_206"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005001, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 10050010, 
+        "voiceMstId": 500108, 
+        "talk": "まぁまぁ\n子供は落ちたり転んだりするものさ", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005001, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 10050011, 
+        "voiceMstId": 500109, 
+        "talk": "簡単に言えば、\nクっと踏み込んでザンッ！って感じだ", 
+        "background": "", 
+        "presetName": "Preset_008"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005001, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 10050012, 
+        "voiceMstId": 500110, 
+        "talk": "アドバイスしてやってもいいぞ", 
+        "background": "", 
+        "presetName": "Preset_011"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005001, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 10050013, 
+        "voiceMstId": 500111, 
+        "talk": "最近魔物が活発で参るぜ\nこんなの始めてだ", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005001, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 10050014, 
+        "voiceMstId": 500112, 
+        "talk": "追いかける尻は\nひとつにしておいたほうがいいぞ", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005001, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 10050015, 
+        "voiceMstId": 500113, 
+        "talk": "なんだ？\n父さんのようなカッコイイ男になりたいか？", 
+        "background": "", 
+        "presetName": "Preset_008"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005002, 
+        "character": "ac_0005_002", 
+        "showCharaDetailMstId": 10050020, 
+        "voiceMstId": 500108, 
+        "talk": "まぁまぁ\n子供は落ちたり転んだりするものさ", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005002, 
+        "character": "ac_0005_002", 
+        "showCharaDetailMstId": 10050021, 
+        "voiceMstId": 500109, 
+        "talk": "簡単に言えば、\nクっと踏み込んでザンッ！って感じだ", 
+        "background": "", 
+        "presetName": "Preset_008"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005002, 
+        "character": "ac_0005_002", 
+        "showCharaDetailMstId": 10050022, 
+        "voiceMstId": 500110, 
+        "talk": "アドバイスしてやってもいいぞ", 
+        "background": "", 
+        "presetName": "Preset_011"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005002, 
+        "character": "ac_0005_002", 
+        "showCharaDetailMstId": 10050023, 
+        "voiceMstId": 500111, 
+        "talk": "最近魔物が活発で参るぜ\nこんなの始めてだ", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005002, 
+        "character": "ac_0005_002", 
+        "showCharaDetailMstId": 10050024, 
+        "voiceMstId": 500112, 
+        "talk": "追いかける尻は\nひとつにしておいたほうがいいぞ", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005002, 
+        "character": "ac_0005_002", 
+        "showCharaDetailMstId": 10050025, 
+        "voiceMstId": 500113, 
+        "talk": "なんだ？\n父さんのようなカッコイイ男になりたいか？", 
+        "background": "", 
+        "presetName": "Preset_008"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005006, 
+        "character": "ac_0005_006", 
+        "showCharaDetailMstId": 10050060, 
+        "voiceMstId": 500508, 
+        "talk": "上等だ！こんな家\nこっちから出て行ってやる！！", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005006, 
+        "character": "ac_0005_006", 
+        "showCharaDetailMstId": 10050061, 
+        "voiceMstId": 500509, 
+        "talk": "父様はおれに興味がない……", 
+        "background": "", 
+        "presetName": "Preset_205"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005006, 
+        "character": "ac_0005_006", 
+        "showCharaDetailMstId": 10050062, 
+        "voiceMstId": 500510, 
+        "talk": "優しいおねえさんがいいなぁ……", 
+        "background": "", 
+        "presetName": "Preset_011"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005006, 
+        "character": "ac_0005_006", 
+        "showCharaDetailMstId": 10050063, 
+        "voiceMstId": 500511, 
+        "talk": "ごめん！\nすべすべして気持ち良かったから、つい！", 
+        "background": "", 
+        "presetName": "Preset_111"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005006, 
+        "character": "ac_0005_006", 
+        "showCharaDetailMstId": 10050064, 
+        "voiceMstId": 500512, 
+        "talk": "知るか！\n好きで貴族の家に生まれたわけじゃない！", 
+        "background": "", 
+        "presetName": "Preset_204"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1005006, 
+        "character": "ac_0005_006", 
+        "showCharaDetailMstId": 10050065, 
+        "voiceMstId": 500513, 
+        "talk": "母様のこと\n俺が考えているのはそれだけだ！", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1006001, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 10060010, 
+        "voiceMstId": 600108, 
+        "talk": "これでも\n昔は名の知れた冒険者だったんだから", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1006001, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 10060011, 
+        "voiceMstId": 600109, 
+        "talk": "さて、今日は何をして\n過ごしましょうかね？", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1006001, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 10060012, 
+        "voiceMstId": 600110, 
+        "talk": "後でゆっくりと話しを\n聞かせていただきますね", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1006001, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 10060013, 
+        "voiceMstId": 600111, 
+        "talk": "聞いた？\nやっぱりウチの子は天才だったんだわ！", 
+        "background": "", 
+        "presetName": "Preset_006"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1006001, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 10060014, 
+        "voiceMstId": 600112, 
+        "talk": "なによ約束って！\nあなたいつも約束破るじゃない！", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1006001, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 10060015, 
+        "voiceMstId": 600113, 
+        "talk": "ウチの木を実験台にしないで頂戴！", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1007001, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 10070010, 
+        "voiceMstId": 700108, 
+        "talk": "少々申し上げ難いのですが……\nいえ何でもございません", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1007001, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 10070011, 
+        "voiceMstId": 700109, 
+        "talk": "おかえりなさい\nお湯の準備ができております", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1007001, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 10070012, 
+        "voiceMstId": 700110, 
+        "talk": "なりません\n立場はしっかりと弁えておかなければ", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1007001, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 10070013, 
+        "voiceMstId": 700111, 
+        "talk": "少々申し上げ難いのですが……\n何か悪い物に憑かれて……", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1007001, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 10070014, 
+        "voiceMstId": 700112, 
+        "talk": "午前は魔術を学び、\n午後から剣を学べばいいのでは？", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1007001, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 10070015, 
+        "voiceMstId": 700113, 
+        "talk": "ルーデウス様は、\n昔から変わりませんね", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1010001, 
+        "character": "ac_0010_001", 
+        "showCharaDetailMstId": 10100010, 
+        "voiceMstId": 1000108, 
+        "talk": "読め\nあたしは字が読めんから口に出してな", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1010001, 
+        "character": "ac_0010_001", 
+        "showCharaDetailMstId": 10100011, 
+        "voiceMstId": 1000109, 
+        "talk": "踏み込みの姿勢を覚えろ\n相手をよく見ろ", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1010001, 
+        "character": "ac_0010_001", 
+        "showCharaDetailMstId": 10100012, 
+        "voiceMstId": 1000110, 
+        "talk": "何かあったら呼べ\n助けてやる", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1010001, 
+        "character": "ac_0010_001", 
+        "showCharaDetailMstId": 10100013, 
+        "voiceMstId": 1000111, 
+        "talk": "それはなんの薬なのだ？\n…媚薬、だと？", 
+        "background": "", 
+        "presetName": "Preset_106"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1010001, 
+        "character": "ac_0010_001", 
+        "showCharaDetailMstId": 10100014, 
+        "voiceMstId": 1000112, 
+        "talk": "手を休めるな！\n相手はまだ諦めてないぞ！", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1010001, 
+        "character": "ac_0010_001", 
+        "showCharaDetailMstId": 10100015, 
+        "voiceMstId": 1000113, 
+        "talk": "や、いや、まて\n今からはだめだ。危険だ", 
+        "background": "", 
+        "presetName": "Preset_006"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1011001, 
+        "character": "ac_0011_001", 
+        "showCharaDetailMstId": 10110010, 
+        "voiceMstId": 1100108, 
+        "talk": "無実でなかった場合\n後日ペルギウス様が沙汰を下す", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1011001, 
+        "character": "ac_0011_001", 
+        "showCharaDetailMstId": 10110011, 
+        "voiceMstId": 1100109, 
+        "talk": "こんな場所で\n怪しいことをしているほうが悪い", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1011001, 
+        "character": "ac_0011_001", 
+        "showCharaDetailMstId": 10110012, 
+        "voiceMstId": 1100110, 
+        "talk": "その小僧を殺せば\n異変が止まるやもしれん", 
+        "background": "", 
+        "presetName": "Preset_003"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1011001, 
+        "character": "ac_0011_001", 
+        "showCharaDetailMstId": 10110013, 
+        "voiceMstId": 1100111, 
+        "talk": "我は光輝\nペルギウス様の12の使い魔の1人だ", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1011001, 
+        "character": "ac_0011_001", 
+        "showCharaDetailMstId": 10110014, 
+        "voiceMstId": 1100112, 
+        "talk": "ペルギウス様の命である！", 
+        "background": "", 
+        "presetName": "Preset_003"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1011001, 
+        "character": "ac_0011_001", 
+        "showCharaDetailMstId": 10110015, 
+        "voiceMstId": 1100113, 
+        "talk": "この異変の発生源を\n断つ為参上した", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015001, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 10150010, 
+        "voiceMstId": 1500108, 
+        "talk": "……俺を見ても怖くないのか？", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015001, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 10150011, 
+        "voiceMstId": 1500109, 
+        "talk": "安心しろ\n必ず故郷まで送り届けてやる", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015001, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 10150012, 
+        "voiceMstId": 1500110, 
+        "talk": "違う、あれは陰謀だ！\n俺達は奴に裏切られたんだ！", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015001, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 10150013, 
+        "voiceMstId": 1500111, 
+        "talk": "守るべきものがあるお前は〈戦士〉だ", 
+        "background": "", 
+        "presetName": "Preset_202"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015001, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 10150014, 
+        "voiceMstId": 1500112, 
+        "talk": "あの子供たちが心配だ\n手伝ってやろう", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015001, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 10150015, 
+        "voiceMstId": 1500113, 
+        "talk": "……俺はスペルドの戦士だ\n一度決めた事は覆さん", 
+        "background": "", 
+        "presetName": "Preset_214"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015002, 
+        "character": "ac_0015_002", 
+        "showCharaDetailMstId": 10150020, 
+        "voiceMstId": 1500108, 
+        "talk": "……俺を見ても怖くないのか？", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015002, 
+        "character": "ac_0015_002", 
+        "showCharaDetailMstId": 10150021, 
+        "voiceMstId": 1500109, 
+        "talk": "安心しろ\n必ず故郷まで送り届けてやる", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015002, 
+        "character": "ac_0015_002", 
+        "showCharaDetailMstId": 10150022, 
+        "voiceMstId": 1500110, 
+        "talk": "違う、あれは陰謀だ！\n俺達は奴に裏切られたんだ！", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015002, 
+        "character": "ac_0015_002", 
+        "showCharaDetailMstId": 10150023, 
+        "voiceMstId": 1500111, 
+        "talk": "守るべきものがあるお前は〈戦士〉だ", 
+        "background": "", 
+        "presetName": "Preset_202"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015002, 
+        "character": "ac_0015_002", 
+        "showCharaDetailMstId": 10150024, 
+        "voiceMstId": 1500112, 
+        "talk": "あの子供たちが心配だ\n手伝ってやろう", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015002, 
+        "character": "ac_0015_002", 
+        "showCharaDetailMstId": 10150025, 
+        "voiceMstId": 1500113, 
+        "talk": "……俺はスペルドの戦士だ\n一度決めた事は覆さん", 
+        "background": "", 
+        "presetName": "Preset_214"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015004, 
+        "character": "ac_0015_004", 
+        "showCharaDetailMstId": 10150040, 
+        "voiceMstId": 1500108, 
+        "talk": "……俺を見ても怖くないのか？", 
+        "background": "", 
+        "presetName": "Preset_005"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015004, 
+        "character": "ac_0015_004", 
+        "showCharaDetailMstId": 10150041, 
+        "voiceMstId": 1500109, 
+        "talk": "安心しろ\n必ず故郷まで送り届けてやる", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015004, 
+        "character": "ac_0015_004", 
+        "showCharaDetailMstId": 10150042, 
+        "voiceMstId": 1500110, 
+        "talk": "違う、あれは陰謀だ！\n俺達は奴に裏切られたんだ！", 
+        "background": "", 
+        "presetName": "Preset_104"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015004, 
+        "character": "ac_0015_004", 
+        "showCharaDetailMstId": 10150043, 
+        "voiceMstId": 1500111, 
+        "talk": "守るべきものがあるお前は〈戦士〉だ", 
+        "background": "", 
+        "presetName": "Preset_202"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015004, 
+        "character": "ac_0015_004", 
+        "showCharaDetailMstId": 10150044, 
+        "voiceMstId": 1500112, 
+        "talk": "あの子供たちが心配だ\n手伝ってやろう", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1015004, 
+        "character": "ac_0015_004", 
+        "showCharaDetailMstId": 10150045, 
+        "voiceMstId": 1500113, 
+        "talk": "……俺はスペルドの戦士だ\n一度決めた事は覆さん", 
+        "background": "", 
+        "presetName": "Preset_214"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1016001, 
+        "character": "ac_0016_001", 
+        "showCharaDetailMstId": 10160010, 
+        "voiceMstId": 1600108, 
+        "talk": "あらあら\nわたくしがベッドで聞いてみましょうか？", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1016001, 
+        "character": "ac_0016_001", 
+        "showCharaDetailMstId": 10160011, 
+        "voiceMstId": 1600109, 
+        "talk": "あら\n見られるから余計に興奮するんですのよ？", 
+        "background": "", 
+        "presetName": "Preset_201"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1016001, 
+        "character": "ac_0016_001", 
+        "showCharaDetailMstId": 10160012, 
+        "voiceMstId": 1600110, 
+        "talk": "仕方ないですわ\n熱烈なお誘いを受けたんですもの", 
+        "background": "", 
+        "presetName": "Preset_109"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1016001, 
+        "character": "ac_0016_001", 
+        "showCharaDetailMstId": 10160013, 
+        "voiceMstId": 1600111, 
+        "talk": "クズですわ\nあの男の話はしたくありませんの", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1016001, 
+        "character": "ac_0016_001", 
+        "showCharaDetailMstId": 10160014, 
+        "voiceMstId": 1600112, 
+        "talk": "まったく\n船ぐらいで情けないですわね", 
+        "background": "", 
+        "presetName": "Preset_108"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1016001, 
+        "character": "ac_0016_001", 
+        "showCharaDetailMstId": 10160015, 
+        "voiceMstId": 1600113, 
+        "talk": "ふふっおこちゃまですわね\nそのうちわかりますわ。", 
+        "background": "", 
+        "presetName": "Preset_202"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1017001, 
+        "character": "ac_0017_001", 
+        "showCharaDetailMstId": 10170010, 
+        "voiceMstId": 1700108, 
+        "talk": "引退したとはいえ\n元Ｓ級冒険者じゃからな", 
+        "background": "", 
+        "presetName": "Preset_102"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1017001, 
+        "character": "ac_0017_001", 
+        "showCharaDetailMstId": 10170011, 
+        "voiceMstId": 1700109, 
+        "talk": "もっとゆっくりしていても\n儂はかまわんぞ", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1017001, 
+        "character": "ac_0017_001", 
+        "showCharaDetailMstId": 10170012, 
+        "voiceMstId": 1700110, 
+        "talk": "なかなか……やるのう\nじゃが無理は行かんぞ", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1017001, 
+        "character": "ac_0017_001", 
+        "showCharaDetailMstId": 10170013, 
+        "voiceMstId": 1700111, 
+        "talk": "そこまで節操無しじゃと\n逆に清々しいわい", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1017001, 
+        "character": "ac_0017_001", 
+        "showCharaDetailMstId": 10170014, 
+        "voiceMstId": 1700112, 
+        "talk": "そうじゃな\n悪党に目をつけられてはかなわん", 
+        "background": "", 
+        "presetName": "Preset_105"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1017001, 
+        "character": "ac_0017_001", 
+        "showCharaDetailMstId": 10170015, 
+        "voiceMstId": 1700113, 
+        "talk": "お、おお……\nこれはよい酒じゃな。", 
+        "background": "", 
+        "presetName": "Preset_202"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1018001, 
+        "character": "ac_0018_001", 
+        "showCharaDetailMstId": 10180010, 
+        "voiceMstId": 1800108, 
+        "talk": "おいおい\nアドバイスしてやろうってんじゃねえか", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1018001, 
+        "character": "ac_0018_001", 
+        "showCharaDetailMstId": 10180011, 
+        "voiceMstId": 1800109, 
+        "talk": "助けてくれ！\nおれには腹をすかせたガキがいるんだ！", 
+        "background": "", 
+        "presetName": "Preset_205"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1018001, 
+        "character": "ac_0018_001", 
+        "showCharaDetailMstId": 10180012, 
+        "voiceMstId": 1800110, 
+        "talk": "冒険者の厳しさってやつを\n教えてやっているだけだ", 
+        "background": "", 
+        "presetName": "Preset_103"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1018001, 
+        "character": "ac_0018_001", 
+        "showCharaDetailMstId": 10180013, 
+        "voiceMstId": 1800111, 
+        "talk": "カネだよカネ\n稼ぎの半分俺んところに持ってこい", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1018001, 
+        "character": "ac_0018_001", 
+        "showCharaDetailMstId": 10180014, 
+        "voiceMstId": 1800112, 
+        "talk": "生意気なガキだった\nそいつに殺されかけたんだぜ", 
+        "background": "", 
+        "presetName": "Preset_003"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 1018001, 
+        "character": "ac_0018_001", 
+        "showCharaDetailMstId": 10180015, 
+        "voiceMstId": 1800113, 
+        "talk": "ギルドにタレ込んだら、\n資格剥奪だろうなあ……ククク", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000001, 
+        "character": "ac_0001_001", 
+        "showCharaDetailMstId": 20000010, 
+        "voiceMstId": 100107, 
+        "talk": "これはプレゼントです！\n受け取ってください！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000002, 
+        "character": "ac_0001_002", 
+        "showCharaDetailMstId": 20000020, 
+        "voiceMstId": 100207, 
+        "talk": "僕からのプレゼントです\n大事に使ってください", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000003, 
+        "character": "ac_0001_003", 
+        "showCharaDetailMstId": 20000030, 
+        "voiceMstId": 100307, 
+        "talk": "僕からのステキなプレゼントです\n大切に使ってくださいね", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000004, 
+        "character": "ac_0002_001", 
+        "showCharaDetailMstId": 20000040, 
+        "voiceMstId": 200107, 
+        "talk": "それでは\n今日も一日頑張っていきましょう", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000005, 
+        "character": "ac_0002_002", 
+        "showCharaDetailMstId": 20000050, 
+        "voiceMstId": 200107, 
+        "talk": "それでは\n今日も一日頑張っていきましょう", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000006, 
+        "character": "ac_0003_001", 
+        "showCharaDetailMstId": 20000060, 
+        "voiceMstId": 300107, 
+        "talk": "こんにちわー\n今日は何して遊ぼっか？", 
+        "background": "", 
+        "presetName": "Preset_003"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000008, 
+        "character": "ac_0004_001", 
+        "showCharaDetailMstId": 20000080, 
+        "voiceMstId": 400107, 
+        "talk": "フン！なに！？\n私に文句があるわけ！？", 
+        "background": "", 
+        "presetName": "Preset_004"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000009, 
+        "character": "ac_0004_002", 
+        "showCharaDetailMstId": 20000090, 
+        "voiceMstId": 400307, 
+        "talk": "来たわね！\nさあ、早く冒険にいきましょ！", 
+        "background": "", 
+        "presetName": "Preset_003"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000010, 
+        "character": "ac_0004_003", 
+        "showCharaDetailMstId": 20000100, 
+        "voiceMstId": 400307, 
+        "talk": "来たわね！\nさあ、早く冒険にいきましょ！", 
+        "background": "", 
+        "presetName": "Preset_003"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000011, 
+        "character": "ac_0005_001", 
+        "showCharaDetailMstId": 20000110, 
+        "voiceMstId": 500107, 
+        "talk": "よく来たな！\n今日も庭で訓練しようぜ！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000012, 
+        "character": "ac_0005_002", 
+        "showCharaDetailMstId": 20000120, 
+        "voiceMstId": 500107, 
+        "talk": "よく来たな！\n今日も庭で訓練しようぜ！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000014, 
+        "character": "ac_0006_001", 
+        "showCharaDetailMstId": 20000140, 
+        "voiceMstId": 600107, 
+        "talk": "こんちには\n楽しみに待っていたわ！", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000015, 
+        "character": "ac_0007_001", 
+        "showCharaDetailMstId": 20000150, 
+        "voiceMstId": 700107, 
+        "talk": "おかえりなさいませ\n些細なものですがこれを", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000018, 
+        "character": "ac_0010_001", 
+        "showCharaDetailMstId": 20000180, 
+        "voiceMstId": 1000107, 
+        "talk": "すまんが\nあとは自分で何とかしろ", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000019, 
+        "character": "ac_0011_001", 
+        "showCharaDetailMstId": 20000190, 
+        "voiceMstId": 1100107, 
+        "talk": "くぅ……\nペルギウス様以外を出迎える日が来るとは……", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000020, 
+        "character": "ac_0015_001", 
+        "showCharaDetailMstId": 20000200, 
+        "voiceMstId": 1500107, 
+        "talk": "待たせたな。安心しろ\nお前たちは俺が守る", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000021, 
+        "character": "ac_0016_001", 
+        "showCharaDetailMstId": 20000210, 
+        "voiceMstId": 1600107, 
+        "talk": "あら帰ってきたんですの？\nあなたも……交ざります？", 
+        "background": "", 
+        "presetName": "Preset_101"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000022, 
+        "character": "ac_0017_001", 
+        "showCharaDetailMstId": 20000220, 
+        "voiceMstId": 1700107, 
+        "talk": "なんじゃ？\nこれくらいしか渡せんわい", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000023, 
+        "character": "ac_0018_001", 
+        "showCharaDetailMstId": 20000230, 
+        "voiceMstId": 1800107, 
+        "talk": "ほら、これはどうだ？\n新人にはでかい顔したいからな", 
+        "background": "", 
+        "presetName": "Preset_001"
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "showCode": 2000024, 
+        "character": "ac_0005_006", 
+        "showCharaDetailMstId": 20000240, 
+        "voiceMstId": 500507, 
+        "talk": "探したよ！\nキミさえよければ一緒に過ごせないかな……", 
+        "background": "", 
+        "presetName": "Preset_002"
+    }
+]

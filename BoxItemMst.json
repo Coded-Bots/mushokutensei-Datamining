@@ -1,0 +1,227 @@
+[
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5000, 
+        "boxItemMstId": 1, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5001, 
+        "boxItemMstId": 2, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5002, 
+        "boxItemMstId": 3, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5010, 
+        "boxItemMstId": 4, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5011, 
+        "boxItemMstId": 5, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5012, 
+        "boxItemMstId": 6, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5020, 
+        "boxItemMstId": 7, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5021, 
+        "boxItemMstId": 8, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5022, 
+        "boxItemMstId": 9, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5030, 
+        "boxItemMstId": 10, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5031, 
+        "boxItemMstId": 11, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5032, 
+        "boxItemMstId": 12, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5060, 
+        "boxItemMstId": 19, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5061, 
+        "boxItemMstId": 20, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5062, 
+        "boxItemMstId": 21, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5070, 
+        "boxItemMstId": 22, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5071, 
+        "boxItemMstId": 23, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5072, 
+        "boxItemMstId": 24, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5080, 
+        "boxItemMstId": 25, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5081, 
+        "boxItemMstId": 26, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5082, 
+        "boxItemMstId": 27, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5090, 
+        "boxItemMstId": 28, 
+        "num": 10, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5091, 
+        "boxItemMstId": 29, 
+        "num": 5, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5092, 
+        "boxItemMstId": 30, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "valid": 1, 
+        "objectId": 5102, 
+        "boxItemMstId": 33, 
+        "num": 1, 
+        "boxMstId": 1, 
+        "presentType": "item"
+    }
+]

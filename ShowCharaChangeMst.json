@@ -1,0 +1,274 @@
+[
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 1000031, 
+        "showCode": 100, 
+        "sceneCodeId": 1, 
+        "progress": 1, 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 1000060, 
+        "showCode": 101, 
+        "sceneCodeId": 1, 
+        "progress": 2, 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 1001041, 
+        "showCode": 102, 
+        "sceneCodeId": 1, 
+        "progress": 3, 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 103, 
+        "sceneCodeId": 1, 
+        "progress": 4, 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 200, 
+        "sceneCodeId": 2, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20200, 
+        "sceneCodeId": 202, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20201, 
+        "sceneCodeId": 212, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20300, 
+        "sceneCodeId": 203, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20301, 
+        "sceneCodeId": 213, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20400, 
+        "sceneCodeId": 204, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20401, 
+        "sceneCodeId": 214, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20500, 
+        "sceneCodeId": 205, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 20501, 
+        "sceneCodeId": 215, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 300, 
+        "sceneCodeId": 3, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 30200, 
+        "sceneCodeId": 302, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 30300, 
+        "sceneCodeId": 303, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 30400, 
+        "sceneCodeId": 304, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 30500, 
+        "sceneCodeId": 305, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 30600, 
+        "sceneCodeId": 306, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 400, 
+        "sceneCodeId": 4, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 40200, 
+        "sceneCodeId": 402, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 40300, 
+        "sceneCodeId": 403, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 40400, 
+        "sceneCodeId": 404, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 40500, 
+        "sceneCodeId": 405, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 500, 
+        "sceneCodeId": 5, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 10200, 
+        "sceneCodeId": 102, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 10600, 
+        "sceneCodeId": 106, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 600, 
+        "sceneCodeId": 6, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 10800, 
+        "sceneCodeId": 108, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 700, 
+        "sceneCodeId": 7, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 800, 
+        "sceneCodeId": 8, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 1000, 
+        "sceneCodeId": 10, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 1100, 
+        "sceneCodeId": 11, 
+        "progress": 1, 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691484, 
+        "questSceneMstId": 99999999, 
+        "showCode": 50100, 
+        "sceneCodeId": 501, 
+        "progress": 1, 
+        "type": 2
+    }
+]

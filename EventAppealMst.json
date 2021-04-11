@@ -1,0 +1,17 @@
+[
+    {
+        "updatedTime": 1617691480, 
+        "nextScenePath": "transition://Home", 
+        "objectId": 0, 
+        "questMstId": 1, 
+        "fileType": "movie", 
+        "filePath": "Asset/Movie/News/campaign-1.usm", 
+        "eventAppealMstId": 2, 
+        "closeTime": 1618498799, 
+        "appealType": "event", 
+        "valid": 1, 
+        "startTime": 1617202800, 
+        "movieShortTitle": "魔力", 
+        "movieTitle": "魔力"
+    }
+]

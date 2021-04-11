@@ -1,0 +1,2146 @@
+[
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1001, 
+        "musicSkillMstId": 10010, 
+        "skillType": 0, 
+        "note": "ルーデウスの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1001, 
+        "musicSkillMstId": 10011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1002, 
+        "musicSkillMstId": 10020, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの火傷耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1002, 
+        "musicSkillMstId": 10021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1003, 
+        "musicSkillMstId": 10030, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの麻痺耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1003, 
+        "musicSkillMstId": 10031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1004, 
+        "musicSkillMstId": 10040, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの睡眠耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1004, 
+        "musicSkillMstId": 10041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1005, 
+        "musicSkillMstId": 10050, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの魔術攻撃の会心倍率を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1005, 
+        "musicSkillMstId": 10051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1006, 
+        "musicSkillMstId": 10060, 
+        "skillType": 0, 
+        "note": "剣神属性のルーデウスの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1006, 
+        "musicSkillMstId": 10061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1007, 
+        "musicSkillMstId": 10070, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの憤怒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1007, 
+        "musicSkillMstId": 10071, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1008, 
+        "musicSkillMstId": 10080, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの通常攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1008, 
+        "musicSkillMstId": 10081, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1010, 
+        "musicSkillMstId": 10100, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの魔術与ダメージを％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1010, 
+        "musicSkillMstId": 10101, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1011, 
+        "musicSkillMstId": 10110, 
+        "skillType": 0, 
+        "note": "土属性のルーデウスの魅了耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1011, 
+        "musicSkillMstId": 10111, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1012, 
+        "musicSkillMstId": 10120, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1012, 
+        "musicSkillMstId": 10121, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1013, 
+        "musicSkillMstId": 10130, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1013, 
+        "musicSkillMstId": 10131, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1014, 
+        "musicSkillMstId": 10140, 
+        "skillType": 0, 
+        "note": "剣神属性のルーデウスの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1014, 
+        "musicSkillMstId": 10141, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1015, 
+        "musicSkillMstId": 10150, 
+        "skillType": 0, 
+        "note": "火属性のルーデウスの憤怒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1015, 
+        "musicSkillMstId": 10151, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1016, 
+        "musicSkillMstId": 10160, 
+        "skillType": 0, 
+        "note": "火属性のルーデウスの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1016, 
+        "musicSkillMstId": 10161, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1017, 
+        "musicSkillMstId": 10170, 
+        "skillType": 0, 
+        "note": "火属性のルーデウスの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1017, 
+        "musicSkillMstId": 10171, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1018, 
+        "musicSkillMstId": 10180, 
+        "skillType": 0, 
+        "note": "水属性のルーデウスの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1018, 
+        "musicSkillMstId": 10181, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1019, 
+        "musicSkillMstId": 10190, 
+        "skillType": 0, 
+        "note": "火属性のルーデウスの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1019, 
+        "musicSkillMstId": 10191, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1020, 
+        "musicSkillMstId": 10200, 
+        "skillType": 0, 
+        "note": "ルーデウスの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1020, 
+        "musicSkillMstId": 10201, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1021, 
+        "musicSkillMstId": 10210, 
+        "skillType": 0, 
+        "note": "風属性のルーデウスの恐怖耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1021, 
+        "musicSkillMstId": 10211, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1022, 
+        "musicSkillMstId": 10220, 
+        "skillType": 0, 
+        "note": "風属性のルーデウスの毒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1022, 
+        "musicSkillMstId": 10221, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1023, 
+        "musicSkillMstId": 10230, 
+        "skillType": 0, 
+        "note": "土属性のルーデウスの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1023, 
+        "musicSkillMstId": 10231, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1024, 
+        "musicSkillMstId": 10240, 
+        "skillType": 0, 
+        "note": "土属性のルーデウスの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1024, 
+        "musicSkillMstId": 10241, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1025, 
+        "musicSkillMstId": 10250, 
+        "skillType": 0, 
+        "note": "風属性のルーデウスの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1025, 
+        "musicSkillMstId": 10251, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1026, 
+        "musicSkillMstId": 10260, 
+        "skillType": 0, 
+        "note": "土属性のルーデウスの暗闇耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1026, 
+        "musicSkillMstId": 10261, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1028, 
+        "musicSkillMstId": 10280, 
+        "skillType": 0, 
+        "note": "土属性のルーデウスの恐怖耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1028, 
+        "musicSkillMstId": 10281, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1029, 
+        "musicSkillMstId": 10290, 
+        "skillType": 0, 
+        "note": "風属性のルーデウスの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1029, 
+        "musicSkillMstId": 10291, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1030, 
+        "musicSkillMstId": 10300, 
+        "skillType": 0, 
+        "note": "土属性のルーデウスの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1030, 
+        "musicSkillMstId": 10301, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1031, 
+        "musicSkillMstId": 10310, 
+        "skillType": 0, 
+        "note": "土属性のルーデウスの憤怒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1031, 
+        "musicSkillMstId": 10311, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1032, 
+        "musicSkillMstId": 10320, 
+        "skillType": 0, 
+        "note": "風属性のルーデウスの憤怒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1032, 
+        "musicSkillMstId": 10321, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1033, 
+        "musicSkillMstId": 10330, 
+        "skillType": 0, 
+        "note": "ルーデウスの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 1033, 
+        "musicSkillMstId": 10331, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2001, 
+        "musicSkillMstId": 20010, 
+        "skillType": 0, 
+        "note": "ロキシーの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2001, 
+        "musicSkillMstId": 20011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2002, 
+        "musicSkillMstId": 20020, 
+        "skillType": 0, 
+        "note": "水属性のロキシーの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2002, 
+        "musicSkillMstId": 20021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2003, 
+        "musicSkillMstId": 20030, 
+        "skillType": 0, 
+        "note": "水属性のロキシーの毒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2003, 
+        "musicSkillMstId": 20031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2004, 
+        "musicSkillMstId": 20040, 
+        "skillType": 0, 
+        "note": "風属性のロキシーの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2004, 
+        "musicSkillMstId": 20041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2005, 
+        "musicSkillMstId": 20050, 
+        "skillType": 0, 
+        "note": "火属性のロキシーの魔術攻撃力を％f％UP", 
+        "type": 3
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2005, 
+        "musicSkillMstId": 20051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2006, 
+        "musicSkillMstId": 20060, 
+        "skillType": 0, 
+        "note": "火属性のロキシーの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2006, 
+        "musicSkillMstId": 20061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2007, 
+        "musicSkillMstId": 20070, 
+        "skillType": 0, 
+        "note": "ロキシーの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 2007, 
+        "musicSkillMstId": 20071, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3001, 
+        "musicSkillMstId": 30010, 
+        "skillType": 0, 
+        "note": "シルフィエットの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3001, 
+        "musicSkillMstId": 30011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3002, 
+        "musicSkillMstId": 30020, 
+        "skillType": 0, 
+        "note": "土属性のシルフィエットの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3002, 
+        "musicSkillMstId": 30021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3003, 
+        "musicSkillMstId": 30030, 
+        "skillType": 0, 
+        "note": "土属性のシルフィエットの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3003, 
+        "musicSkillMstId": 30031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3004, 
+        "musicSkillMstId": 30040, 
+        "skillType": 0, 
+        "note": "水属性のシルフィエットの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3004, 
+        "musicSkillMstId": 30041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3005, 
+        "musicSkillMstId": 30050, 
+        "skillType": 0, 
+        "note": "水属性のシルフィエットの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3005, 
+        "musicSkillMstId": 30051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3006, 
+        "musicSkillMstId": 30060, 
+        "skillType": 0, 
+        "note": "土属性のシルフィエットの魅了耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3006, 
+        "musicSkillMstId": 30061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3007, 
+        "musicSkillMstId": 30070, 
+        "skillType": 0, 
+        "note": "風属性のシルフィエットの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3007, 
+        "musicSkillMstId": 30071, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3008, 
+        "musicSkillMstId": 30080, 
+        "skillType": 0, 
+        "note": "風属性のシルフィエットの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3008, 
+        "musicSkillMstId": 30081, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3009, 
+        "musicSkillMstId": 30090, 
+        "skillType": 0, 
+        "note": "シルフィエットの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 3009, 
+        "musicSkillMstId": 30091, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4001, 
+        "musicSkillMstId": 40010, 
+        "skillType": 0, 
+        "note": "エリスの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4001, 
+        "musicSkillMstId": 40011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4002, 
+        "musicSkillMstId": 40020, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの剣術与ダメージを％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4002, 
+        "musicSkillMstId": 40021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4003, 
+        "musicSkillMstId": 40030, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの剣術攻撃の会心倍率を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4003, 
+        "musicSkillMstId": 40031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4004, 
+        "musicSkillMstId": 40040, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの毒付与確率を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4004, 
+        "musicSkillMstId": 40041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4005, 
+        "musicSkillMstId": 40050, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの睡眠耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4005, 
+        "musicSkillMstId": 40051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4006, 
+        "musicSkillMstId": 40060, 
+        "skillType": 0, 
+        "note": "北神属性のエリスの剣術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4006, 
+        "musicSkillMstId": 40061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4007, 
+        "musicSkillMstId": 40070, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4007, 
+        "musicSkillMstId": 40071, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4008, 
+        "musicSkillMstId": 40080, 
+        "skillType": 0, 
+        "note": "火属性のエリスの麻痺耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4008, 
+        "musicSkillMstId": 40081, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4009, 
+        "musicSkillMstId": 40090, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの通常攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4009, 
+        "musicSkillMstId": 40091, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4010, 
+        "musicSkillMstId": 40100, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの剣術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4010, 
+        "musicSkillMstId": 40101, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4011, 
+        "musicSkillMstId": 40110, 
+        "skillType": 0, 
+        "note": "我流属性のエリスの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4011, 
+        "musicSkillMstId": 40111, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4012, 
+        "musicSkillMstId": 40120, 
+        "skillType": 0, 
+        "note": "我流属性のエリスの魅了耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4012, 
+        "musicSkillMstId": 40121, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4013, 
+        "musicSkillMstId": 40130, 
+        "skillType": 0, 
+        "note": "我流属性のエリスの恐怖耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4013, 
+        "musicSkillMstId": 40131, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4014, 
+        "musicSkillMstId": 40140, 
+        "skillType": 0, 
+        "note": "我流属性のエリスの通常攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4014, 
+        "musicSkillMstId": 40141, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4015, 
+        "musicSkillMstId": 40150, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの魅了耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4015, 
+        "musicSkillMstId": 40151, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4016, 
+        "musicSkillMstId": 40160, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの麻痺耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4016, 
+        "musicSkillMstId": 40161, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4017, 
+        "musicSkillMstId": 40170, 
+        "skillType": 0, 
+        "note": "我流属性のエリスの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4017, 
+        "musicSkillMstId": 40171, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4018, 
+        "musicSkillMstId": 40180, 
+        "skillType": 0, 
+        "note": "北神属性のエリスの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4018, 
+        "musicSkillMstId": 40181, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4019, 
+        "musicSkillMstId": 40190, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4019, 
+        "musicSkillMstId": 40191, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4020, 
+        "musicSkillMstId": 40200, 
+        "skillType": 0, 
+        "note": "火属性のエリスの魅了耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4020, 
+        "musicSkillMstId": 40201, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4021, 
+        "musicSkillMstId": 40210, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4021, 
+        "musicSkillMstId": 40211, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4022, 
+        "musicSkillMstId": 40220, 
+        "skillType": 0, 
+        "note": "エリスの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4022, 
+        "musicSkillMstId": 40221, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4023, 
+        "musicSkillMstId": 40230, 
+        "skillType": 0, 
+        "note": "我流属性のエリスの毒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4023, 
+        "musicSkillMstId": 40231, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4024, 
+        "musicSkillMstId": 40240, 
+        "skillType": 0, 
+        "note": "剣神属性のエリスの毒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4024, 
+        "musicSkillMstId": 40241, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4026, 
+        "musicSkillMstId": 40260, 
+        "skillType": 0, 
+        "note": "我流属性のエリスの剣術与ダメージを％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 4026, 
+        "musicSkillMstId": 40261, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5001, 
+        "musicSkillMstId": 50010, 
+        "skillType": 0, 
+        "note": "パウロの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5001, 
+        "musicSkillMstId": 50011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5002, 
+        "musicSkillMstId": 50020, 
+        "skillType": 0, 
+        "note": "剣神属性のパウロの剣術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5002, 
+        "musicSkillMstId": 50021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5003, 
+        "musicSkillMstId": 50030, 
+        "skillType": 0, 
+        "note": "剣神属性のパウロの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5003, 
+        "musicSkillMstId": 50031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5004, 
+        "musicSkillMstId": 50040, 
+        "skillType": 0, 
+        "note": "水神属性のパウロの剣術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5004, 
+        "musicSkillMstId": 50041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5005, 
+        "musicSkillMstId": 50050, 
+        "skillType": 0, 
+        "note": "水神属性のパウロの魅了耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5005, 
+        "musicSkillMstId": 50051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5006, 
+        "musicSkillMstId": 50060, 
+        "skillType": 0, 
+        "note": "水神属性のパウロの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5006, 
+        "musicSkillMstId": 50061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5007, 
+        "musicSkillMstId": 50070, 
+        "skillType": 0, 
+        "note": "水神属性のパウロの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5007, 
+        "musicSkillMstId": 50071, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5008, 
+        "musicSkillMstId": 50080, 
+        "skillType": 0, 
+        "note": "剣神属性のパウロの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5008, 
+        "musicSkillMstId": 50081, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5009, 
+        "musicSkillMstId": 50090, 
+        "skillType": 0, 
+        "note": "パウロの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 5009, 
+        "musicSkillMstId": 50091, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6001, 
+        "musicSkillMstId": 60010, 
+        "skillType": 0, 
+        "note": "ゼニスの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6001, 
+        "musicSkillMstId": 60011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6002, 
+        "musicSkillMstId": 60020, 
+        "skillType": 0, 
+        "note": "風属性のゼニスの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6002, 
+        "musicSkillMstId": 60021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6003, 
+        "musicSkillMstId": 60030, 
+        "skillType": 0, 
+        "note": "風属性のゼニスの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6003, 
+        "musicSkillMstId": 60031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6004, 
+        "musicSkillMstId": 60040, 
+        "skillType": 0, 
+        "note": "風属性のゼニスの麻痺耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6004, 
+        "musicSkillMstId": 60041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6005, 
+        "musicSkillMstId": 60050, 
+        "skillType": 0, 
+        "note": "ゼニスの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 6005, 
+        "musicSkillMstId": 60051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7001, 
+        "musicSkillMstId": 70010, 
+        "skillType": 0, 
+        "note": "リーリャの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7001, 
+        "musicSkillMstId": 70011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7002, 
+        "musicSkillMstId": 70020, 
+        "skillType": 0, 
+        "note": "火属性のリーリャの挑発耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7002, 
+        "musicSkillMstId": 70021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7003, 
+        "musicSkillMstId": 70030, 
+        "skillType": 0, 
+        "note": "火属性のリーリャの恐怖耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7003, 
+        "musicSkillMstId": 70031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7004, 
+        "musicSkillMstId": 70040, 
+        "skillType": 0, 
+        "note": "水神属性のリーリャの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7004, 
+        "musicSkillMstId": 70041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7005, 
+        "musicSkillMstId": 70050, 
+        "skillType": 0, 
+        "note": "水神属性のリーリャの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7005, 
+        "musicSkillMstId": 70051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7006, 
+        "musicSkillMstId": 70060, 
+        "skillType": 0, 
+        "note": "火属性のリーリャの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7006, 
+        "musicSkillMstId": 70061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7007, 
+        "musicSkillMstId": 70070, 
+        "skillType": 0, 
+        "note": "リーリャの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 7007, 
+        "musicSkillMstId": 70071, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10001, 
+        "musicSkillMstId": 100010, 
+        "skillType": 0, 
+        "note": "ギレーヌの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10001, 
+        "musicSkillMstId": 100011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10002, 
+        "musicSkillMstId": 100020, 
+        "skillType": 0, 
+        "note": "剣神属性のギレーヌの暗闇耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10002, 
+        "musicSkillMstId": 100021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10003, 
+        "musicSkillMstId": 100030, 
+        "skillType": 0, 
+        "note": "剣神属性のギレーヌの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10003, 
+        "musicSkillMstId": 100031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10004, 
+        "musicSkillMstId": 100040, 
+        "skillType": 0, 
+        "note": "火属性のギレーヌの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10004, 
+        "musicSkillMstId": 100041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10005, 
+        "musicSkillMstId": 100050, 
+        "skillType": 0, 
+        "note": "火属性のギレーヌの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10005, 
+        "musicSkillMstId": 100051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10006, 
+        "musicSkillMstId": 100060, 
+        "skillType": 0, 
+        "note": "剣神属性のギレーヌの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10006, 
+        "musicSkillMstId": 100061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10007, 
+        "musicSkillMstId": 100070, 
+        "skillType": 0, 
+        "note": "剣神属性のギレーヌの挑発耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10007, 
+        "musicSkillMstId": 100071, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10008, 
+        "musicSkillMstId": 100080, 
+        "skillType": 0, 
+        "note": "剣神属性のギレーヌの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10008, 
+        "musicSkillMstId": 100081, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10009, 
+        "musicSkillMstId": 100090, 
+        "skillType": 0, 
+        "note": "ギレーヌの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 10009, 
+        "musicSkillMstId": 100091, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11001, 
+        "musicSkillMstId": 110010, 
+        "skillType": 0, 
+        "note": "アルマンフィの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11001, 
+        "musicSkillMstId": 110011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11002, 
+        "musicSkillMstId": 110020, 
+        "skillType": 0, 
+        "note": "風属性のアルマンフィの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11002, 
+        "musicSkillMstId": 110021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11003, 
+        "musicSkillMstId": 110030, 
+        "skillType": 0, 
+        "note": "風属性のアルマンフィの魔術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11003, 
+        "musicSkillMstId": 110031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11004, 
+        "musicSkillMstId": 110040, 
+        "skillType": 0, 
+        "note": "風属性のアルマンフィの剣術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11004, 
+        "musicSkillMstId": 110041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11005, 
+        "musicSkillMstId": 110050, 
+        "skillType": 0, 
+        "note": "風属性のアルマンフィの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 11005, 
+        "musicSkillMstId": 110051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15001, 
+        "musicSkillMstId": 150010, 
+        "skillType": 0, 
+        "note": "ルイジェルドの攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15001, 
+        "musicSkillMstId": 150011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15002, 
+        "musicSkillMstId": 150020, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15002, 
+        "musicSkillMstId": 150021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15003, 
+        "musicSkillMstId": 150030, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの剣術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15003, 
+        "musicSkillMstId": 150031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15004, 
+        "musicSkillMstId": 150040, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの憤怒耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15004, 
+        "musicSkillMstId": 150041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15005, 
+        "musicSkillMstId": 150050, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの体力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15005, 
+        "musicSkillMstId": 150051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15006, 
+        "musicSkillMstId": 150060, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの恐怖耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15006, 
+        "musicSkillMstId": 150061, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15008, 
+        "musicSkillMstId": 150080, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15008, 
+        "musicSkillMstId": 150081, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15009, 
+        "musicSkillMstId": 150090, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15009, 
+        "musicSkillMstId": 150091, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15010, 
+        "musicSkillMstId": 150100, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの暗闇耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15010, 
+        "musicSkillMstId": 150101, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15011, 
+        "musicSkillMstId": 150110, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15011, 
+        "musicSkillMstId": 150111, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15012, 
+        "musicSkillMstId": 150120, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの挑発耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15012, 
+        "musicSkillMstId": 150121, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15013, 
+        "musicSkillMstId": 150130, 
+        "skillType": 0, 
+        "note": "我流属性のルイジェルドの通常攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 15013, 
+        "musicSkillMstId": 150131, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16001, 
+        "musicSkillMstId": 160010, 
+        "skillType": 0, 
+        "note": "エリナリーゼの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16001, 
+        "musicSkillMstId": 160011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16002, 
+        "musicSkillMstId": 160020, 
+        "skillType": 0, 
+        "note": "水神属性のエリナリーゼの魅了耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16002, 
+        "musicSkillMstId": 160021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16003, 
+        "musicSkillMstId": 160030, 
+        "skillType": 0, 
+        "note": "水神属性のエリナリーゼの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16003, 
+        "musicSkillMstId": 160031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16004, 
+        "musicSkillMstId": 160040, 
+        "skillType": 0, 
+        "note": "水神属性のエリナリーゼの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16004, 
+        "musicSkillMstId": 160041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16005, 
+        "musicSkillMstId": 160050, 
+        "skillType": 0, 
+        "note": "我流属性のエリナリーゼの挑発耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 16005, 
+        "musicSkillMstId": 160051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17001, 
+        "musicSkillMstId": 170010, 
+        "skillType": 0, 
+        "note": "タルハンドの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17001, 
+        "musicSkillMstId": 170011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17002, 
+        "musicSkillMstId": 170020, 
+        "skillType": 0, 
+        "note": "火属性のタルハンドの気絶耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17002, 
+        "musicSkillMstId": 170021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17003, 
+        "musicSkillMstId": 170030, 
+        "skillType": 0, 
+        "note": "我流属性のタルハンドの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17003, 
+        "musicSkillMstId": 170031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17004, 
+        "musicSkillMstId": 170040, 
+        "skillType": 0, 
+        "note": "火属性のタルハンドの睡眠耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17004, 
+        "musicSkillMstId": 170041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17005, 
+        "musicSkillMstId": 170050, 
+        "skillType": 0, 
+        "note": "火属性のタルハンドの魔術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 17005, 
+        "musicSkillMstId": 170051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18001, 
+        "musicSkillMstId": 180010, 
+        "skillType": 0, 
+        "note": "ノコパラの防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18001, 
+        "musicSkillMstId": 180011, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18002, 
+        "musicSkillMstId": 180020, 
+        "skillType": 0, 
+        "note": "北神属性のノコパラの挑発耐性を％f％UP", 
+        "type": 2
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18002, 
+        "musicSkillMstId": 180021, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18003, 
+        "musicSkillMstId": 180030, 
+        "skillType": 0, 
+        "note": "北神属性のノコパラの剣術攻撃力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18003, 
+        "musicSkillMstId": 180031, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18004, 
+        "musicSkillMstId": 180040, 
+        "skillType": 0, 
+        "note": "北神属性のノコパラの剣術防御力を％f％UP", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18004, 
+        "musicSkillMstId": 180041, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18005, 
+        "musicSkillMstId": 180050, 
+        "skillType": 0, 
+        "note": "我流属性のノコパラの剣術防御力を％f％UP", 
+        "type": 7
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "musicMstId": 18005, 
+        "musicSkillMstId": 180051, 
+        "skillType": 1, 
+        "note": "与ダメージを50%UP(2T)", 
+        "type": 1
+    }
+]

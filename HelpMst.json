@@ -1,0 +1,387 @@
+[
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 10, 
+        "middleTitle": "キャラクター", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 20, 
+        "middleTitle": "魔道具", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 30, 
+        "middleTitle": "強化素材", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 40, 
+        "middleTitle": "魔力塊", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 50, 
+        "middleTitle": "属性", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 60, 
+        "middleTitle": "キャラクタータイプ", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 70, 
+        "middleTitle": "技", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 80, 
+        "middleTitle": "パッシブスキル", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 90, 
+        "middleTitle": "リーダースキル", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 100, 
+        "middleTitle": "記憶", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 10, 
+        "categoryMiddle": 110, 
+        "middleTitle": "種族", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "キャラクターと記憶"
+    }, 
+    {
+        "categoryLarge": 20, 
+        "categoryMiddle": 10, 
+        "middleTitle": "敵", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "敵の種類"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 10, 
+        "middleTitle": "通常攻撃", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 20, 
+        "middleTitle": "ターン", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 30, 
+        "middleTitle": "物理攻撃／魔術攻撃", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 40, 
+        "middleTitle": "技パネル", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 50, 
+        "middleTitle": "フレンド", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 60, 
+        "middleTitle": "記憶の発動", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 70, 
+        "middleTitle": "スピードアップ機能", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 80, 
+        "middleTitle": "オート機能", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 30, 
+        "categoryMiddle": 90, 
+        "middleTitle": "ステータス変化", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの遊び方"
+    }, 
+    {
+        "categoryLarge": 40, 
+        "categoryMiddle": 10, 
+        "middleTitle": "パーティ編成", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "冒険準備"
+    }, 
+    {
+        "categoryLarge": 40, 
+        "categoryMiddle": 20, 
+        "middleTitle": "強化", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "冒険準備"
+    }, 
+    {
+        "categoryLarge": 40, 
+        "categoryMiddle": 30, 
+        "middleTitle": "覚醒", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "冒険準備"
+    }, 
+    {
+        "categoryLarge": 40, 
+        "categoryMiddle": 40, 
+        "middleTitle": "リミットブレイク", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "冒険準備"
+    }, 
+    {
+        "categoryLarge": 40, 
+        "categoryMiddle": 41, 
+        "middleTitle": "レアリティアップ", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "冒険準備"
+    }, 
+    {
+        "categoryLarge": 40, 
+        "categoryMiddle": 50, 
+        "middleTitle": "お別れ / 売却", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "冒険準備"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 10, 
+        "middleTitle": "メイン", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 15, 
+        "middleTitle": "オリジナル", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 20, 
+        "middleTitle": "イベント", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 30, 
+        "middleTitle": "キャラクター", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 40, 
+        "middleTitle": "強化クエスト", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 41, 
+        "middleTitle": "迷宮探索", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 50, 
+        "middleTitle": "緊急クエスト", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 50, 
+        "categoryMiddle": 80, 
+        "middleTitle": "トレーニング", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "バトルの種類"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 10, 
+        "middleTitle": "イベントコイン", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 20, 
+        "middleTitle": "フレンド", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 30, 
+        "middleTitle": "実績", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 40, 
+        "middleTitle": "ロキシーお助けボックス", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 50, 
+        "middleTitle": "お気に入り機能", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 70, 
+        "middleTitle": "画像シェア機能", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 80, 
+        "middleTitle": "称号", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 90, 
+        "middleTitle": "冒険者アイコン", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 100, 
+        "middleTitle": "控え", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 110, 
+        "middleTitle": "技演出簡易設定", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 60, 
+        "categoryMiddle": 120, 
+        "middleTitle": "全技演出スキップ", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "その他"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 10, 
+        "middleTitle": "プレイの流れ", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 20, 
+        "middleTitle": "バトルで勝利しよう", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 30, 
+        "middleTitle": "パーティを強くしよう", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 40, 
+        "middleTitle": "ボイスを楽しもう", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 50, 
+        "middleTitle": "イベントの遊び方", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 60, 
+        "middleTitle": "ゲームの最新攻略情報", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 70, 
+        "middleTitle": "強化クエストの遊び方", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 80, 
+        "middleTitle": "迷宮探索の遊び方", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }, 
+    {
+        "categoryLarge": 70, 
+        "categoryMiddle": 90, 
+        "middleTitle": "緊急クエストの遊び方", 
+        "updatedTime": 1617691480, 
+        "largeTitle": "攻略のヒント"
+    }
+]

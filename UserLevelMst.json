@@ -1,0 +1,893 @@
+[
+    {
+        "updatedTime": 1617691476, 
+        "level": 1, 
+        "ap": 30, 
+        "follower": 20, 
+        "cost": 90, 
+        "exp": 12, 
+        "follow": 20
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 2, 
+        "ap": 31, 
+        "follower": 21, 
+        "cost": 93, 
+        "exp": 17, 
+        "follow": 21
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 3, 
+        "ap": 32, 
+        "follower": 22, 
+        "cost": 96, 
+        "exp": 23, 
+        "follow": 22
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 4, 
+        "ap": 33, 
+        "follower": 23, 
+        "cost": 99, 
+        "exp": 30, 
+        "follow": 23
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 5, 
+        "ap": 34, 
+        "follower": 24, 
+        "cost": 102, 
+        "exp": 38, 
+        "follow": 24
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 6, 
+        "ap": 35, 
+        "follower": 25, 
+        "cost": 105, 
+        "exp": 47, 
+        "follow": 25
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 7, 
+        "ap": 36, 
+        "follower": 26, 
+        "cost": 108, 
+        "exp": 57, 
+        "follow": 26
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 8, 
+        "ap": 37, 
+        "follower": 27, 
+        "cost": 111, 
+        "exp": 68, 
+        "follow": 27
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 9, 
+        "ap": 38, 
+        "follower": 28, 
+        "cost": 114, 
+        "exp": 80, 
+        "follow": 28
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 10, 
+        "ap": 39, 
+        "follower": 29, 
+        "cost": 117, 
+        "exp": 93, 
+        "follow": 29
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 11, 
+        "ap": 40, 
+        "follower": 30, 
+        "cost": 120, 
+        "exp": 107, 
+        "follow": 30
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 12, 
+        "ap": 41, 
+        "follower": 31, 
+        "cost": 123, 
+        "exp": 122, 
+        "follow": 31
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 13, 
+        "ap": 42, 
+        "follower": 31, 
+        "cost": 126, 
+        "exp": 138, 
+        "follow": 31
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 14, 
+        "ap": 43, 
+        "follower": 32, 
+        "cost": 129, 
+        "exp": 155, 
+        "follow": 32
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 15, 
+        "ap": 44, 
+        "follower": 32, 
+        "cost": 132, 
+        "exp": 173, 
+        "follow": 32
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 16, 
+        "ap": 45, 
+        "follower": 33, 
+        "cost": 135, 
+        "exp": 192, 
+        "follow": 33
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 17, 
+        "ap": 46, 
+        "follower": 33, 
+        "cost": 138, 
+        "exp": 212, 
+        "follow": 33
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 18, 
+        "ap": 47, 
+        "follower": 34, 
+        "cost": 141, 
+        "exp": 233, 
+        "follow": 34
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 19, 
+        "ap": 48, 
+        "follower": 34, 
+        "cost": 144, 
+        "exp": 255, 
+        "follow": 34
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 20, 
+        "ap": 49, 
+        "follower": 35, 
+        "cost": 147, 
+        "exp": 278, 
+        "follow": 35
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 21, 
+        "ap": 50, 
+        "follower": 35, 
+        "cost": 150, 
+        "exp": 302, 
+        "follow": 35
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 22, 
+        "ap": 51, 
+        "follower": 36, 
+        "cost": 152, 
+        "exp": 327, 
+        "follow": 36
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 23, 
+        "ap": 52, 
+        "follower": 36, 
+        "cost": 154, 
+        "exp": 353, 
+        "follow": 36
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 24, 
+        "ap": 53, 
+        "follower": 37, 
+        "cost": 156, 
+        "exp": 380, 
+        "follow": 37
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 25, 
+        "ap": 54, 
+        "follower": 37, 
+        "cost": 158, 
+        "exp": 408, 
+        "follow": 37
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 26, 
+        "ap": 55, 
+        "follower": 38, 
+        "cost": 160, 
+        "exp": 437, 
+        "follow": 38
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 27, 
+        "ap": 56, 
+        "follower": 38, 
+        "cost": 162, 
+        "exp": 467, 
+        "follow": 38
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 28, 
+        "ap": 57, 
+        "follower": 39, 
+        "cost": 164, 
+        "exp": 498, 
+        "follow": 39
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 29, 
+        "ap": 58, 
+        "follower": 39, 
+        "cost": 166, 
+        "exp": 530, 
+        "follow": 39
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 30, 
+        "ap": 59, 
+        "follower": 40, 
+        "cost": 168, 
+        "exp": 563, 
+        "follow": 40
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 31, 
+        "ap": 60, 
+        "follower": 40, 
+        "cost": 170, 
+        "exp": 597, 
+        "follow": 40
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 32, 
+        "ap": 61, 
+        "follower": 41, 
+        "cost": 172, 
+        "exp": 632, 
+        "follow": 41
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 33, 
+        "ap": 62, 
+        "follower": 41, 
+        "cost": 174, 
+        "exp": 668, 
+        "follow": 41
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 34, 
+        "ap": 63, 
+        "follower": 42, 
+        "cost": 176, 
+        "exp": 705, 
+        "follow": 42
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 35, 
+        "ap": 64, 
+        "follower": 42, 
+        "cost": 178, 
+        "exp": 743, 
+        "follow": 42
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 36, 
+        "ap": 65, 
+        "follower": 43, 
+        "cost": 180, 
+        "exp": 782, 
+        "follow": 43
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 37, 
+        "ap": 66, 
+        "follower": 43, 
+        "cost": 182, 
+        "exp": 822, 
+        "follow": 43
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 38, 
+        "ap": 67, 
+        "follower": 44, 
+        "cost": 184, 
+        "exp": 863, 
+        "follow": 44
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 39, 
+        "ap": 68, 
+        "follower": 44, 
+        "cost": 186, 
+        "exp": 905, 
+        "follow": 44
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 40, 
+        "ap": 69, 
+        "follower": 45, 
+        "cost": 188, 
+        "exp": 948, 
+        "follow": 45
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 41, 
+        "ap": 70, 
+        "follower": 45, 
+        "cost": 190, 
+        "exp": 992, 
+        "follow": 45
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 42, 
+        "ap": 71, 
+        "follower": 46, 
+        "cost": 192, 
+        "exp": 1037, 
+        "follow": 46
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 43, 
+        "ap": 72, 
+        "follower": 46, 
+        "cost": 194, 
+        "exp": 1083, 
+        "follow": 46
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 44, 
+        "ap": 73, 
+        "follower": 47, 
+        "cost": 196, 
+        "exp": 1130, 
+        "follow": 47
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 45, 
+        "ap": 74, 
+        "follower": 47, 
+        "cost": 198, 
+        "exp": 1178, 
+        "follow": 47
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 46, 
+        "ap": 75, 
+        "follower": 48, 
+        "cost": 200, 
+        "exp": 1227, 
+        "follow": 48
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 47, 
+        "ap": 76, 
+        "follower": 48, 
+        "cost": 201, 
+        "exp": 1277, 
+        "follow": 48
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 48, 
+        "ap": 77, 
+        "follower": 49, 
+        "cost": 202, 
+        "exp": 1328, 
+        "follow": 49
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 49, 
+        "ap": 78, 
+        "follower": 49, 
+        "cost": 203, 
+        "exp": 1380, 
+        "follow": 49
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 50, 
+        "ap": 79, 
+        "follower": 50, 
+        "cost": 204, 
+        "exp": 1433, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 51, 
+        "ap": 80, 
+        "follower": 50, 
+        "cost": 205, 
+        "exp": 1487, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 52, 
+        "ap": 80, 
+        "follower": 50, 
+        "cost": 206, 
+        "exp": 1542, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 53, 
+        "ap": 81, 
+        "follower": 50, 
+        "cost": 207, 
+        "exp": 1598, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 54, 
+        "ap": 81, 
+        "follower": 50, 
+        "cost": 208, 
+        "exp": 1655, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 55, 
+        "ap": 82, 
+        "follower": 50, 
+        "cost": 209, 
+        "exp": 1713, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 56, 
+        "ap": 82, 
+        "follower": 50, 
+        "cost": 210, 
+        "exp": 1772, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 57, 
+        "ap": 83, 
+        "follower": 50, 
+        "cost": 211, 
+        "exp": 1832, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 58, 
+        "ap": 83, 
+        "follower": 50, 
+        "cost": 212, 
+        "exp": 1893, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 59, 
+        "ap": 84, 
+        "follower": 50, 
+        "cost": 213, 
+        "exp": 1955, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 60, 
+        "ap": 84, 
+        "follower": 50, 
+        "cost": 214, 
+        "exp": 2018, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 61, 
+        "ap": 85, 
+        "follower": 50, 
+        "cost": 215, 
+        "exp": 2082, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 62, 
+        "ap": 85, 
+        "follower": 50, 
+        "cost": 216, 
+        "exp": 2147, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 63, 
+        "ap": 86, 
+        "follower": 50, 
+        "cost": 217, 
+        "exp": 2213, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 64, 
+        "ap": 86, 
+        "follower": 50, 
+        "cost": 218, 
+        "exp": 2280, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 65, 
+        "ap": 87, 
+        "follower": 50, 
+        "cost": 219, 
+        "exp": 2348, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 66, 
+        "ap": 87, 
+        "follower": 50, 
+        "cost": 220, 
+        "exp": 2417, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 67, 
+        "ap": 88, 
+        "follower": 50, 
+        "cost": 221, 
+        "exp": 2487, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 68, 
+        "ap": 88, 
+        "follower": 50, 
+        "cost": 222, 
+        "exp": 2558, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 69, 
+        "ap": 89, 
+        "follower": 50, 
+        "cost": 223, 
+        "exp": 2630, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 70, 
+        "ap": 89, 
+        "follower": 50, 
+        "cost": 224, 
+        "exp": 2703, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 71, 
+        "ap": 90, 
+        "follower": 50, 
+        "cost": 225, 
+        "exp": 2777, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 72, 
+        "ap": 90, 
+        "follower": 50, 
+        "cost": 226, 
+        "exp": 2852, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 73, 
+        "ap": 91, 
+        "follower": 50, 
+        "cost": 227, 
+        "exp": 2928, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 74, 
+        "ap": 91, 
+        "follower": 50, 
+        "cost": 228, 
+        "exp": 3005, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 75, 
+        "ap": 92, 
+        "follower": 50, 
+        "cost": 229, 
+        "exp": 3083, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 76, 
+        "ap": 92, 
+        "follower": 50, 
+        "cost": 230, 
+        "exp": 3162, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 77, 
+        "ap": 93, 
+        "follower": 50, 
+        "cost": 231, 
+        "exp": 3242, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 78, 
+        "ap": 93, 
+        "follower": 50, 
+        "cost": 232, 
+        "exp": 3323, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 79, 
+        "ap": 94, 
+        "follower": 50, 
+        "cost": 233, 
+        "exp": 3405, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 80, 
+        "ap": 94, 
+        "follower": 50, 
+        "cost": 234, 
+        "exp": 3488, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 81, 
+        "ap": 95, 
+        "follower": 50, 
+        "cost": 235, 
+        "exp": 3572, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 82, 
+        "ap": 95, 
+        "follower": 50, 
+        "cost": 236, 
+        "exp": 3657, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 83, 
+        "ap": 96, 
+        "follower": 50, 
+        "cost": 237, 
+        "exp": 3743, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 84, 
+        "ap": 96, 
+        "follower": 50, 
+        "cost": 238, 
+        "exp": 3830, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 85, 
+        "ap": 97, 
+        "follower": 50, 
+        "cost": 239, 
+        "exp": 3918, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 86, 
+        "ap": 97, 
+        "follower": 50, 
+        "cost": 240, 
+        "exp": 4007, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 87, 
+        "ap": 98, 
+        "follower": 50, 
+        "cost": 241, 
+        "exp": 4097, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 88, 
+        "ap": 98, 
+        "follower": 50, 
+        "cost": 242, 
+        "exp": 4188, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 89, 
+        "ap": 99, 
+        "follower": 50, 
+        "cost": 243, 
+        "exp": 4280, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 90, 
+        "ap": 99, 
+        "follower": 50, 
+        "cost": 244, 
+        "exp": 4373, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 91, 
+        "ap": 100, 
+        "follower": 50, 
+        "cost": 245, 
+        "exp": 4467, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 92, 
+        "ap": 100, 
+        "follower": 50, 
+        "cost": 246, 
+        "exp": 4562, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 93, 
+        "ap": 101, 
+        "follower": 50, 
+        "cost": 247, 
+        "exp": 4658, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 94, 
+        "ap": 101, 
+        "follower": 50, 
+        "cost": 248, 
+        "exp": 4755, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 95, 
+        "ap": 102, 
+        "follower": 50, 
+        "cost": 249, 
+        "exp": 4853, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 96, 
+        "ap": 102, 
+        "follower": 50, 
+        "cost": 250, 
+        "exp": 4952, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 97, 
+        "ap": 103, 
+        "follower": 50, 
+        "cost": 251, 
+        "exp": 5052, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 98, 
+        "ap": 103, 
+        "follower": 50, 
+        "cost": 252, 
+        "exp": 5153, 
+        "follow": 50
+    }, 
+    {
+        "updatedTime": 1617691476, 
+        "level": 99, 
+        "ap": 104, 
+        "follower": 50, 
+        "cost": 253, 
+        "exp": 5255, 
+        "follow": 50
+    }
+]

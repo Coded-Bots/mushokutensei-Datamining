@@ -1,0 +1,2002 @@
+[
+    {
+        "gearType": 1, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 10300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 10300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 10400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 10400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5002, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 10400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 10500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 10500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5002, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 10500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 10400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 10400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5002, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 10400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 10500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 10500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5002, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 10500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 10500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 10500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 10500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5002, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 10500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 10500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 10400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 10400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5002, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 10400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5000, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 10500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5001, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 10500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5002, 
+        "updatedTime": 1617691483, 
+        "attribute": 1, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 10500402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 20300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 20300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 20400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 20400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5012, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 20400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 20500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 20500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5012, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 20500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 20400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 20400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5012, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 20400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 20500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 20500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5012, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 20500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 20500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 20500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 20500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5012, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 20500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 20500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 20400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 20400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5012, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 20400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5010, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 20500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5011, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 20500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5012, 
+        "updatedTime": 1617691483, 
+        "attribute": 2, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 20500402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 30300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 30300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 30400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 30400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5022, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 30400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 30500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 30500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5022, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 30500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 30400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 30400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5022, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 30400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 30500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 30500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5022, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 30500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 30500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 30500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 30500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5022, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 30500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 30500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 30400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 30400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5022, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 30400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5020, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 30500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5021, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 30500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5022, 
+        "updatedTime": 1617691483, 
+        "attribute": 3, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 30500402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 40300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 40300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 40400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 40400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5032, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 40400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 40500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 40500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5032, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 40500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 40400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 40400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5032, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 40400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 40500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 40500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5032, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 40500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 40500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 40500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 40500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5032, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 40500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 40500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 40400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 40400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5032, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 40400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5030, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 40500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5031, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 40500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5032, 
+        "updatedTime": 1617691483, 
+        "attribute": 4, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 40500402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 70300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 70300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 70400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 70400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5062, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 70400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 70500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 70500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5062, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 70500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 70400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 70400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5062, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 70400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 70500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 70500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5062, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 70500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 70500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 70500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 70500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5062, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 70500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 70500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 70400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 70400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5062, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 70400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5060, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 70500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5061, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 70500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5062, 
+        "updatedTime": 1617691483, 
+        "attribute": 7, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 70500402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 80300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 80300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 80400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 80400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5072, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 80400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 80500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 80500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5072, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 80500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 80400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 80400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5072, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 80400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 80500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 80500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5072, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 80500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 80500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 80500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 80500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5072, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 80500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 80500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 80400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 80400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5072, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 80400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5070, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 80500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5071, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 80500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5072, 
+        "updatedTime": 1617691483, 
+        "attribute": 8, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 80500402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 90300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 90300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 90400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 90400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5082, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 90400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 90500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 90500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5082, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 90500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 90400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 90400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5082, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 90400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 90500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 90500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5082, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 90500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 90500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 90500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 90500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5082, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 90500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 90500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 90400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 90400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5082, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 90400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5080, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 90500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5081, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 90500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5082, 
+        "updatedTime": 1617691483, 
+        "attribute": 9, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 90500402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 3, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 100300100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 3, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 100300101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 100400100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 10, 
+        "rareBreakCardMaterialMstId": 100400101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5092, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 100400102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 100500100, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 100500101, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 1, 
+        "itemMstId": 5092, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 100500102, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 100400200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 100400201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5092, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 100400202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 100500200, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 100500201, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5092, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 100500202, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 2, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 1, 
+        "rareBreakCardMaterialMstId": 100500203, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 100, 
+        "rareBreakCardMaterialMstId": 100500300, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 100500301, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5092, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 100500302, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 3, 
+        "itemMstId": 5102, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 3, 
+        "rareBreakCardMaterialMstId": 100500303, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 50, 
+        "rareBreakCardMaterialMstId": 100400400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 100400401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5092, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 4, 
+        "num": 5, 
+        "rareBreakCardMaterialMstId": 100400402, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5090, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 75, 
+        "rareBreakCardMaterialMstId": 100500400, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5091, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 30, 
+        "rareBreakCardMaterialMstId": 100500401, 
+        "valid": 1
+    }, 
+    {
+        "gearType": 4, 
+        "itemMstId": 5092, 
+        "updatedTime": 1617691483, 
+        "attribute": 10, 
+        "rarity": 5, 
+        "num": 15, 
+        "rareBreakCardMaterialMstId": 100500402, 
+        "valid": 1
+    }
+]

@@ -1,0 +1,5024 @@
+[
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 1148, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 2646, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 4494, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 6692, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 9240, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 12138, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 15386, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 18984, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 22932, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 27230, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 31878, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 36876, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 42224, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 47922, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 53970, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 60368, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 67116, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 74214, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 81662, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 89460, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 97608, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 106106, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 114954, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 124152, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 133700, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 143598, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 153846, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 164444, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 175392, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 186690, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 198338, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 210336, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 222684, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 235382, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 248430, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 261828, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 275576, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 289674, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 304122, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 40, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 318920, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 41, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 334068, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 42, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 349566, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 43, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 365414, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 44, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 381612, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 45, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 398160, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 46, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 415058, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 47, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 432306, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 48, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 449904, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 49, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 467852, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 50, 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 50, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 486150, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 51, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 504798, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 52, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 523796, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 53, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 543144, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 54, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 562842, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 55, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 582890, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 56, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 603288, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 57, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 624036, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 58, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 646189, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 59, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 670999, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 60, 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 60, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 700125, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 61, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 735953, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 62, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 782126, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 63, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 844471, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 64, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 932689, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 65, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 1063544, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 66, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 1267086, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 67, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 1599204, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 68, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 2167836, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 69, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 3189646, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 70, 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 1608, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 3705, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 6292, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 9369, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 12936, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 16994, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 21541, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 26578, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 32105, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 38122, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 44630, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 51627, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 59114, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 67091, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 75558, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 84516, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 93963, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 103900, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 114327, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 125244, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 136652, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 148549, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 160936, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 173813, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 187180, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 201038, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 215385, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 230222, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 245549, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 261366, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 277674, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 294471, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 311758, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 329535, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 347802, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 366560, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 385807, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 405544, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 425771, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 446488, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 41, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 467696, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 42, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 489393, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 43, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 511580, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 44, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 534257, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 45, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 557424, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 46, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 581082, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 47, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 605229, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 48, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 629866, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 49, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 654993, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 50, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 50, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 680610, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 51, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 706718, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 52, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 733315, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 53, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 760402, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 54, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 787979, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 55, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 816046, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 56, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 844604, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 57, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 873651, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 58, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 904665, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 59, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 939399, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 60, 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 60, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 980175, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 61, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 1030335, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 62, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 1094977, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 63, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 1182260, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 64, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 1305765, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 65, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 1488962, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 66, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 1773921, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 67, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 2238886, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 68, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 3034971, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 69, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 4465505, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 70, 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 2411, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 5557, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 9438, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 14054, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 19404, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 25490, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 32311, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 39867, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 48158, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 57183, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 66944, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 77440, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 88671, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 100637, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 113337, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 126773, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 140944, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 155850, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 171491, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 187866, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 204977, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 222823, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 241404, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 260720, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 280770, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 301556, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 323077, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 345333, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 368324, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 392049, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 416510, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 441706, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 467637, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 494303, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 521703, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 549839, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 578710, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 608316, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 638657, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 669732, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 41, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 701543, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 42, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 734089, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 43, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 767370, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 44, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 801386, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 45, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 836136, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 46, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 871622, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 47, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 907843, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 48, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 944799, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 49, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 982490, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 50, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1020915, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 51, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1060076, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 52, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1099972, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 53, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1140603, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 54, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1181969, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 55, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1224069, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 56, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1266905, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 57, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1310476, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 58, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1356997, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 59, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1409098, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 60, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 60, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 1470263, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 61, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 1545502, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 62, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 1642465, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 63, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 1773390, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 64, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 1958647, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 65, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 2233443, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 66, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 2660881, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 67, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 3358329, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 68, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 4552456, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 69, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 6698257, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 70, 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 3444, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 7938, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 13482, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 20076, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 27720, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 36414, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 46158, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 56952, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 68796, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 81690, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 95634, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 110628, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 126672, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 143766, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 161910, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 181104, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 201348, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 222642, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 244986, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 268380, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 292824, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 318318, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 344862, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 372456, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 401100, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 430794, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 461538, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 493332, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 526176, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 560070, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 595014, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 631008, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 668052, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 706146, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 745290, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 785484, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 826728, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 869022, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 912366, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 956760, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 41, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1002204, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 42, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1048698, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 43, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1096242, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 44, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1144836, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 45, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1194480, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 46, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1245174, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 47, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1296918, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 48, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1349712, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 49, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1403556, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 50, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1458450, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 51, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1514394, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 52, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1571388, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 53, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1629432, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 54, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1688526, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 55, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1748670, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 56, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1809864, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 57, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1872108, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 58, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1938567, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 59, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 2012997, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 60, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 2100375, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 61, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 2207859, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 62, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 2346378, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 63, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 2533413, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 64, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 2798067, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 65, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 3190632, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 66, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 3801258, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 67, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 4797612, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 68, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 6503508, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 69, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 9568938, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 70, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 0, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 259, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 569, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 929, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 1339, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 1800, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 2312, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 2874, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 3486, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 4149, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 4863, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 5627, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 6441, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 7306, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 8222, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 9188, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 10204, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 11271, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 12389, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 13557, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 0, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 518, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 1137, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 1857, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 2678, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 3600, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 4623, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 5747, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 6972, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 8298, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 9725, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 11253, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 12882, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 14612, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 16443, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 18375, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 20408, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 22542, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 24777, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 27113, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 29550, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 32088, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 34727, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 37467, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 40308, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 43250, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 46293, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 49437, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 52682, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 56028, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 0, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 570, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 1251, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 2043, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 2946, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 3960, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 5086, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 6322, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 7670, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 9128, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 10698, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 12379, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 14171, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 16074, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 18088, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 20213, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 22449, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 24797, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 27255, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 29825, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 32505, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 35297, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 38200, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 41214, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 44339, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 47575, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 50923, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 54381, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 57951, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 61631, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 65423, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 69326, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 73340, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 77465, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 81701, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 86048, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 90506, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 95076, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 99756, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 104548, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 0, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 622, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 1365, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 2229, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 3214, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 4320, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 5548, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 6897, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 8367, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 9958, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 11670, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 13504, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 15459, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 17535, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 19732, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 22050, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 24490, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 27051, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 29733, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 32536, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 35460, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 38506, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 41673, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 44961, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 48370, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 51900, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 55552, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 59325, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 63219, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 67234, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 71370, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 75628, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 80007, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 84507, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 89128, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 93870, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 98734, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 103719, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 108825, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 114052, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 119400, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 41, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 124870, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 42, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 130461, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 43, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 136173, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 44, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 142006, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 45, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 147960, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 46, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 154036, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 47, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 160233, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 48, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 166551, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 49, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 172990, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 50, 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 0, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 674, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 1479, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 2415, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 3482, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 4680, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 6010, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 7472, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 9064, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 10788, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 12643, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 14629, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 16747, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 18996, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 21376, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 23888, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 26531, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 29305, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 32211, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 35247, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 38415, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 41715, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 45146, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 48708, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 52401, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 56225, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 60181, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 64269, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 68487, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 72837, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 77318, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 81930, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 86674, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 91549, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 96555, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 101693, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 106962, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 112362, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 117894, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 123556, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 129350, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 41, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 135276, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 42, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 141333, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 43, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 147521, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 44, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 153840, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 45, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 160290, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 46, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 166872, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 47, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 173586, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 48, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 180430, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 49, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 187406, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 50, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 194513, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 51, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 201751, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 52, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 209121, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 53, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 216622, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 54, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 224254, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 55, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 232018, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 56, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 239913, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 57, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 247939, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 58, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 256097, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 59, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 264385, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 60, 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 0, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 1, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 777, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 2, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1706, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 3, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 2786, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 4, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 4017, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 5, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 5400, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 6, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 6935, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 7, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 8621, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 8, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 10458, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 9, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 12447, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 10, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 14588, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 11, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 16880, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 12, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 19323, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 13, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 21918, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 14, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 24665, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 15, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 27563, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 16, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 30612, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 17, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 33813, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 18, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 37166, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 19, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 40670, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 20, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 44325, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 21, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 48132, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 22, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 52091, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 23, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 56201, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 24, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 60462, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 25, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 64875, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 26, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 69440, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 27, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 74156, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 28, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 79023, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 29, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 84042, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 30, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 89213, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 31, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 94535, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 32, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 100008, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 33, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 105633, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 34, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 111410, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 35, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 117338, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 36, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 123417, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 37, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 129648, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 38, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 136031, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 39, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 142565, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 40, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 149250, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 41, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 156087, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 42, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 163076, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 43, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 170216, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 44, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 177507, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 45, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 184950, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 46, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 192545, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 47, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 200291, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 48, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 208188, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 49, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 216237, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 50, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 224438, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 51, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 232790, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 52, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 241293, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 53, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 249948, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 54, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 258755, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 55, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 267713, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 56, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 276822, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 57, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 286083, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 58, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 295496, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 59, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 305060, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 0, 
+        "level": 60, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 314775, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 61, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 324642, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 1, 
+        "level": 62, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 334661, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 63, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 344831, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 2, 
+        "level": 64, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 355152, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 65, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 365625, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 3, 
+        "level": 66, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 376250, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 67, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 387026, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 4, 
+        "level": 68, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 397953, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 69, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 409032, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "limitBreakLevel": 5, 
+        "level": 70, 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 0, 
+        "type": "support"
+    }
+]

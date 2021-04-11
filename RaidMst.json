@@ -1,0 +1,72 @@
+[
+    {
+        "battleName": "エクスキューショナー", 
+        "bossEnemyIcon": "mi_203_003", 
+        "attribute": "7", 
+        "updatedTime": 1617691480, 
+        "filterCategory": "7", 
+        "valid": 1, 
+        "bossEnemyTribe": 3, 
+        "raidMstId": 10
+    }, 
+    {
+        "battleName": "レッドフードコブラ", 
+        "bossEnemyIcon": "mi_204_008", 
+        "attribute": "10", 
+        "updatedTime": 1617691480, 
+        "filterCategory": "10", 
+        "valid": 1, 
+        "bossEnemyTribe": 4, 
+        "raidMstId": 20
+    }, 
+    {
+        "battleName": "ホワイトファングコブラ", 
+        "bossEnemyIcon": "mi_204_009", 
+        "attribute": "4", 
+        "updatedTime": 1617691480, 
+        "filterCategory": "4", 
+        "valid": 1, 
+        "bossEnemyTribe": 4, 
+        "raidMstId": 30
+    }, 
+    {
+        "battleName": "ターミネートボア", 
+        "bossEnemyIcon": "mi_205_015", 
+        "attribute": "8", 
+        "updatedTime": 1617691480, 
+        "filterCategory": "8", 
+        "valid": 1, 
+        "bossEnemyTribe": 5, 
+        "raidMstId": 40
+    }, 
+    {
+        "battleName": "デスクロータイガー", 
+        "bossEnemyIcon": "mi_205_018", 
+        "attribute": "9", 
+        "updatedTime": 1617691480, 
+        "filterCategory": "9", 
+        "valid": 1, 
+        "bossEnemyTribe": 5, 
+        "raidMstId": 50
+    }, 
+    {
+        "battleName": "サベージホーク", 
+        "bossEnemyIcon": "mi_206_002", 
+        "attribute": "3", 
+        "updatedTime": 1617691480, 
+        "filterCategory": "3", 
+        "valid": 1, 
+        "bossEnemyTribe": 6, 
+        "raidMstId": 60
+    }, 
+    {
+        "battleName": "レッドドラゴン", 
+        "bossEnemyIcon": "mi_209_003", 
+        "attribute": "1", 
+        "updatedTime": 1617691480, 
+        "filterCategory": "1", 
+        "valid": 1, 
+        "bossEnemyTribe": 9, 
+        "raidMstId": 70
+    }
+]

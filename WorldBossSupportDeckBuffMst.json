@@ -1,0 +1,422 @@
+[
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 1, 
+        "attackValue": 1.0, 
+        "level": 1
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 2, 
+        "attackValue": 1.0, 
+        "level": 2
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 3, 
+        "attackValue": 1.0, 
+        "level": 3
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 4, 
+        "attackValue": 1.0, 
+        "level": 4
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 5, 
+        "attackValue": 1.0, 
+        "level": 5
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 6, 
+        "attackValue": 1.0, 
+        "level": 6
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 7, 
+        "attackValue": 1.0, 
+        "level": 7
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 8, 
+        "attackValue": 1.0, 
+        "level": 8
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 9, 
+        "attackValue": 1.0, 
+        "level": 9
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 10, 
+        "attackValue": 1.0, 
+        "level": 10
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 11, 
+        "attackValue": 1.0, 
+        "level": 11
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 12, 
+        "attackValue": 1.0, 
+        "level": 12
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 13, 
+        "attackValue": 1.0, 
+        "level": 13
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 14, 
+        "attackValue": 1.0, 
+        "level": 14
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 15, 
+        "attackValue": 2.0, 
+        "level": 15
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 16, 
+        "attackValue": 2.0, 
+        "level": 16
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 17, 
+        "attackValue": 2.0, 
+        "level": 17
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 18, 
+        "attackValue": 2.0, 
+        "level": 18
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 19, 
+        "attackValue": 2.0, 
+        "level": 19
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 20, 
+        "attackValue": 2.0, 
+        "level": 20
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 21, 
+        "attackValue": 2.0, 
+        "level": 21
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 22, 
+        "attackValue": 2.0, 
+        "level": 22
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 23, 
+        "attackValue": 2.0, 
+        "level": 23
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 24, 
+        "attackValue": 2.0, 
+        "level": 24
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 25, 
+        "attackValue": 2.0, 
+        "level": 25
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 26, 
+        "attackValue": 2.0, 
+        "level": 26
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 27, 
+        "attackValue": 2.0, 
+        "level": 27
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 28, 
+        "attackValue": 2.0, 
+        "level": 28
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 29, 
+        "attackValue": 2.0, 
+        "level": 29
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 30, 
+        "attackValue": 3.0, 
+        "level": 30
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 31, 
+        "attackValue": 3.0, 
+        "level": 31
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 32, 
+        "attackValue": 3.0, 
+        "level": 32
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 33, 
+        "attackValue": 3.0, 
+        "level": 33
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 34, 
+        "attackValue": 3.0, 
+        "level": 34
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 35, 
+        "attackValue": 3.0, 
+        "level": 35
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 36, 
+        "attackValue": 3.0, 
+        "level": 36
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 37, 
+        "attackValue": 3.0, 
+        "level": 37
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 38, 
+        "attackValue": 3.0, 
+        "level": 38
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 39, 
+        "attackValue": 3.0, 
+        "level": 39
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 40, 
+        "attackValue": 3.0, 
+        "level": 40
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 41, 
+        "attackValue": 3.0, 
+        "level": 41
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 42, 
+        "attackValue": 3.0, 
+        "level": 42
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 43, 
+        "attackValue": 3.0, 
+        "level": 43
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 44, 
+        "attackValue": 3.0, 
+        "level": 44
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 45, 
+        "attackValue": 3.0, 
+        "level": 45
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 46, 
+        "attackValue": 3.0, 
+        "level": 46
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 47, 
+        "attackValue": 3.0, 
+        "level": 47
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 48, 
+        "attackValue": 3.0, 
+        "level": 48
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 49, 
+        "attackValue": 3.0, 
+        "level": 49
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 50, 
+        "attackValue": 3.0, 
+        "level": 50
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 51, 
+        "attackValue": 10.0, 
+        "level": 51
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 52, 
+        "attackValue": 10.0, 
+        "level": 52
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 53, 
+        "attackValue": 10.0, 
+        "level": 53
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 54, 
+        "attackValue": 10.0, 
+        "level": 54
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 55, 
+        "attackValue": 10.0, 
+        "level": 55
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 56, 
+        "attackValue": 10.0, 
+        "level": 56
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 57, 
+        "attackValue": 10.0, 
+        "level": 57
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 58, 
+        "attackValue": 10.0, 
+        "level": 58
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 59, 
+        "attackValue": 10.0, 
+        "level": 59
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 60, 
+        "attackValue": 10.0, 
+        "level": 60
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 61, 
+        "attackValue": 10.0, 
+        "level": 61
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 62, 
+        "attackValue": 10.0, 
+        "level": 62
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 63, 
+        "attackValue": 10.0, 
+        "level": 63
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 64, 
+        "attackValue": 10.0, 
+        "level": 64
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 65, 
+        "attackValue": 10.0, 
+        "level": 65
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 66, 
+        "attackValue": 10.0, 
+        "level": 66
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 67, 
+        "attackValue": 10.0, 
+        "level": 67
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 68, 
+        "attackValue": 10.0, 
+        "level": 68
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 69, 
+        "attackValue": 10.0, 
+        "level": 69
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "worldBossSupportDeckBuffMstId": 70, 
+        "attackValue": 10.0, 
+        "level": 70
+    }
+]

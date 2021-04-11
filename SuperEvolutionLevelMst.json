@@ -1,0 +1,702 @@
+[
+    {
+        "nextLevelExp": 50, 
+        "superEvolutionLevel": 1, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 100, 
+        "superEvolutionLevel": 2, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 200, 
+        "superEvolutionLevel": 3, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 350, 
+        "superEvolutionLevel": 4, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 500, 
+        "superEvolutionLevel": 5, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 750, 
+        "superEvolutionLevel": 6, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 800, 
+        "superEvolutionLevel": 7, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 900, 
+        "superEvolutionLevel": 8, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 950, 
+        "superEvolutionLevel": 9, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 1000, 
+        "superEvolutionLevel": 10, 
+        "gainPoint": 2, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 1200, 
+        "superEvolutionLevel": 11, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 1400, 
+        "superEvolutionLevel": 12, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 1600, 
+        "superEvolutionLevel": 13, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 1800, 
+        "superEvolutionLevel": 14, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 2000, 
+        "superEvolutionLevel": 15, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 2200, 
+        "superEvolutionLevel": 16, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 2400, 
+        "superEvolutionLevel": 17, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 2600, 
+        "superEvolutionLevel": 18, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 2800, 
+        "superEvolutionLevel": 19, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 3000, 
+        "superEvolutionLevel": 20, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 3200, 
+        "superEvolutionLevel": 21, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 3400, 
+        "superEvolutionLevel": 22, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 3600, 
+        "superEvolutionLevel": 23, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 3800, 
+        "superEvolutionLevel": 24, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 4000, 
+        "superEvolutionLevel": 25, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 4200, 
+        "superEvolutionLevel": 26, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 4400, 
+        "superEvolutionLevel": 27, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 4600, 
+        "superEvolutionLevel": 28, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 4800, 
+        "superEvolutionLevel": 29, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 5000, 
+        "superEvolutionLevel": 30, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 5200, 
+        "superEvolutionLevel": 31, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 5400, 
+        "superEvolutionLevel": 32, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 5600, 
+        "superEvolutionLevel": 33, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 5800, 
+        "superEvolutionLevel": 34, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 6000, 
+        "superEvolutionLevel": 35, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 6200, 
+        "superEvolutionLevel": 36, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 6400, 
+        "superEvolutionLevel": 37, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 6600, 
+        "superEvolutionLevel": 38, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 6800, 
+        "superEvolutionLevel": 39, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 7000, 
+        "superEvolutionLevel": 40, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 7200, 
+        "superEvolutionLevel": 41, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 7400, 
+        "superEvolutionLevel": 42, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 7600, 
+        "superEvolutionLevel": 43, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 7800, 
+        "superEvolutionLevel": 44, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 8000, 
+        "superEvolutionLevel": 45, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 8200, 
+        "superEvolutionLevel": 46, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 8400, 
+        "superEvolutionLevel": 47, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 8600, 
+        "superEvolutionLevel": 48, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 8800, 
+        "superEvolutionLevel": 49, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 9000, 
+        "superEvolutionLevel": 50, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 9200, 
+        "superEvolutionLevel": 51, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 9400, 
+        "superEvolutionLevel": 52, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 9600, 
+        "superEvolutionLevel": 53, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 9800, 
+        "superEvolutionLevel": 54, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 10000, 
+        "superEvolutionLevel": 55, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 10200, 
+        "superEvolutionLevel": 56, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 10400, 
+        "superEvolutionLevel": 57, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 10600, 
+        "superEvolutionLevel": 58, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 10800, 
+        "superEvolutionLevel": 59, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 11000, 
+        "superEvolutionLevel": 60, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 11200, 
+        "superEvolutionLevel": 61, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 11400, 
+        "superEvolutionLevel": 62, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 11600, 
+        "superEvolutionLevel": 63, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 11800, 
+        "superEvolutionLevel": 64, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 12000, 
+        "superEvolutionLevel": 65, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 12200, 
+        "superEvolutionLevel": 66, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 12400, 
+        "superEvolutionLevel": 67, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 12600, 
+        "superEvolutionLevel": 68, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 12800, 
+        "superEvolutionLevel": 69, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 13000, 
+        "superEvolutionLevel": 70, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 13200, 
+        "superEvolutionLevel": 71, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 13400, 
+        "superEvolutionLevel": 72, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 13600, 
+        "superEvolutionLevel": 73, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 13800, 
+        "superEvolutionLevel": 74, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 14000, 
+        "superEvolutionLevel": 75, 
+        "gainPoint": 3, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 14200, 
+        "superEvolutionLevel": 76, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 14400, 
+        "superEvolutionLevel": 77, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 14600, 
+        "superEvolutionLevel": 78, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 14800, 
+        "superEvolutionLevel": 79, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 15000, 
+        "superEvolutionLevel": 80, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 15200, 
+        "superEvolutionLevel": 81, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 15500, 
+        "superEvolutionLevel": 82, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 15800, 
+        "superEvolutionLevel": 83, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 16100, 
+        "superEvolutionLevel": 84, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 16400, 
+        "superEvolutionLevel": 85, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 16700, 
+        "superEvolutionLevel": 86, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 17000, 
+        "superEvolutionLevel": 87, 
+        "gainPoint": 4, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 17300, 
+        "superEvolutionLevel": 88, 
+        "gainPoint": 5, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 17600, 
+        "superEvolutionLevel": 89, 
+        "gainPoint": 5, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 17900, 
+        "superEvolutionLevel": 90, 
+        "gainPoint": 5, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 18200, 
+        "superEvolutionLevel": 91, 
+        "gainPoint": 5, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 18500, 
+        "superEvolutionLevel": 92, 
+        "gainPoint": 5, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 18800, 
+        "superEvolutionLevel": 93, 
+        "gainPoint": 6, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 19100, 
+        "superEvolutionLevel": 94, 
+        "gainPoint": 6, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 19400, 
+        "superEvolutionLevel": 95, 
+        "gainPoint": 10, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 19800, 
+        "superEvolutionLevel": 96, 
+        "gainPoint": 10, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 20300, 
+        "superEvolutionLevel": 97, 
+        "gainPoint": 10, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 20900, 
+        "superEvolutionLevel": 98, 
+        "gainPoint": 10, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 21500, 
+        "superEvolutionLevel": 99, 
+        "gainPoint": 10, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }, 
+    {
+        "nextLevelExp": 0, 
+        "superEvolutionLevel": 100, 
+        "gainPoint": 10, 
+        "valid": 1, 
+        "updatedTime": 1617691483
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "enemyTribeMstId": 1, 
+        "updatedTime": 1617691480, 
+        "name": "人"
+    }, 
+    {
+        "enemyTribeMstId": 2, 
+        "updatedTime": 1617691480, 
+        "name": "精霊"
+    }, 
+    {
+        "enemyTribeMstId": 3, 
+        "updatedTime": 1617691480, 
+        "name": "死霊"
+    }, 
+    {
+        "enemyTribeMstId": 4, 
+        "updatedTime": 1617691480, 
+        "name": "爬虫類"
+    }, 
+    {
+        "enemyTribeMstId": 5, 
+        "updatedTime": 1617691480, 
+        "name": "獣"
+    }, 
+    {
+        "enemyTribeMstId": 6, 
+        "updatedTime": 1617691480, 
+        "name": "飛行"
+    }, 
+    {
+        "enemyTribeMstId": 7, 
+        "updatedTime": 1617691480, 
+        "name": "虫"
+    }, 
+    {
+        "enemyTribeMstId": 8, 
+        "updatedTime": 1617691480, 
+        "name": "水生生物"
+    }, 
+    {
+        "enemyTribeMstId": 9, 
+        "updatedTime": 1617691480, 
+        "name": "龍"
+    }, 
+    {
+        "enemyTribeMstId": 10, 
+        "updatedTime": 1617691480, 
+        "name": "魔族"
+    }
+]

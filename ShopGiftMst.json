@@ -1,0 +1,602 @@
+[
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 100001, 
+        "objectId": 4002, 
+        "num": 1, 
+        "shopGiftMstId": 100001, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 100002, 
+        "objectId": 2100, 
+        "num": 1, 
+        "shopGiftMstId": 100002, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 100003, 
+        "objectId": 5102, 
+        "num": 1, 
+        "shopGiftMstId": 100003, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 100004, 
+        "objectId": 80000400, 
+        "num": 1, 
+        "shopGiftMstId": 100004, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 100005, 
+        "objectId": 89900400, 
+        "num": 1, 
+        "shopGiftMstId": 100005, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400101, 
+        "objectId": 90700400, 
+        "num": 1, 
+        "shopGiftMstId": 400101, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400102, 
+        "objectId": 90700300, 
+        "num": 1, 
+        "shopGiftMstId": 400102, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400103, 
+        "objectId": 80000300, 
+        "num": 1, 
+        "shopGiftMstId": 400103, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400104, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "shopGiftMstId": 400104, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400105, 
+        "objectId": 5062, 
+        "num": 1, 
+        "shopGiftMstId": 400105, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400106, 
+        "objectId": 5032, 
+        "num": 1, 
+        "shopGiftMstId": 400106, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400107, 
+        "objectId": 5061, 
+        "num": 1, 
+        "shopGiftMstId": 400107, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400108, 
+        "objectId": 5031, 
+        "num": 1, 
+        "shopGiftMstId": 400108, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400109, 
+        "objectId": 5060, 
+        "num": 1, 
+        "shopGiftMstId": 400109, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400110, 
+        "objectId": 5030, 
+        "num": 1, 
+        "shopGiftMstId": 400110, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400201, 
+        "objectId": 91000400, 
+        "num": 1, 
+        "shopGiftMstId": 400201, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400202, 
+        "objectId": 91000300, 
+        "num": 1, 
+        "shopGiftMstId": 400202, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400203, 
+        "objectId": 80000300, 
+        "num": 1, 
+        "shopGiftMstId": 400203, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400204, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "shopGiftMstId": 400204, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400205, 
+        "objectId": 5012, 
+        "num": 1, 
+        "shopGiftMstId": 400205, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400206, 
+        "objectId": 5092, 
+        "num": 1, 
+        "shopGiftMstId": 400206, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400207, 
+        "objectId": 5011, 
+        "num": 1, 
+        "shopGiftMstId": 400207, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400208, 
+        "objectId": 5091, 
+        "num": 1, 
+        "shopGiftMstId": 400208, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400209, 
+        "objectId": 5090, 
+        "num": 1, 
+        "shopGiftMstId": 400209, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400210, 
+        "objectId": 5010, 
+        "num": 1, 
+        "shopGiftMstId": 400210, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400301, 
+        "objectId": 90400400, 
+        "num": 1, 
+        "shopGiftMstId": 400301, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400302, 
+        "objectId": 90400300, 
+        "num": 1, 
+        "shopGiftMstId": 400302, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400303, 
+        "objectId": 80000300, 
+        "num": 1, 
+        "shopGiftMstId": 400303, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400304, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "shopGiftMstId": 400304, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400305, 
+        "objectId": 5032, 
+        "num": 1, 
+        "shopGiftMstId": 400305, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400306, 
+        "objectId": 5022, 
+        "num": 1, 
+        "shopGiftMstId": 400306, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400307, 
+        "objectId": 5031, 
+        "num": 1, 
+        "shopGiftMstId": 400307, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400308, 
+        "objectId": 5021, 
+        "num": 1, 
+        "shopGiftMstId": 400308, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400309, 
+        "objectId": 5030, 
+        "num": 1, 
+        "shopGiftMstId": 400309, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400310, 
+        "objectId": 5020, 
+        "num": 1, 
+        "shopGiftMstId": 400310, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400401, 
+        "objectId": 90800400, 
+        "num": 1, 
+        "shopGiftMstId": 400401, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400402, 
+        "objectId": 90800300, 
+        "num": 1, 
+        "shopGiftMstId": 400402, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400403, 
+        "objectId": 80000300, 
+        "num": 1, 
+        "shopGiftMstId": 400403, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400404, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "shopGiftMstId": 400404, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400405, 
+        "objectId": 5072, 
+        "num": 1, 
+        "shopGiftMstId": 400405, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400406, 
+        "objectId": 5082, 
+        "num": 1, 
+        "shopGiftMstId": 400406, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400407, 
+        "objectId": 5071, 
+        "num": 1, 
+        "shopGiftMstId": 400407, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400408, 
+        "objectId": 5081, 
+        "num": 1, 
+        "shopGiftMstId": 400408, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400409, 
+        "objectId": 5070, 
+        "num": 1, 
+        "shopGiftMstId": 400409, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400410, 
+        "objectId": 5080, 
+        "num": 1, 
+        "shopGiftMstId": 400410, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400501, 
+        "objectId": 90900400, 
+        "num": 1, 
+        "shopGiftMstId": 400501, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400502, 
+        "objectId": 90900300, 
+        "num": 1, 
+        "shopGiftMstId": 400502, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400503, 
+        "objectId": 80000300, 
+        "num": 1, 
+        "shopGiftMstId": 400503, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400504, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "shopGiftMstId": 400504, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400505, 
+        "objectId": 5082, 
+        "num": 1, 
+        "shopGiftMstId": 400505, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400506, 
+        "objectId": 5072, 
+        "num": 1, 
+        "shopGiftMstId": 400506, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400507, 
+        "objectId": 5081, 
+        "num": 1, 
+        "shopGiftMstId": 400507, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400508, 
+        "objectId": 5071, 
+        "num": 1, 
+        "shopGiftMstId": 400508, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400509, 
+        "objectId": 5080, 
+        "num": 1, 
+        "shopGiftMstId": 400509, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400510, 
+        "objectId": 5070, 
+        "num": 1, 
+        "shopGiftMstId": 400510, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400601, 
+        "objectId": 90300400, 
+        "num": 1, 
+        "shopGiftMstId": 400601, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400602, 
+        "objectId": 90300300, 
+        "num": 1, 
+        "shopGiftMstId": 400602, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400603, 
+        "objectId": 80000300, 
+        "num": 1, 
+        "shopGiftMstId": 400603, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400604, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "shopGiftMstId": 400604, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400605, 
+        "objectId": 5022, 
+        "num": 1, 
+        "shopGiftMstId": 400605, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400606, 
+        "objectId": 5002, 
+        "num": 1, 
+        "shopGiftMstId": 400606, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400607, 
+        "objectId": 5021, 
+        "num": 1, 
+        "shopGiftMstId": 400607, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400608, 
+        "objectId": 5001, 
+        "num": 1, 
+        "shopGiftMstId": 400608, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400609, 
+        "objectId": 5020, 
+        "num": 1, 
+        "shopGiftMstId": 400609, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400610, 
+        "objectId": 5000, 
+        "num": 1, 
+        "shopGiftMstId": 400610, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400701, 
+        "objectId": 90100400, 
+        "num": 1, 
+        "shopGiftMstId": 400701, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400702, 
+        "objectId": 90100300, 
+        "num": 1, 
+        "shopGiftMstId": 400702, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400703, 
+        "objectId": 80000300, 
+        "num": 1, 
+        "shopGiftMstId": 400703, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400704, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "shopGiftMstId": 400704, 
+        "presentType": "card"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400705, 
+        "objectId": 5002, 
+        "num": 1, 
+        "shopGiftMstId": 400705, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400706, 
+        "objectId": 5062, 
+        "num": 1, 
+        "shopGiftMstId": 400706, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400707, 
+        "objectId": 5001, 
+        "num": 1, 
+        "shopGiftMstId": 400707, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400708, 
+        "objectId": 5061, 
+        "num": 1, 
+        "shopGiftMstId": 400708, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400709, 
+        "objectId": 5000, 
+        "num": 1, 
+        "shopGiftMstId": 400709, 
+        "presentType": "item"
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "shopMstId": 400710, 
+        "objectId": 5060, 
+        "num": 1, 
+        "shopGiftMstId": 400710, 
+        "presentType": "item"
+    }
+]

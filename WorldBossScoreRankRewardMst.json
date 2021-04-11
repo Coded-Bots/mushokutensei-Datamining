@@ -1,0 +1,266 @@
+[
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1011, 
+        "num": 100, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1021, 
+        "num": 90, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 102
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1031, 
+        "num": 80, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 103
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1041, 
+        "num": 70, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 104
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1051, 
+        "num": 60, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 105
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1061, 
+        "num": 50, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 106
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1071, 
+        "num": 40, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 107
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1081, 
+        "num": 30, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 108
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1091, 
+        "num": 20, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 109
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1101, 
+        "num": 10, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 110
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8000, 
+        "worldBossScoreRankRewardMstId": 1111, 
+        "num": 5, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 111
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2011, 
+        "num": 200, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2021, 
+        "num": 180, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 202
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2031, 
+        "num": 160, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 203
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2041, 
+        "num": 140, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 204
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2051, 
+        "num": 120, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 205
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2061, 
+        "num": 100, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 206
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2071, 
+        "num": 80, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 207
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2081, 
+        "num": 60, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 208
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2091, 
+        "num": 40, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 209
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2101, 
+        "num": 20, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 210
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8001, 
+        "worldBossScoreRankRewardMstId": 2111, 
+        "num": 10, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 211
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3011, 
+        "num": 300, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3021, 
+        "num": 270, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 302
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3031, 
+        "num": 240, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 303
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3041, 
+        "num": 210, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 304
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3051, 
+        "num": 180, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 305
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3061, 
+        "num": 150, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 306
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3071, 
+        "num": 120, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 307
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3081, 
+        "num": 90, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 308
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3091, 
+        "num": 60, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 309
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3101, 
+        "num": 30, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 310
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 8002, 
+        "worldBossScoreRankRewardMstId": 3111, 
+        "num": 15, 
+        "presentType": "item", 
+        "worldBossScoreRankMstId": 311
+    }
+]

@@ -1,0 +1,677 @@
+[
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 20000, 
+        "cardMergeExpMstId": 1, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 40000, 
+        "cardMergeExpMstId": 2, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 80000, 
+        "cardMergeExpMstId": 3, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 160000, 
+        "cardMergeExpMstId": 4, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 320000, 
+        "cardMergeExpMstId": 5, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 6, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 7, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 7, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 8, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 8, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 9, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 9, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 40000, 
+        "cardMergeExpMstId": 10, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 80000, 
+        "cardMergeExpMstId": 11, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 160000, 
+        "cardMergeExpMstId": 12, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 320000, 
+        "cardMergeExpMstId": 13, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 14, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 15, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 7, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 16, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 8, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 17, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "attribute", 
+        "rareBreakLevel": 0, 
+        "rarity": 9, 
+        "exp": 10240000, 
+        "cardMergeExpMstId": 18, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 60000, 
+        "cardMergeExpMstId": 19, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 120000, 
+        "cardMergeExpMstId": 20, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 240000, 
+        "cardMergeExpMstId": 21, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 480000, 
+        "cardMergeExpMstId": 22, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 960000, 
+        "cardMergeExpMstId": 23, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 1920000, 
+        "cardMergeExpMstId": 24, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 7, 
+        "exp": 3840000, 
+        "cardMergeExpMstId": 25, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 8, 
+        "exp": 7680000, 
+        "cardMergeExpMstId": 26, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "all-rounder", 
+        "rareBreakLevel": 0, 
+        "rarity": 9, 
+        "exp": 15360000, 
+        "cardMergeExpMstId": 27, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 10000, 
+        "cardMergeExpMstId": 28, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 20000, 
+        "cardMergeExpMstId": 29, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 40000, 
+        "cardMergeExpMstId": 30, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 80000, 
+        "cardMergeExpMstId": 31, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 160000, 
+        "cardMergeExpMstId": 32, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 320000, 
+        "cardMergeExpMstId": 33, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 7, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 34, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 8, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 35, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "parameter", 
+        "rareBreakLevel": 0, 
+        "rarity": 9, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 36, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 5000, 
+        "cardMergeExpMstId": 37, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 10000, 
+        "cardMergeExpMstId": 38, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 20000, 
+        "cardMergeExpMstId": 39, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 40000, 
+        "cardMergeExpMstId": 40, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 80000, 
+        "cardMergeExpMstId": 41, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 160000, 
+        "cardMergeExpMstId": 42, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 7, 
+        "exp": 320000, 
+        "cardMergeExpMstId": 43, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 8, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 44, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 0, 
+        "rarity": 9, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 45, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 1, 
+        "exp": 10000, 
+        "cardMergeExpMstId": 46, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 2, 
+        "exp": 20000, 
+        "cardMergeExpMstId": 47, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 3, 
+        "exp": 40000, 
+        "cardMergeExpMstId": 48, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 4, 
+        "exp": 80000, 
+        "cardMergeExpMstId": 49, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 5, 
+        "exp": 160000, 
+        "cardMergeExpMstId": 50, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 6, 
+        "exp": 320000, 
+        "cardMergeExpMstId": 51, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 7, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 52, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 8, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 53, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "support-material", 
+        "rareBreakLevel": 0, 
+        "rarity": 9, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 54, 
+        "type": "support"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 1, 
+        "rarity": 4, 
+        "exp": 160000, 
+        "cardMergeExpMstId": 55, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 1, 
+        "rarity": 5, 
+        "exp": 320000, 
+        "cardMergeExpMstId": 56, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 1, 
+        "rarity": 6, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 57, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 1, 
+        "rarity": 7, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 58, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 1, 
+        "rarity": 8, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 59, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 1, 
+        "rarity": 9, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 60, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 2, 
+        "rarity": 5, 
+        "exp": 320000, 
+        "cardMergeExpMstId": 61, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 2, 
+        "rarity": 6, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 62, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 2, 
+        "rarity": 7, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 63, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 2, 
+        "rarity": 8, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 64, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 2, 
+        "rarity": 9, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 65, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 3, 
+        "rarity": 6, 
+        "exp": 640000, 
+        "cardMergeExpMstId": 66, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 3, 
+        "rarity": 7, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 67, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 3, 
+        "rarity": 8, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 68, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 3, 
+        "rarity": 9, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 69, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 4, 
+        "rarity": 7, 
+        "exp": 1280000, 
+        "cardMergeExpMstId": 70, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 4, 
+        "rarity": 8, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 71, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 4, 
+        "rarity": 9, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 72, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 5, 
+        "rarity": 8, 
+        "exp": 2560000, 
+        "cardMergeExpMstId": 73, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 5, 
+        "rarity": 9, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 74, 
+        "type": "gear"
+    }, 
+    {
+        "updatedTime": 1617691472, 
+        "materialType": "normal", 
+        "rareBreakLevel": 6, 
+        "rarity": 9, 
+        "exp": 5120000, 
+        "cardMergeExpMstId": 75, 
+        "type": "gear"
+    }
+]

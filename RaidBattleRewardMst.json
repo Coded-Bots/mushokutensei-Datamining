@@ -1,0 +1,1542 @@
+[
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 10001, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 10002, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1009, 
+        "raidBattleRewardMstId": 10003, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 10004, 
+        "num": 10000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1009, 
+        "raidBattleRewardMstId": 10005, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5060, 
+        "raidBattleRewardMstId": 10006, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5030, 
+        "raidBattleRewardMstId": 10007, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5060, 
+        "raidBattleRewardMstId": 10008, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5030, 
+        "raidBattleRewardMstId": 10009, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5060, 
+        "raidBattleRewardMstId": 10010, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5030, 
+        "raidBattleRewardMstId": 10011, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 100
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5062, 
+        "raidBattleRewardMstId": 10101, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5032, 
+        "raidBattleRewardMstId": 10102, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1009, 
+        "raidBattleRewardMstId": 10103, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 10104, 
+        "num": 30000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1009, 
+        "raidBattleRewardMstId": 10105, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 10106, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 10107, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 10108, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 10109, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 10110, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 10111, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 101
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5011, 
+        "raidBattleRewardMstId": 20001, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5091, 
+        "raidBattleRewardMstId": 20002, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1011, 
+        "raidBattleRewardMstId": 20003, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 20004, 
+        "num": 10000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1011, 
+        "raidBattleRewardMstId": 20005, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5090, 
+        "raidBattleRewardMstId": 20006, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5010, 
+        "raidBattleRewardMstId": 20007, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5090, 
+        "raidBattleRewardMstId": 20008, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5010, 
+        "raidBattleRewardMstId": 20009, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5090, 
+        "raidBattleRewardMstId": 20010, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5010, 
+        "raidBattleRewardMstId": 20011, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 200
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5012, 
+        "raidBattleRewardMstId": 20101, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5092, 
+        "raidBattleRewardMstId": 20102, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1011, 
+        "raidBattleRewardMstId": 20103, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 20104, 
+        "num": 30000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1011, 
+        "raidBattleRewardMstId": 20105, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5091, 
+        "raidBattleRewardMstId": 20106, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5011, 
+        "raidBattleRewardMstId": 20107, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5091, 
+        "raidBattleRewardMstId": 20108, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5011, 
+        "raidBattleRewardMstId": 20109, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5091, 
+        "raidBattleRewardMstId": 20110, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5011, 
+        "raidBattleRewardMstId": 20111, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 201
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 30001, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 30002, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1013, 
+        "raidBattleRewardMstId": 30003, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 30004, 
+        "num": 10000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1013, 
+        "raidBattleRewardMstId": 30005, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5030, 
+        "raidBattleRewardMstId": 30006, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5020, 
+        "raidBattleRewardMstId": 30007, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5030, 
+        "raidBattleRewardMstId": 30008, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5020, 
+        "raidBattleRewardMstId": 30009, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5030, 
+        "raidBattleRewardMstId": 30010, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5020, 
+        "raidBattleRewardMstId": 30011, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 300
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5032, 
+        "raidBattleRewardMstId": 30101, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5022, 
+        "raidBattleRewardMstId": 30102, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1013, 
+        "raidBattleRewardMstId": 30103, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 30104, 
+        "num": 30000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1013, 
+        "raidBattleRewardMstId": 30105, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 30106, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 30107, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 30108, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 30109, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5031, 
+        "raidBattleRewardMstId": 30110, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 30111, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 301
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 40001, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 40002, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1015, 
+        "raidBattleRewardMstId": 40003, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 40004, 
+        "num": 10000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1015, 
+        "raidBattleRewardMstId": 40005, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5070, 
+        "raidBattleRewardMstId": 40006, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5080, 
+        "raidBattleRewardMstId": 40007, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5070, 
+        "raidBattleRewardMstId": 40008, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5080, 
+        "raidBattleRewardMstId": 40009, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5070, 
+        "raidBattleRewardMstId": 40010, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5080, 
+        "raidBattleRewardMstId": 40011, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 400
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5072, 
+        "raidBattleRewardMstId": 40101, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5082, 
+        "raidBattleRewardMstId": 40102, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1015, 
+        "raidBattleRewardMstId": 40103, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 40104, 
+        "num": 30000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1015, 
+        "raidBattleRewardMstId": 40105, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 40106, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 40107, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 40108, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 40109, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 40110, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 40111, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 401
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 50001, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 50002, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1017, 
+        "raidBattleRewardMstId": 50003, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 50004, 
+        "num": 10000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1017, 
+        "raidBattleRewardMstId": 50005, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5080, 
+        "raidBattleRewardMstId": 50006, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5070, 
+        "raidBattleRewardMstId": 50007, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5080, 
+        "raidBattleRewardMstId": 50008, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5070, 
+        "raidBattleRewardMstId": 50009, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5080, 
+        "raidBattleRewardMstId": 50010, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5070, 
+        "raidBattleRewardMstId": 50011, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 500
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5082, 
+        "raidBattleRewardMstId": 50101, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5072, 
+        "raidBattleRewardMstId": 50102, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1017, 
+        "raidBattleRewardMstId": 50103, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 50104, 
+        "num": 30000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1017, 
+        "raidBattleRewardMstId": 50105, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 50106, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 50107, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 50108, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 50109, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5081, 
+        "raidBattleRewardMstId": 50110, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5071, 
+        "raidBattleRewardMstId": 50111, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 501
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 60001, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 60002, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1019, 
+        "raidBattleRewardMstId": 60003, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 60004, 
+        "num": 10000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1019, 
+        "raidBattleRewardMstId": 60005, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5020, 
+        "raidBattleRewardMstId": 60006, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5000, 
+        "raidBattleRewardMstId": 60007, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5020, 
+        "raidBattleRewardMstId": 60008, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5000, 
+        "raidBattleRewardMstId": 60009, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5020, 
+        "raidBattleRewardMstId": 60010, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5000, 
+        "raidBattleRewardMstId": 60011, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 600
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5022, 
+        "raidBattleRewardMstId": 60101, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5002, 
+        "raidBattleRewardMstId": 60102, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1019, 
+        "raidBattleRewardMstId": 60103, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 60104, 
+        "num": 30000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1019, 
+        "raidBattleRewardMstId": 60105, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 60106, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 60107, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 60108, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 60109, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5021, 
+        "raidBattleRewardMstId": 60110, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 60111, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 601
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 70001, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 70002, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1021, 
+        "raidBattleRewardMstId": 70003, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 70004, 
+        "num": 10000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1021, 
+        "raidBattleRewardMstId": 70005, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5000, 
+        "raidBattleRewardMstId": 70006, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5060, 
+        "raidBattleRewardMstId": 70007, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5000, 
+        "raidBattleRewardMstId": 70008, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5060, 
+        "raidBattleRewardMstId": 70009, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5000, 
+        "raidBattleRewardMstId": 70010, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5060, 
+        "raidBattleRewardMstId": 70011, 
+        "num": 5, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 700
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5002, 
+        "raidBattleRewardMstId": 70101, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5062, 
+        "raidBattleRewardMstId": 70102, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "create", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1021, 
+        "raidBattleRewardMstId": 70103, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "entry", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 0, 
+        "raidBattleRewardMstId": 70104, 
+        "num": 30000, 
+        "presentType": "virtualMoney", 
+        "type": "defeat", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 1021, 
+        "raidBattleRewardMstId": 70105, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "damage", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 70106, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 70107, 
+        "num": 1, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 70108, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 70109, 
+        "num": 2, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5001, 
+        "raidBattleRewardMstId": 70110, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }, 
+    {
+        "updatedTime": 1617691480, 
+        "objectId": 5061, 
+        "raidBattleRewardMstId": 70111, 
+        "num": 3, 
+        "presentType": "item", 
+        "type": "contribute", 
+        "valid": 1, 
+        "raidStageMstId": 701
+    }
+]
