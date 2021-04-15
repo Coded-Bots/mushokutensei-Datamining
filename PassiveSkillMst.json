@@ -3,4590 +3,4716 @@
         "passiveSkillMstId": 100100100, 
         "note": "自身の魔術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100101, 
         "note": "自身の魔術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100102, 
         "note": "自身の魔術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100103, 
         "note": "自身の魔術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100104, 
         "note": "自身の魔術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100200, 
         "note": "自身の剣術防御力を10%UP+憤怒耐性を30%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100201, 
         "note": "自身の剣術防御力を12%UP+憤怒耐性を34%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100202, 
         "note": "自身の剣術防御力を14%UP+憤怒耐性を38%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100203, 
         "note": "自身の剣術防御力を16%UP+憤怒耐性を42%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100204, 
         "note": "自身の剣術防御力を20%UP+憤怒耐性を50%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100300, 
         "note": "自身の魔術攻撃力を15%UP+憤怒耐性を40%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100301, 
         "note": "自身の魔術攻撃力を17%UP+憤怒耐性を44%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100302, 
         "note": "自身の魔術攻撃力を19%UP+憤怒耐性を48%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100303, 
         "note": "自身の魔術攻撃力を21%UP+憤怒耐性を52%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100304, 
         "note": "自身の魔術攻撃力を25%UP+憤怒耐性を60%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100400, 
         "note": "自身の魔術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100401, 
         "note": "自身の魔術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100402, 
         "note": "自身の魔術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100403, 
         "note": "自身の魔術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100404, 
         "note": "自身の魔術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100500, 
         "note": "自身の魔術攻撃力を20%UP+憤怒耐性を60%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100501, 
         "note": "自身の魔術攻撃力を22%UP+憤怒耐性を64%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100502, 
         "note": "自身の魔術攻撃力を24%UP+憤怒耐性を68%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100503, 
         "note": "自身の魔術攻撃力を26%UP+憤怒耐性を72%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100504, 
         "note": "自身の魔術攻撃力を30%UP+憤怒耐性を80%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100600, 
         "note": "自身の魔術攻撃力を15%UP+憤怒耐性を40%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100601, 
         "note": "自身の魔術攻撃力を17%UP+憤怒耐性を44%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100602, 
         "note": "自身の魔術攻撃力を19%UP+憤怒耐性を48%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100603, 
         "note": "自身の魔術攻撃力を21%UP+憤怒耐性を52%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100604, 
         "note": "自身の魔術攻撃力を25%UP+憤怒耐性を60%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100900, 
         "note": "自身の魔術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100901, 
         "note": "自身の魔術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100902, 
         "note": "自身の魔術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100903, 
         "note": "自身の魔術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100100904, 
         "note": "自身の魔術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101000, 
         "note": "自身の魔術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101001, 
         "note": "自身の魔術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101002, 
         "note": "自身の魔術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101003, 
         "note": "自身の魔術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101004, 
         "note": "自身の魔術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101100, 
         "note": "自身の魔術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101101, 
         "note": "自身の魔術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101102, 
         "note": "自身の魔術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101103, 
         "note": "自身の魔術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101104, 
         "note": "自身の魔術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101200, 
         "note": "自身の魔術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101201, 
         "note": "自身の魔術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101202, 
         "note": "自身の魔術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101203, 
         "note": "自身の魔術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100101204, 
         "note": "自身の魔術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200100, 
         "note": "ルーデウスの攻撃力を15%UP+火傷耐性を30%UP", 
         "name": "攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200101, 
         "note": "ルーデウスの攻撃力を17%UP+火傷耐性を34%UP", 
         "name": "攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200102, 
         "note": "ルーデウスの攻撃力を19%UP+火傷耐性を38%UP", 
         "name": "攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200103, 
         "note": "ルーデウスの攻撃力を21%UP+火傷耐性を42%UP", 
         "name": "攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200104, 
         "note": "ルーデウスの攻撃力を25%UP+火傷耐性を50%UP", 
         "name": "攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200200, 
         "note": "自身の魔術攻撃力を20%UP+火傷耐性を60%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200201, 
         "note": "自身の魔術攻撃力を22%UP+火傷耐性を64%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200202, 
         "note": "自身の魔術攻撃力を24%UP+火傷耐性を68%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200203, 
         "note": "自身の魔術攻撃力を26%UP+火傷耐性を72%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200204, 
         "note": "自身の魔術攻撃力を30%UP+火傷耐性を80%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200300, 
         "note": "自身の魔術攻撃力を10%UP+火傷耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200301, 
         "note": "自身の魔術攻撃力を12%UP+火傷耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200302, 
         "note": "自身の魔術攻撃力を14%UP+火傷耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200303, 
         "note": "自身の魔術攻撃力を16%UP+火傷耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200304, 
         "note": "自身の魔術攻撃力を20%UP+火傷耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200400, 
         "note": "自身の魔術攻撃力を15%UP+火傷耐性を40%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200401, 
         "note": "自身の魔術攻撃力を17%UP+火傷耐性を44%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200402, 
         "note": "自身の魔術攻撃力を19%UP+火傷耐性を48%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200403, 
         "note": "自身の魔術攻撃力を21%UP+火傷耐性を52%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200404, 
         "note": "自身の魔術攻撃力を25%UP+火傷耐性を60%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200500, 
         "note": "自身の魔術攻撃力を15%UP+火傷耐性を40%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200501, 
         "note": "自身の魔術攻撃力を17%UP+火傷耐性を44%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200502, 
         "note": "自身の魔術攻撃力を19%UP+火傷耐性を48%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200503, 
         "note": "自身の魔術攻撃力を21%UP+火傷耐性を52%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200504, 
         "note": "自身の魔術攻撃力を25%UP+火傷耐性を60%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200700, 
         "note": "自身の魔術攻撃力を10%UP+火傷耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200701, 
         "note": "自身の魔術攻撃力を12%UP+火傷耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200702, 
         "note": "自身の魔術攻撃力を14%UP+火傷耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200703, 
         "note": "自身の魔術攻撃力を16%UP+火傷耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200704, 
         "note": "自身の魔術攻撃力を20%UP+火傷耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200800, 
         "note": "自身の魔術攻撃力を10%UP+火傷耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200801, 
         "note": "自身の魔術攻撃力を12%UP+火傷耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200802, 
         "note": "自身の魔術攻撃力を14%UP+火傷耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200803, 
         "note": "自身の魔術攻撃力を16%UP+火傷耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200804, 
         "note": "自身の魔術攻撃力を20%UP+火傷耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200900, 
         "note": "自身の魔術攻撃力を10%UP+火傷耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200901, 
         "note": "自身の魔術攻撃力を12%UP+火傷耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200902, 
         "note": "自身の魔術攻撃力を14%UP+火傷耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200903, 
         "note": "自身の魔術攻撃力を16%UP+火傷耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100200904, 
         "note": "自身の魔術攻撃力を20%UP+火傷耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100201000, 
+        "note": "自身の魔術攻撃力を15%UP+火傷耐性を40%UP+睡眠耐性を40%UP", 
+        "name": "魔術攻撃力UPLv.1", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100201001, 
+        "note": "自身の魔術攻撃力を17%UP+火傷耐性を44%UP+睡眠耐性を44%UP", 
+        "name": "魔術攻撃力UPLv.2", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100201002, 
+        "note": "自身の魔術攻撃力を19%UP+火傷耐性を48%UP+睡眠耐性を48%UP", 
+        "name": "魔術攻撃力UPLv.3", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100201003, 
+        "note": "自身の魔術攻撃力を21%UP+火傷耐性を52%UP+睡眠耐性を52%UP", 
+        "name": "魔術攻撃力UPLv.4", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100201004, 
+        "note": "自身の魔術攻撃力を25%UP+火傷耐性を60%UP+睡眠耐性を60%UP", 
+        "name": "魔術攻撃力UPLv.5", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300100, 
         "note": "自身の魔術攻撃力を10%UP+麻痺耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300101, 
         "note": "自身の魔術攻撃力を12%UP+麻痺耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300102, 
         "note": "自身の魔術攻撃力を14%UP+麻痺耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300103, 
         "note": "自身の魔術攻撃力を16%UP+麻痺耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300104, 
         "note": "自身の魔術攻撃力を20%UP+麻痺耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300200, 
         "note": "自身の魔術攻撃力を15%UP+麻痺耐性を40%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300201, 
         "note": "自身の魔術攻撃力を17%UP+麻痺耐性を44%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300202, 
         "note": "自身の魔術攻撃力を19%UP+麻痺耐性を48%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300203, 
         "note": "自身の魔術攻撃力を21%UP+麻痺耐性を52%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300204, 
         "note": "自身の魔術攻撃力を25%UP+麻痺耐性を60%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300300, 
         "note": "自身の魔術防御力を15%UP+麻痺耐性を40%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300301, 
         "note": "自身の魔術防御力を17%UP+麻痺耐性を44%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300302, 
         "note": "自身の魔術防御力を19%UP+麻痺耐性を48%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300303, 
         "note": "自身の魔術防御力を21%UP+麻痺耐性を52%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300304, 
         "note": "自身の魔術防御力を25%UP+麻痺耐性を60%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300400, 
         "note": "自身の魔術防御力を20%UP+麻痺耐性を60%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300401, 
         "note": "自身の魔術防御力を22%UP+麻痺耐性を64%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300402, 
         "note": "自身の魔術防御力を24%UP+麻痺耐性を68%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300403, 
         "note": "自身の魔術防御力を26%UP+麻痺耐性を72%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300404, 
         "note": "自身の魔術防御力を30%UP+麻痺耐性を80%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300700, 
         "note": "自身の魔術攻撃力を10%UP+麻痺耐性を30%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300701, 
         "note": "自身の魔術攻撃力を12%UP+麻痺耐性を34%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300702, 
         "note": "自身の魔術攻撃力を14%UP+麻痺耐性を38%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300703, 
         "note": "自身の魔術攻撃力を16%UP+麻痺耐性を42%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300704, 
         "note": "自身の魔術攻撃力を20%UP+麻痺耐性を50%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300800, 
         "note": "自身の魔術防御力を10%UP+麻痺耐性を30%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300801, 
         "note": "自身の魔術防御力を12%UP+麻痺耐性を34%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300802, 
         "note": "自身の魔術防御力を14%UP+麻痺耐性を38%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300803, 
         "note": "自身の魔術防御力を16%UP+麻痺耐性を42%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300804, 
         "note": "自身の魔術防御力を20%UP+麻痺耐性を50%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300900, 
         "note": "ルーデウスの攻撃力を15%UP+自身の麻痺耐性を30%UP", 
         "name": "攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300901, 
         "note": "ルーデウスの攻撃力を17%UP+自身の麻痺耐性を34%UP", 
         "name": "攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300902, 
         "note": "ルーデウスの攻撃力を19%UP+自身の麻痺耐性を38%UP", 
         "name": "攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300903, 
         "note": "ルーデウスの攻撃力を21%UP+自身の麻痺耐性を42%UP", 
         "name": "攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100300904, 
         "note": "ルーデウスの攻撃力を25%UP+自身の麻痺耐性を50%UP", 
         "name": "攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400100, 
         "note": "自身の剣術攻撃力を10%UP+毒耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400101, 
         "note": "自身の剣術攻撃力を12%UP+毒耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400102, 
         "note": "自身の剣術攻撃力を14%UP+毒耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400103, 
         "note": "自身の剣術攻撃力を16%UP+毒耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400104, 
         "note": "自身の剣術攻撃力を20%UP+毒耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400200, 
         "note": "確率で自身の会心発生率を40%UP+毒耐性を40%UP", 
         "name": "会心発生率UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400201, 
         "note": "確率で自身の会心発生率を42%UP+毒耐性を44%UP", 
         "name": "会心発生率UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400202, 
         "note": "確率で自身の会心発生率を44%UP+毒耐性を48%UP", 
         "name": "会心発生率UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400203, 
         "note": "確率で自身の会心発生率を46%UP+毒耐性を52%UP", 
         "name": "会心発生率UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400204, 
         "note": "確率で自身の会心発生率を50%UP+毒耐性を60%UP", 
         "name": "会心発生率UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400300, 
         "note": "自身の剣術攻撃力を15%UP+毒耐性を40%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400301, 
         "note": "自身の剣術攻撃力を17%UP+毒耐性を44%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400302, 
         "note": "自身の剣術攻撃力を19%UP+毒耐性を48%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400303, 
         "note": "自身の剣術攻撃力を21%UP+毒耐性を52%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400304, 
         "note": "自身の剣術攻撃力を25%UP+毒耐性を60%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400400, 
         "note": "自身の剣術攻撃力を10%UP+毒耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400401, 
         "note": "自身の剣術攻撃力を12%UP+毒耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400402, 
         "note": "自身の剣術攻撃力を14%UP+毒耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400403, 
         "note": "自身の剣術攻撃力を16%UP+毒耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400404, 
         "note": "自身の剣術攻撃力を20%UP+毒耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400500, 
         "note": "自身の剣術攻撃力を20%UP+毒耐性を60%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400501, 
         "note": "自身の剣術攻撃力を22%UP+毒耐性を64%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400502, 
         "note": "自身の剣術攻撃力を24%UP+毒耐性を68%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400503, 
         "note": "自身の剣術攻撃力を26%UP+毒耐性を72%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400504, 
         "note": "自身の剣術攻撃力を30%UP+毒耐性を80%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400600, 
         "note": "自身の剣術攻撃力を15%UP+毒耐性を40%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400601, 
         "note": "自身の剣術攻撃力を17%UP+毒耐性を44%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400602, 
         "note": "自身の剣術攻撃力を19%UP+毒耐性を48%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400603, 
         "note": "自身の剣術攻撃力を21%UP+毒耐性を52%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100400604, 
         "note": "自身の剣術攻撃力を25%UP+毒耐性を60%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401300, 
         "note": "確率で自身の会心発生率を30%UP+毒耐性を30%UP", 
         "name": "会心発生率UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401301, 
         "note": "確率で自身の会心発生率を32%UP+毒耐性を34%UP", 
         "name": "会心発生率UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401302, 
         "note": "確率で自身の会心発生率を34%UP+毒耐性を38%UP", 
         "name": "会心発生率UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401303, 
         "note": "確率で自身の会心発生率を36%UP+毒耐性を42%UP", 
         "name": "会心発生率UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401304, 
         "note": "確率で自身の会心発生率を40%UP+毒耐性を50%UP", 
         "name": "会心発生率UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401400, 
         "note": "自身の剣術攻撃力を10%UP+毒耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401401, 
         "note": "自身の剣術攻撃力を12%UP+毒耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401402, 
         "note": "自身の剣術攻撃力を14%UP+毒耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401403, 
         "note": "自身の剣術攻撃力を16%UP+毒耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401404, 
         "note": "自身の剣術攻撃力を20%UP+毒耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401500, 
         "note": "自身の剣術攻撃力を10%UP+毒耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401501, 
         "note": "自身の剣術攻撃力を12%UP+毒耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401502, 
         "note": "自身の剣術攻撃力を14%UP+毒耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401503, 
         "note": "自身の剣術攻撃力を16%UP+毒耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100401504, 
         "note": "自身の剣術攻撃力を20%UP+毒耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100401600, 
+        "note": "自身の魔術攻撃力を20%UP+毒耐性を60%UP+睡眠耐性を60%UP", 
+        "name": "魔術攻撃力UPLv.1", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100401601, 
+        "note": "自身の魔術攻撃力を22%UP+毒耐性を64%UP+睡眠耐性を64%UP", 
+        "name": "魔術攻撃力UPLv.2", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100401602, 
+        "note": "自身の魔術攻撃力を24%UP+毒耐性を68%UP+睡眠耐性を68%UP", 
+        "name": "魔術攻撃力UPLv.3", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100401603, 
+        "note": "自身の魔術攻撃力を26%UP+毒耐性を72%UP+睡眠耐性を72%UP", 
+        "name": "魔術攻撃力UPLv.4", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100401604, 
+        "note": "自身の魔術攻撃力を30%UP+毒耐性を80%UP+睡眠耐性を80%UP", 
+        "name": "魔術攻撃力UPLv.5", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500100, 
         "note": "自身の剣術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500101, 
         "note": "自身の剣術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500102, 
         "note": "自身の剣術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500103, 
         "note": "自身の剣術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500104, 
         "note": "自身の剣術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500200, 
         "note": "自身の剣術攻撃力を15%UP+憤怒耐性を40%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500201, 
         "note": "自身の剣術攻撃力を17%UP+憤怒耐性を44%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500202, 
         "note": "自身の剣術攻撃力を19%UP+憤怒耐性を48%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500203, 
         "note": "自身の剣術攻撃力を21%UP+憤怒耐性を52%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500204, 
         "note": "自身の剣術攻撃力を25%UP+憤怒耐性を60%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500500, 
         "note": "自身の剣術攻撃力を20%UP+憤怒耐性を60%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500501, 
         "note": "自身の剣術攻撃力を22%UP+憤怒耐性を64%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500502, 
         "note": "自身の剣術攻撃力を24%UP+憤怒耐性を68%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500503, 
         "note": "自身の剣術攻撃力を26%UP+憤怒耐性を72%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500504, 
         "note": "自身の剣術攻撃力を30%UP+憤怒耐性を80%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500600, 
         "note": "自身の剣術防御力を15%UP+憤怒耐性を40%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500601, 
         "note": "自身の剣術防御力を17%UP+憤怒耐性を44%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500602, 
         "note": "自身の剣術防御力を19%UP+憤怒耐性を48%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500603, 
         "note": "自身の剣術防御力を21%UP+憤怒耐性を52%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500604, 
         "note": "自身の剣術防御力を25%UP+憤怒耐性を60%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500700, 
         "note": "自身の剣術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500701, 
         "note": "自身の剣術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500702, 
         "note": "自身の剣術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500703, 
         "note": "自身の剣術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500704, 
         "note": "自身の剣術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500900, 
         "note": "自身の剣術攻撃力を10%UP+憤怒耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500901, 
         "note": "自身の剣術攻撃力を12%UP+憤怒耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500902, 
         "note": "自身の剣術攻撃力を14%UP+憤怒耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500903, 
         "note": "自身の剣術攻撃力を16%UP+憤怒耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100500904, 
         "note": "自身の剣術攻撃力を20%UP+憤怒耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600100, 
         "note": "自身の麻痺耐性を30%UP+毒耐性を30%UP", 
         "name": "麻痺耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600101, 
         "note": "自身の麻痺耐性を34%UP+毒耐性を34%UP", 
         "name": "麻痺耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600102, 
         "note": "自身の麻痺耐性を38%UP+毒耐性を38%UP", 
         "name": "麻痺耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600103, 
         "note": "自身の麻痺耐性を42%UP+毒耐性を42%UP", 
         "name": "麻痺耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600104, 
         "note": "自身の麻痺耐性を50%UP+毒耐性を50%UP", 
         "name": "麻痺耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600300, 
         "note": "自身の魔術防御力を10%UP+毒耐性を30%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600301, 
         "note": "自身の魔術防御力を12%UP+毒耐性を34%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600302, 
         "note": "自身の魔術防御力を14%UP+毒耐性を38%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600303, 
         "note": "自身の魔術防御力を16%UP+毒耐性を42%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100600304, 
         "note": "自身の魔術防御力を20%UP+毒耐性を50%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100600400, 
+        "note": "自身の魔術防御力を20%UP+毒耐性を60%UP+睡眠耐性を60%UP", 
+        "name": "魔術防御力UPLv.1", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100600401, 
+        "note": "自身の魔術防御力を22%UP+毒耐性を64%UP+睡眠耐性を64%UP", 
+        "name": "魔術防御力UPLv.2", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100600402, 
+        "note": "自身の魔術防御力を24%UP+毒耐性を68%UP+睡眠耐性を68%UP", 
+        "name": "魔術防御力UPLv.3", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100600403, 
+        "note": "自身の魔術防御力を26%UP+毒耐性を72%UP+睡眠耐性を72%UP", 
+        "name": "魔術防御力UPLv.4", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 100600404, 
+        "note": "自身の魔術防御力を30%UP+毒耐性を80%UP+睡眠耐性を80%UP", 
+        "name": "魔術防御力UPLv.5", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700100, 
         "note": "自身の魔術防御力を10%UP+火傷耐性を30%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700101, 
         "note": "自身の魔術防御力を12%UP+火傷耐性を34%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700102, 
         "note": "自身の魔術防御力を14%UP+火傷耐性を38%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700103, 
         "note": "自身の魔術防御力を16%UP+火傷耐性を42%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700104, 
         "note": "自身の魔術防御力を20%UP+火傷耐性を50%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700200, 
         "note": "自身の剣術防御力を15%UP+火傷耐性を40%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700201, 
         "note": "自身の剣術防御力を17%UP+火傷耐性を44%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700202, 
         "note": "自身の剣術防御力を19%UP+火傷耐性を48%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700203, 
         "note": "自身の剣術防御力を21%UP+火傷耐性を52%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700204, 
         "note": "自身の剣術防御力を25%UP+火傷耐性を60%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700400, 
         "note": "自身の剣術防御力を10%UP+火傷耐性を30%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700401, 
         "note": "自身の剣術防御力を12%UP+火傷耐性を34%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700402, 
         "note": "自身の剣術防御力を14%UP+火傷耐性を38%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700403, 
         "note": "自身の剣術防御力を16%UP+火傷耐性を42%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 100700404, 
         "note": "自身の剣術防御力を20%UP+火傷耐性を50%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000100, 
         "note": "自身の剣術攻撃力を10%UP+恐怖耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000101, 
         "note": "自身の剣術攻撃力を12%UP+恐怖耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000102, 
         "note": "自身の剣術攻撃力を14%UP+恐怖耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000103, 
         "note": "自身の剣術攻撃力を16%UP+恐怖耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000104, 
         "note": "自身の剣術攻撃力を20%UP+恐怖耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000200, 
         "note": "自身の剣術攻撃力を20%UP+恐怖耐性を60%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000201, 
         "note": "自身の剣術攻撃力を22%UP+恐怖耐性を64%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000202, 
         "note": "自身の剣術攻撃力を24%UP+恐怖耐性を68%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000203, 
         "note": "自身の剣術攻撃力を26%UP+恐怖耐性を72%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000204, 
         "note": "自身の剣術攻撃力を30%UP+恐怖耐性を80%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000300, 
         "note": "自身の剣術攻撃力を10%UP+恐怖耐性を30%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000301, 
         "note": "自身の剣術攻撃力を12%UP+恐怖耐性を34%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000302, 
         "note": "自身の剣術攻撃力を14%UP+恐怖耐性を38%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000303, 
         "note": "自身の剣術攻撃力を16%UP+恐怖耐性を42%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000304, 
         "note": "自身の剣術攻撃力を20%UP+恐怖耐性を50%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000400, 
         "note": "自身の剣術攻撃力を15%UP+恐怖耐性を40%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000401, 
         "note": "自身の剣術攻撃力を17%UP+恐怖耐性を44%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000402, 
         "note": "自身の剣術攻撃力を19%UP+恐怖耐性を48%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000403, 
         "note": "自身の剣術攻撃力を21%UP+恐怖耐性を52%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101000404, 
         "note": "自身の剣術攻撃力を25%UP+恐怖耐性を60%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100100, 
         "note": "自身の通常攻撃ダメージを10%UP+麻痺耐性を30%UP", 
         "name": "通常攻撃ダメージUPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100101, 
         "note": "自身の通常攻撃ダメージを12%UP+麻痺耐性を34%UP", 
         "name": "通常攻撃ダメージUPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100102, 
         "note": "自身の通常攻撃ダメージを14%UP+麻痺耐性を38%UP", 
         "name": "通常攻撃ダメージUPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100103, 
         "note": "自身の通常攻撃ダメージを16%UP+麻痺耐性を42%UP", 
         "name": "通常攻撃ダメージUPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100104, 
         "note": "自身の通常攻撃ダメージを20%UP+麻痺耐性を50%UP", 
         "name": "通常攻撃ダメージUPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100300, 
         "note": "自身の通常攻撃ダメージを10%UP+麻痺耐性を30%UP", 
         "name": "通常攻撃ダメージUPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100301, 
         "note": "自身の通常攻撃ダメージを12%UP+麻痺耐性を34%UP", 
         "name": "通常攻撃ダメージUPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100302, 
         "note": "自身の通常攻撃ダメージを14%UP+麻痺耐性を38%UP", 
         "name": "通常攻撃ダメージUPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100303, 
         "note": "自身の通常攻撃ダメージを16%UP+麻痺耐性を42%UP", 
         "name": "通常攻撃ダメージUPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101100304, 
         "note": "自身の通常攻撃ダメージを20%UP+麻痺耐性を50%UP", 
         "name": "通常攻撃ダメージUPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500100, 
         "note": "人族に与えるダメージを25%UP+自身の気絶耐性を40%UP", 
         "name": "人族に与えるダメージUPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500101, 
         "note": "人族に与えるダメージを27%UP+自身の気絶耐性を44%UP", 
         "name": "人族に与えるダメージUPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500102, 
         "note": "人族に与えるダメージを29%UP+自身の気絶耐性を48%UP", 
         "name": "人族に与えるダメージUPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500103, 
         "note": "人族に与えるダメージを31%UP+自身の気絶耐性を52%UP", 
         "name": "人族に与えるダメージUPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500104, 
         "note": "人族に与えるダメージを35%UP+自身の気絶耐性を60%UP", 
         "name": "人族に与えるダメージUPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500200, 
         "note": "人族に与えるダメージを20%UP+自身の気絶耐性を30%UP", 
         "name": "人族に与えるダメージUPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500201, 
         "note": "人族に与えるダメージを22%UP+自身の気絶耐性を34%UP", 
         "name": "人族に与えるダメージUPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500202, 
         "note": "人族に与えるダメージを24%UP+自身の気絶耐性を38%UP", 
         "name": "人族に与えるダメージUPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500203, 
         "note": "人族に与えるダメージを26%UP+自身の気絶耐性を42%UP", 
         "name": "人族に与えるダメージUPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500204, 
         "note": "人族に与えるダメージを30%UP+自身の気絶耐性を50%UP", 
         "name": "人族に与えるダメージUPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500800, 
         "note": "人族に与えるダメージを20%UP+自身の気絶耐性を30%UP", 
         "name": "人族に与えるダメージUPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500801, 
         "note": "人族に与えるダメージを22%UP+自身の気絶耐性を34%UP", 
         "name": "人族に与えるダメージUPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500802, 
         "note": "人族に与えるダメージを24%UP+自身の気絶耐性を38%UP", 
         "name": "人族に与えるダメージUPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500803, 
         "note": "人族に与えるダメージを26%UP+自身の気絶耐性を42%UP", 
         "name": "人族に与えるダメージUPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101500804, 
         "note": "人族に与えるダメージを30%UP+自身の気絶耐性を50%UP", 
         "name": "人族に与えるダメージUPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600100, 
         "note": "自身の剣術防御力を10%UP+気絶耐性を30%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600101, 
         "note": "自身の剣術防御力を12%UP+気絶耐性を34%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600102, 
         "note": "自身の剣術防御力を14%UP+気絶耐性を38%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600103, 
         "note": "自身の剣術防御力を16%UP+気絶耐性を42%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600104, 
         "note": "自身の剣術防御力を20%UP+気絶耐性を50%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600200, 
         "note": "自身の被ダメージを15%DOWN+気絶耐性を60%UP", 
         "name": "被ダメージDOWNLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600201, 
         "note": "自身の被ダメージを16%DOWN+気絶耐性を64%UP", 
         "name": "被ダメージDOWNLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600202, 
         "note": "自身の被ダメージを17%DOWN+気絶耐性を68%UP", 
         "name": "被ダメージDOWNLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600203, 
         "note": "自身の被ダメージを18%DOWN+気絶耐性を72%UP", 
         "name": "被ダメージDOWNLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600204, 
         "note": "自身の被ダメージを20%DOWN+気絶耐性を80%UP", 
         "name": "被ダメージDOWNLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600300, 
         "note": "自身の剣術防御力を10%UP+気絶耐性を30%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600301, 
         "note": "自身の剣術防御力を12%UP+気絶耐性を34%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600302, 
         "note": "自身の剣術防御力を14%UP+気絶耐性を38%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600303, 
         "note": "自身の剣術防御力を16%UP+気絶耐性を42%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101600304, 
         "note": "自身の剣術防御力を20%UP+気絶耐性を50%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700100, 
         "note": "自身の魔術防御力を10%UP+恐怖耐性を30%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700101, 
         "note": "自身の魔術防御力を12%UP+恐怖耐性を34%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700102, 
         "note": "自身の魔術防御力を14%UP+恐怖耐性を38%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700103, 
         "note": "自身の魔術防御力を16%UP+恐怖耐性を42%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700104, 
         "note": "自身の魔術防御力を20%UP+恐怖耐性を50%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700200, 
         "note": "自身の魔術防御力を15%UP+恐怖耐性を40%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700201, 
         "note": "自身の魔術防御力を17%UP+恐怖耐性を44%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700202, 
         "note": "自身の魔術防御力を19%UP+恐怖耐性を48%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700203, 
         "note": "自身の魔術防御力を21%UP+恐怖耐性を52%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700204, 
         "note": "自身の魔術防御力を25%UP+恐怖耐性を60%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700300, 
         "note": "自身の剣術防御力を10%UP+恐怖耐性を30%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700301, 
         "note": "自身の剣術防御力を12%UP+恐怖耐性を34%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700302, 
         "note": "自身の剣術防御力を14%UP+恐怖耐性を38%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700303, 
         "note": "自身の剣術防御力を16%UP+恐怖耐性を42%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101700304, 
         "note": "自身の剣術防御力を20%UP+恐怖耐性を50%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800100, 
         "note": "自身の剣術防御力を10%UP+暗闇耐性を30%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800101, 
         "note": "自身の剣術防御力を12%UP+暗闇耐性を34%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800102, 
         "note": "自身の剣術防御力を14%UP+暗闇耐性を38%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800103, 
         "note": "自身の剣術防御力を16%UP+暗闇耐性を42%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800104, 
         "note": "自身の剣術防御力を20%UP+暗闇耐性を50%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800300, 
         "note": "自身の剣術防御力を10%UP+暗闇耐性を30%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800301, 
         "note": "自身の剣術防御力を12%UP+暗闇耐性を34%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800302, 
         "note": "自身の剣術防御力を14%UP+暗闇耐性を38%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800303, 
         "note": "自身の剣術防御力を16%UP+暗闇耐性を42%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 101800304, 
         "note": "自身の剣術防御力を20%UP+暗闇耐性を50%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000000, 
         "note": "自身の魔術攻撃力を10UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000001, 
         "note": "自身の魔術攻撃力を12UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000002, 
         "note": "自身の魔術攻撃力を14UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000003, 
         "note": "自身の魔術攻撃力を16UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000004, 
         "note": "自身の魔術攻撃力を18UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000005, 
         "note": "自身の魔術攻撃力を20UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000100, 
         "note": "自身の剣術攻撃力を10UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000101, 
         "note": "自身の剣術攻撃力を12UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000102, 
         "note": "自身の剣術攻撃力を14UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000103, 
         "note": "自身の剣術攻撃力を16UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000104, 
         "note": "自身の剣術攻撃力を18UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000105, 
         "note": "自身の剣術攻撃力を20UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000200, 
         "note": "自身の剣術防御力を10UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000201, 
         "note": "自身の剣術防御力を12UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000202, 
         "note": "自身の剣術防御力を14UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000203, 
         "note": "自身の剣術防御力を16UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000204, 
         "note": "自身の剣術防御力を18UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000205, 
         "note": "自身の剣術防御力を20UP", 
         "name": "剣術防御力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000300, 
         "note": "自身の剣術防御力を5%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000301, 
         "note": "自身の剣術防御力を6%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000302, 
         "note": "自身の剣術防御力を7%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000303, 
         "note": "自身の剣術防御力を8%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000304, 
         "note": "自身の剣術防御力を9%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000305, 
         "note": "自身の剣術防御力を10%UP", 
         "name": "剣術防御力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000400, 
         "note": "自身の剣術防御力を10%UP", 
         "name": "剣術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000401, 
         "note": "自身の剣術防御力を11%UP", 
         "name": "剣術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000402, 
         "note": "自身の剣術防御力を12%UP", 
         "name": "剣術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000403, 
         "note": "自身の剣術防御力を13%UP", 
         "name": "剣術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000404, 
         "note": "自身の剣術防御力を14%UP", 
         "name": "剣術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000405, 
         "note": "自身の剣術防御力を15%UP", 
         "name": "剣術防御力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000500, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000501, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000502, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000503, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000504, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000505, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000600, 
         "note": "自身の魔術防御力を10UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000601, 
         "note": "自身の魔術防御力を12UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000602, 
         "note": "自身の魔術防御力を14UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000603, 
         "note": "自身の魔術防御力を16UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000604, 
         "note": "自身の魔術防御力を18UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000605, 
         "note": "自身の魔術防御力を20UP", 
         "name": "魔術防御力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000700, 
         "note": "自身の魔術防御力を5%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000701, 
         "note": "自身の魔術防御力を6%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000702, 
         "note": "自身の魔術防御力を7%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000703, 
         "note": "自身の魔術防御力を8%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000704, 
         "note": "自身の魔術防御力を9%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000705, 
         "note": "自身の魔術防御力を10%UP", 
         "name": "魔術防御力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000800, 
         "note": "自身の魔術防御力を10%UP", 
         "name": "魔術防御力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000801, 
         "note": "自身の魔術防御力を11%UP", 
         "name": "魔術防御力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000802, 
         "note": "自身の魔術防御力を12%UP", 
         "name": "魔術防御力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000803, 
         "note": "自身の魔術防御力を13%UP", 
         "name": "魔術防御力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000804, 
         "note": "自身の魔術防御力を14%UP", 
         "name": "魔術防御力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000805, 
         "note": "自身の魔術防御力を15%UP", 
         "name": "魔術防御力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000900, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000901, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000902, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000903, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000904, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90000905, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001000, 
-        "note": "自身が水属性なら、魔術攻撃力を15%UP＋ロキシー【小さな師匠】の奥義「豪雷積層雲（キュムロニンバス）」のダメージを10%UP", 
+        "note": "自身が水属性なら、魔術攻撃力を15%UP＋【小さな師匠】ロキシーの奥義「豪雷積層雲（キュムロニンバス）」のダメージを10%UP", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001001, 
-        "note": "自身が水属性なら、魔術攻撃力を16%UP＋ロキシー【小さな師匠】の奥義「豪雷積層雲（キュムロニンバス）」のダメージを11%UP", 
+        "note": "自身が水属性なら、魔術攻撃力を16%UP＋【小さな師匠】ロキシーの奥義「豪雷積層雲（キュムロニンバス）」のダメージを11%UP", 
         "name": "スキル強化Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001002, 
-        "note": "自身が水属性なら、魔術攻撃力を17%UP＋ロキシー【小さな師匠】の奥義「豪雷積層雲（キュムロニンバス）」のダメージを12%UP", 
+        "note": "自身が水属性なら、魔術攻撃力を17%UP＋【小さな師匠】ロキシーの奥義「豪雷積層雲（キュムロニンバス）」のダメージを12%UP", 
         "name": "スキル強化Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001003, 
-        "note": "自身が水属性なら、魔術攻撃力を18%UP＋ロキシー【小さな師匠】の奥義「豪雷積層雲（キュムロニンバス）」のダメージを13%UP", 
+        "note": "自身が水属性なら、魔術攻撃力を18%UP＋【小さな師匠】ロキシーの奥義「豪雷積層雲（キュムロニンバス）」のダメージを13%UP", 
         "name": "スキル強化Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001004, 
-        "note": "自身が水属性なら、魔術攻撃力を19%UP＋ロキシー【小さな師匠】の奥義「豪雷積層雲（キュムロニンバス）」のダメージを14%UP", 
+        "note": "自身が水属性なら、魔術攻撃力を19%UP＋【小さな師匠】ロキシーの奥義「豪雷積層雲（キュムロニンバス）」のダメージを14%UP", 
         "name": "スキル強化Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001005, 
-        "note": "自身が水属性なら、魔術攻撃力を20%UP＋ロキシー【小さな師匠】の奥義「豪雷積層雲（キュムロニンバス）」のダメージを15%UP", 
+        "note": "自身が水属性なら、魔術攻撃力を20%UP＋【小さな師匠】ロキシーの奥義「豪雷積層雲（キュムロニンバス）」のダメージを15%UP", 
         "name": "スキル強化Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001100, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001101, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001102, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001103, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001104, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001105, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001200, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001201, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001202, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001203, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001204, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001205, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001300, 
         "note": "自身の火傷耐性を5%UP", 
         "name": "火傷耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001301, 
         "note": "自身の火傷耐性を6%UP", 
         "name": "火傷耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001302, 
         "note": "自身の火傷耐性を7%UP", 
         "name": "火傷耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001303, 
         "note": "自身の火傷耐性を8%UP", 
         "name": "火傷耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001304, 
         "note": "自身の火傷耐性を9%UP", 
         "name": "火傷耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001305, 
         "note": "自身の火傷耐性を10%UP", 
         "name": "火傷耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001400, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001401, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001402, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001403, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001404, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001405, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001500, 
         "note": "自身の睡眠耐性を5%UP", 
         "name": "睡眠耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001501, 
         "note": "自身の睡眠耐性を6%UP", 
         "name": "睡眠耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001502, 
         "note": "自身の睡眠耐性を7%UP", 
         "name": "睡眠耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001503, 
         "note": "自身の睡眠耐性を8%UP", 
         "name": "睡眠耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001504, 
         "note": "自身の睡眠耐性を9%UP", 
         "name": "睡眠耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001505, 
         "note": "自身の睡眠耐性を10%UP", 
         "name": "睡眠耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001600, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001601, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001602, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001603, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001604, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001605, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001700, 
         "note": "自身の憤怒耐性を5%UP", 
         "name": "憤怒耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001701, 
         "note": "自身の憤怒耐性を6%UP", 
         "name": "憤怒耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001702, 
         "note": "自身の憤怒耐性を7%UP", 
         "name": "憤怒耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001703, 
         "note": "自身の憤怒耐性を8%UP", 
         "name": "憤怒耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001704, 
         "note": "自身の憤怒耐性を9%UP", 
         "name": "憤怒耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001705, 
         "note": "自身の憤怒耐性を10%UP", 
         "name": "憤怒耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001800, 
         "note": "自身の挑発耐性を5%UP", 
         "name": "挑発耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001801, 
         "note": "自身の挑発耐性を6%UP", 
         "name": "挑発耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001802, 
         "note": "自身の挑発耐性を7%UP", 
         "name": "挑発耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001803, 
         "note": "自身の挑発耐性を8%UP", 
         "name": "挑発耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001804, 
         "note": "自身の挑発耐性を9%UP", 
         "name": "挑発耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001805, 
         "note": "自身の挑発耐性を10%UP", 
         "name": "挑発耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001900, 
         "note": "自身の麻痺耐性を5%UP", 
         "name": "麻痺耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001901, 
         "note": "自身の麻痺耐性を6%UP", 
         "name": "麻痺耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001902, 
         "note": "自身の麻痺耐性を7%UP", 
         "name": "麻痺耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001903, 
         "note": "自身の麻痺耐性を8%UP", 
         "name": "麻痺耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001904, 
         "note": "自身の麻痺耐性を9%UP", 
         "name": "麻痺耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90001905, 
         "note": "自身の麻痺耐性を10%UP", 
         "name": "麻痺耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002000, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002001, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002002, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002003, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002004, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002005, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002100, 
         "note": "自身の恐怖耐性を5%UP", 
         "name": "恐怖耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002101, 
         "note": "自身の恐怖耐性を6%UP", 
         "name": "恐怖耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002102, 
         "note": "自身の恐怖耐性を7%UP", 
         "name": "恐怖耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002103, 
         "note": "自身の恐怖耐性を8%UP", 
         "name": "恐怖耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002104, 
         "note": "自身の恐怖耐性を9%UP", 
         "name": "恐怖耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002105, 
         "note": "自身の恐怖耐性を10%UP", 
         "name": "恐怖耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002200, 
         "note": "自身の毒耐性を5%UP", 
         "name": "毒耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002201, 
         "note": "自身の毒耐性を6%UP", 
         "name": "毒耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002202, 
         "note": "自身の毒耐性を7%UP", 
         "name": "毒耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002203, 
         "note": "自身の毒耐性を8%UP", 
         "name": "毒耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002204, 
         "note": "自身の毒耐性を9%UP", 
         "name": "毒耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002205, 
         "note": "自身の毒耐性を10%UP", 
         "name": "毒耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002300, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002301, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002302, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002303, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002304, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002305, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002400, 
         "note": "味方全体の獲得絆量を1UP", 
         "name": "絆獲得量UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002401, 
         "note": "味方全体の獲得絆量を2UP", 
         "name": "絆獲得量UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002402, 
         "note": "味方全体の獲得絆量を3UP", 
         "name": "絆獲得量UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002403, 
         "note": "味方全体の獲得絆量を4UP", 
         "name": "絆獲得量UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002404, 
         "note": "味方全体の獲得絆量を5UP", 
         "name": "絆獲得量UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002405, 
         "note": "味方全体の獲得絆量を6UP", 
         "name": "絆獲得量UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002500, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002501, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002502, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002503, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002504, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002505, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002600, 
         "note": "自身の気絶耐性を5%UP", 
         "name": "気絶耐性UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002601, 
         "note": "自身の気絶耐性を6%UP", 
         "name": "気絶耐性UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002602, 
         "note": "自身の気絶耐性を7%UP", 
         "name": "気絶耐性UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002603, 
         "note": "自身の気絶耐性を8%UP", 
         "name": "気絶耐性UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002604, 
         "note": "自身の気絶耐性を9%UP", 
         "name": "気絶耐性UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002605, 
         "note": "自身の気絶耐性を10%UP", 
         "name": "気絶耐性UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002700, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002701, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002702, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002703, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002704, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002705, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002800, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002801, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002802, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002803, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002804, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002805, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002900, 
         "note": "自身の通常攻撃ダメージを10%UP＋速度を1UP(3T)", 
         "name": "速度上昇Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002901, 
         "note": "自身の通常攻撃ダメージを11%UP＋速度を1UP(3T)", 
         "name": "速度上昇Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002902, 
         "note": "自身の通常攻撃ダメージを12%UP＋速度を2UP(3T)", 
         "name": "速度上昇Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002903, 
         "note": "自身の通常攻撃ダメージを13%UP＋速度を2UP(3T)", 
         "name": "速度上昇Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002904, 
         "note": "自身の通常攻撃ダメージを14%UP＋速度を2UP(3T)", 
         "name": "速度上昇Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90002905, 
         "note": "自身の通常攻撃ダメージを15%UP＋速度を3UP(3T)", 
         "name": "速度上昇Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003000, 
-        "note": "自身が北神属性なら、剣術防御力を15%UP＋エリス【信頼の笑顔】の奥義「ボレアスダンス」のダメージを10%UP", 
+        "note": "自身が北神流属性なら、剣術防御力を15%UP＋【信頼の笑顔】エリスの奥義「ボレアスダンス」のダメージを10%UP", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003001, 
-        "note": "自身が北神属性なら、剣術防御力を16%UP＋エリス【信頼の笑顔】の奥義「ボレアスダンス」のダメージを11%UP", 
+        "note": "自身が北神流属性なら、剣術防御力を16%UP＋【信頼の笑顔】エリスの奥義「ボレアスダンス」のダメージを11%UP", 
         "name": "スキル強化Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003002, 
-        "note": "自身が北神属性なら、剣術防御力を17%UP＋エリス【信頼の笑顔】の奥義「ボレアスダンス」のダメージを12%UP", 
+        "note": "自身が北神流属性なら、剣術防御力を17%UP＋【信頼の笑顔】エリスの奥義「ボレアスダンス」のダメージを12%UP", 
         "name": "スキル強化Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003003, 
-        "note": "自身が北神属性なら、剣術防御力を18%UP＋エリス【信頼の笑顔】の奥義「ボレアスダンス」のダメージを13%UP", 
+        "note": "自身が北神流属性なら、剣術防御力を18%UP＋【信頼の笑顔】エリスの奥義「ボレアスダンス」のダメージを13%UP", 
         "name": "スキル強化Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003004, 
-        "note": "自身が北神属性なら、剣術防御力を19%UP＋エリス【信頼の笑顔】の奥義「ボレアスダンス」のダメージを14%UP", 
+        "note": "自身が北神流属性なら、剣術防御力を19%UP＋【信頼の笑顔】エリスの奥義「ボレアスダンス」のダメージを14%UP", 
         "name": "スキル強化Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003005, 
-        "note": "自身が北神属性なら、剣術防御力を20%UP＋エリス【信頼の笑顔】の奥義「ボレアスダンス」のダメージを15%UP", 
+        "note": "自身が北神流属性なら、剣術防御力を20%UP＋【信頼の笑顔】エリスの奥義「ボレアスダンス」のダメージを15%UP", 
         "name": "スキル強化Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003100, 
-        "note": "自身が風属性なら、魔術攻撃力を15%UP+シルフィエット【奇跡の天使】の奥義「風裂(ウインドスライス)」のダメージを10%UP", 
+        "note": "自身が風属性なら、魔術攻撃力を15%UP+【奇跡の天使】シルフィエットの奥義「風裂(ウインドスライス)」のダメージを10%UP", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003101, 
-        "note": "自身が風属性なら、魔術攻撃力を16%UP+シルフィエット【奇跡の天使】の奥義「風裂(ウインドスライス)」のダメージを11%UP", 
+        "note": "自身が風属性なら、魔術攻撃力を16%UP+【奇跡の天使】シルフィエットの奥義「風裂(ウインドスライス)」のダメージを11%UP", 
         "name": "スキル強化Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003102, 
-        "note": "自身が風属性なら、魔術攻撃力を17%UP+シルフィエット【奇跡の天使】の奥義「風裂(ウインドスライス)」のダメージを12%UP", 
+        "note": "自身が風属性なら、魔術攻撃力を17%UP+【奇跡の天使】シルフィエットの奥義「風裂(ウインドスライス)」のダメージを12%UP", 
         "name": "スキル強化Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003103, 
-        "note": "自身が風属性なら、魔術攻撃力を18%UP+シルフィエット【奇跡の天使】の奥義「風裂(ウインドスライス)」のダメージを13%UP", 
+        "note": "自身が風属性なら、魔術攻撃力を18%UP+【奇跡の天使】シルフィエットの奥義「風裂(ウインドスライス)」のダメージを13%UP", 
         "name": "スキル強化Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003104, 
-        "note": "自身が風属性なら、魔術攻撃力を19%UP+シルフィエット【奇跡の天使】の奥義「風裂(ウインドスライス)」のダメージを14%UP", 
+        "note": "自身が風属性なら、魔術攻撃力を19%UP+【奇跡の天使】シルフィエットの奥義「風裂(ウインドスライス)」のダメージを14%UP", 
         "name": "スキル強化Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003105, 
-        "note": "自身が風属性なら、魔術攻撃力を20%UP+シルフィエット【奇跡の天使】の奥義「風裂(ウインドスライス)」のダメージを15%UP", 
+        "note": "自身が風属性なら、魔術攻撃力を20%UP+【奇跡の天使】シルフィエットの奥義「風裂(ウインドスライス)」のダメージを15%UP", 
         "name": "スキル強化Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003200, 
-        "note": "自身が水神属性なら、剣術防御力を15%UP+エリナリーゼ【魔性の美貌】の奥義「美女の誘惑」の剣術防御力DOWNの効果を10%UP", 
+        "note": "自身が水神流属性なら、剣術防御力を15%UP+【魔性の美貌】エリナリーゼの奥義「美女の誘惑」の剣術防御力DOWNの効果を10%UP", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003201, 
-        "note": "自身が水神属性なら、剣術防御力を16%UP+エリナリーゼ【魔性の美貌】の奥義「美女の誘惑」の剣術防御力DOWNの効果を11%UP", 
+        "note": "自身が水神流属性なら、剣術防御力を16%UP+【魔性の美貌】エリナリーゼの奥義「美女の誘惑」の剣術防御力DOWNの効果を11%UP", 
         "name": "スキル強化Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003202, 
-        "note": "自身が水神属性なら、剣術防御力を17%UP+エリナリーゼ【魔性の美貌】の奥義「美女の誘惑」の剣術防御力DOWNの効果を12%UP", 
+        "note": "自身が水神流属性なら、剣術防御力を17%UP+【魔性の美貌】エリナリーゼの奥義「美女の誘惑」の剣術防御力DOWNの効果を12%UP", 
         "name": "スキル強化Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003203, 
-        "note": "自身が水神属性なら、剣術防御力を18%UP+エリナリーゼ【魔性の美貌】の奥義「美女の誘惑」の剣術防御力DOWNの効果を13%UP", 
+        "note": "自身が水神流属性なら、剣術防御力を18%UP+【魔性の美貌】エリナリーゼの奥義「美女の誘惑」の剣術防御力DOWNの効果を13%UP", 
         "name": "スキル強化Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003204, 
-        "note": "自身が水神属性なら、剣術防御力を19%UP+エリナリーゼ【魔性の美貌】の奥義「美女の誘惑」の剣術防御力DOWNの効果を14%UP", 
+        "note": "自身が水神流属性なら、剣術防御力を19%UP+【魔性の美貌】エリナリーゼの奥義「美女の誘惑」の剣術防御力DOWNの効果を14%UP", 
         "name": "スキル強化Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003205, 
-        "note": "自身が水神属性なら、剣術防御力を20%UP+エリナリーゼ【魔性の美貌】の奥義「美女の誘惑」の剣術防御力DOWNの効果を15%UP", 
+        "note": "自身が水神流属性なら、剣術防御力を20%UP+【魔性の美貌】エリナリーゼの奥義「美女の誘惑」の剣術防御力DOWNの効果を15%UP", 
         "name": "スキル強化Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003300, 
-        "note": "自身が剣神属性なら、剣術防御力を15%UP+パウロ【ノトス家の悪童】の奥義「悪童剣技」のダメージを10%UP", 
+        "note": "自身が剣神流属性なら、剣術防御力を15%UP+【ノトス家の悪童】パウロの奥義「悪童剣技」のダメージを10%UP", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003301, 
-        "note": "自身が剣神属性なら、剣術防御力を16%UP+パウロ【ノトス家の悪童】の奥義「悪童剣技」のダメージを11%UP", 
+        "note": "自身が剣神流属性なら、剣術防御力を16%UP+【ノトス家の悪童】パウロの奥義「悪童剣技」のダメージを11%UP", 
         "name": "スキル強化Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003302, 
-        "note": "自身が剣神属性なら、剣術防御力を17%UP+パウロ【ノトス家の悪童】の奥義「悪童剣技」のダメージを12%UP", 
+        "note": "自身が剣神流属性なら、剣術防御力を17%UP+【ノトス家の悪童】パウロの奥義「悪童剣技」のダメージを12%UP", 
         "name": "スキル強化Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003303, 
-        "note": "自身が剣神属性なら、剣術防御力を18%UP+パウロ【ノトス家の悪童】の奥義「悪童剣技」のダメージを13%UP", 
+        "note": "自身が剣神流属性なら、剣術防御力を18%UP+【ノトス家の悪童】パウロの奥義「悪童剣技」のダメージを13%UP", 
         "name": "スキル強化Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003304, 
-        "note": "自身が剣神属性なら、剣術防御力を19%UP+パウロ【ノトス家の悪童】の奥義「悪童剣技」のダメージを14%UP", 
+        "note": "自身が剣神流属性なら、剣術防御力を19%UP+【ノトス家の悪童】パウロの奥義「悪童剣技」のダメージを14%UP", 
         "name": "スキル強化Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90003305, 
-        "note": "自身が剣神属性なら、剣術防御力を20%UP+パウロ【ノトス家の悪童】の奥義「悪童剣技」のダメージを15%UP", 
+        "note": "自身が剣神流属性なら、剣術防御力を20%UP+【ノトス家の悪童】パウロの奥義「悪童剣技」のダメージを15%UP", 
         "name": "スキル強化Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 90003400, 
+        "note": "【祝祭の火花】ロキシー、【祝祭の花嵐】エリスの奥義のダメージを10%UP+【祝祭の天花】シルフィエット、【祝祭の黄花】ゼニスの奥義の回復量を5%UP", 
+        "name": "スキル強化Lv.1", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 90003401, 
+        "note": "【祝祭の火花】ロキシー、【祝祭の花嵐】エリスの奥義のダメージを11%UP+【祝祭の天花】シルフィエット、【祝祭の黄花】ゼニスの奥義の回復量を6%UP", 
+        "name": "スキル強化Lv.2", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 90003402, 
+        "note": "【祝祭の火花】ロキシー、【祝祭の花嵐】エリスの奥義のダメージを12%UP+【祝祭の天花】シルフィエット、【祝祭の黄花】ゼニスの奥義の回復量を7%UP", 
+        "name": "スキル強化Lv.3", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 90003403, 
+        "note": "【祝祭の火花】ロキシー、【祝祭の花嵐】エリスの奥義のダメージを13%UP+【祝祭の天花】シルフィエット、【祝祭の黄花】ゼニスの奥義の回復量を8%UP", 
+        "name": "スキル強化Lv.4", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 90003404, 
+        "note": "【祝祭の火花】ロキシー、【祝祭の花嵐】エリスの奥義のダメージを14%UP+【祝祭の天花】シルフィエット、【祝祭の黄花】ゼニスの奥義の回復量を9%UP", 
+        "name": "スキル強化Lv.5", 
+        "updatedTime": 1618302205
+    }, 
+    {
+        "passiveSkillMstId": 90003405, 
+        "note": "【祝祭の火花】ロキシー、【祝祭の花嵐】エリスの奥義のダメージを15%UP+【祝祭の天花】シルフィエット、【祝祭の黄花】ゼニスの奥義の回復量を10%UP", 
+        "name": "スキル強化Lv.6", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100000, 
         "note": "自身が火属性なら、魔術攻撃力を5%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100001, 
         "note": "自身が火属性なら、魔術攻撃力を6%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100002, 
         "note": "自身が火属性なら、魔術攻撃力を7%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100003, 
         "note": "自身が火属性なら、魔術攻撃力を8%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100004, 
         "note": "自身が火属性なら、魔術攻撃力を9%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100005, 
         "note": "自身が火属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100100, 
         "note": "自身が火属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100101, 
         "note": "自身が火属性なら、魔術攻撃力を11%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100102, 
         "note": "自身が火属性なら、魔術攻撃力を12%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100103, 
         "note": "自身が火属性なら、魔術攻撃力を13%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100104, 
         "note": "自身が火属性なら、魔術攻撃力を14%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100105, 
         "note": "自身が火属性なら、魔術攻撃力を15%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100200, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100201, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100202, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100203, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100204, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100205, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100300, 
         "note": "自身が火属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に5%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100301, 
         "note": "自身が火属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に6%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100302, 
         "note": "自身が火属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に7%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100303, 
         "note": "自身が火属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に8%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100304, 
         "note": "自身が火属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に9%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100305, 
         "note": "自身が火属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100400, 
         "note": "自身が火属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100401, 
         "note": "自身が火属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に12%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100402, 
         "note": "自身が火属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に14%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100403, 
         "note": "自身が火属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に16%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100404, 
         "note": "自身が火属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に18%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90100405, 
         "note": "自身が火属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に20%の確率で火傷付与(1T)", 
         "name": "火傷状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200000, 
         "note": "自身が水属性なら、魔術攻撃力を5%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200001, 
         "note": "自身が水属性なら、魔術攻撃力を6%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200002, 
         "note": "自身が水属性なら、魔術攻撃力を7%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200003, 
         "note": "自身が水属性なら、魔術攻撃力を8%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200004, 
         "note": "自身が水属性なら、魔術攻撃力を9%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200005, 
         "note": "自身が水属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200100, 
         "note": "自身が水属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200101, 
         "note": "自身が水属性なら、魔術攻撃力を11%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200102, 
         "note": "自身が水属性なら、魔術攻撃力を12%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200103, 
         "note": "自身が水属性なら、魔術攻撃力を13%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200104, 
         "note": "自身が水属性なら、魔術攻撃力を14%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200105, 
         "note": "自身が水属性なら、魔術攻撃力を15%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200200, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200201, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200202, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200203, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200204, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90200205, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300000, 
         "note": "自身が風属性なら、魔術攻撃力を5%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300001, 
         "note": "自身が風属性なら、魔術攻撃力を6%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300002, 
         "note": "自身が風属性なら、魔術攻撃力を7%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300003, 
         "note": "自身が風属性なら、魔術攻撃力を8%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300004, 
         "note": "自身が風属性なら、魔術攻撃力を9%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300005, 
         "note": "自身が風属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300100, 
         "note": "自身が風属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300101, 
         "note": "自身が風属性なら、魔術攻撃力を11%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300102, 
         "note": "自身が風属性なら、魔術攻撃力を12%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300103, 
         "note": "自身が風属性なら、魔術攻撃力を13%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300104, 
         "note": "自身が風属性なら、魔術攻撃力を14%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300105, 
         "note": "自身が風属性なら、魔術攻撃力を15%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300200, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300201, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300202, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300203, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300204, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300205, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300300, 
         "note": "自身が風属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に5%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300301, 
         "note": "自身が風属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に6%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300302, 
         "note": "自身が風属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に7%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300303, 
         "note": "自身が風属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に8%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300304, 
         "note": "自身が風属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に9%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300305, 
         "note": "自身が風属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300400, 
         "note": "自身が風属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300401, 
         "note": "自身が風属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に12%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300402, 
         "note": "自身が風属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に14%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300403, 
         "note": "自身が風属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に16%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300404, 
         "note": "自身が風属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に18%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90300405, 
         "note": "自身が風属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に20%の確率で睡眠付与(1T)", 
         "name": "睡眠状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400000, 
         "note": "自身が土属性なら、魔術攻撃力を5%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400001, 
         "note": "自身が土属性なら、魔術攻撃力を6%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400002, 
         "note": "自身が土属性なら、魔術攻撃力を7%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400003, 
         "note": "自身が土属性なら、魔術攻撃力を8%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400004, 
         "note": "自身が土属性なら、魔術攻撃力を9%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400005, 
         "note": "自身が土属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400100, 
         "note": "自身が土属性なら、魔術攻撃力を10%UP", 
         "name": "魔術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400101, 
         "note": "自身が土属性なら、魔術攻撃力を11%UP", 
         "name": "魔術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400102, 
         "note": "自身が土属性なら、魔術攻撃力を12%UP", 
         "name": "魔術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400103, 
         "note": "自身が土属性なら、魔術攻撃力を13%UP", 
         "name": "魔術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400104, 
         "note": "自身が土属性なら、魔術攻撃力を14%UP", 
         "name": "魔術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400105, 
         "note": "自身が土属性なら、魔術攻撃力を15%UP", 
         "name": "魔術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400200, 
-        "note": "自身が土属性なら、魔術攻撃力を15%UP+ルーデウス【神託の魔術師】の奥義「突風岩砲弾(ソニックストーン)」のダメージを10%UP", 
+        "note": "自身が土属性なら、魔術攻撃力を15%UP+【神託の魔術師】ルーデウスの奥義「突風岩砲弾(ソニックストーン)」のダメージを10%UP", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400201, 
-        "note": "自身が土属性なら、魔術攻撃力を16%UP+ルーデウス【神託の魔術師】の奥義「突風岩砲弾(ソニックストーン)」のダメージを11%UP", 
+        "note": "自身が土属性なら、魔術攻撃力を16%UP+【神託の魔術師】ルーデウスの奥義「突風岩砲弾(ソニックストーン)」のダメージを11%UP", 
         "name": "スキル強化Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400202, 
-        "note": "自身が土属性なら、魔術攻撃力を17%UP+ルーデウス【神託の魔術師】の奥義「突風岩砲弾(ソニックストーン)」のダメージを12%UP", 
+        "note": "自身が土属性なら、魔術攻撃力を17%UP+【神託の魔術師】ルーデウスの奥義「突風岩砲弾(ソニックストーン)」のダメージを12%UP", 
         "name": "スキル強化Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400203, 
-        "note": "自身が土属性なら、魔術攻撃力を18%UP+ルーデウス【神託の魔術師】の奥義「突風岩砲弾(ソニックストーン)」のダメージを13%UP", 
+        "note": "自身が土属性なら、魔術攻撃力を18%UP+【神託の魔術師】ルーデウスの奥義「突風岩砲弾(ソニックストーン)」のダメージを13%UP", 
         "name": "スキル強化Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400204, 
-        "note": "自身が土属性なら、魔術攻撃力を19%UP+ルーデウス【神託の魔術師】の奥義「突風岩砲弾(ソニックストーン)」のダメージを14%UP", 
+        "note": "自身が土属性なら、魔術攻撃力を19%UP+【神託の魔術師】ルーデウスの奥義「突風岩砲弾(ソニックストーン)」のダメージを14%UP", 
         "name": "スキル強化Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400205, 
-        "note": "自身が土属性なら、魔術攻撃力を20%UP+ルーデウス【神託の魔術師】の奥義「突風岩砲弾(ソニックストーン)」のダメージを15%UP", 
+        "note": "自身が土属性なら、魔術攻撃力を20%UP+【神託の魔術師】ルーデウスの奥義「突風岩砲弾(ソニックストーン)」のダメージを15%UP", 
         "name": "スキル強化Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400300, 
         "note": "自身が土属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に10%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400301, 
         "note": "自身が土属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に11%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400302, 
         "note": "自身が土属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に12%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400303, 
         "note": "自身が土属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に13%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400304, 
         "note": "自身が土属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に14%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400305, 
         "note": "自身が土属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400400, 
         "note": "自身が土属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400401, 
         "note": "自身が土属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に17%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400402, 
         "note": "自身が土属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に19%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400403, 
         "note": "自身が土属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に21%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400404, 
         "note": "自身が土属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に23%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90400405, 
         "note": "自身が土属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に25%の確率で麻痺付与(1T)", 
         "name": "麻痺状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700000, 
         "note": "自身が我流属性なら、剣術攻撃力を5%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700001, 
         "note": "自身が我流属性なら、剣術攻撃力を6%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700002, 
         "note": "自身が我流属性なら、剣術攻撃力を7%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700003, 
         "note": "自身が我流属性なら、剣術攻撃力を8%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700004, 
         "note": "自身が我流属性なら、剣術攻撃力を9%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700005, 
         "note": "自身が我流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700100, 
         "note": "自身が我流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700101, 
         "note": "自身が我流属性なら、剣術攻撃力を11%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700102, 
         "note": "自身が我流属性なら、剣術攻撃力を12%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700103, 
         "note": "自身が我流属性なら、剣術攻撃力を13%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700104, 
         "note": "自身が我流属性なら、剣術攻撃力を14%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700105, 
         "note": "自身が我流属性なら、剣術攻撃力を15%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700200, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700201, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700202, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700203, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700204, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700205, 
         "note": "ルイジェルドのスキルを強化する", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700300, 
         "note": "自身が我流属性なら、攻撃力を5%UP＋通常攻撃力を15%UP(3T)＋自身の速度を3UP(3T)＋防御力を15%DOWN(3T)", 
         "name": "攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700301, 
         "note": "自身が我流属性なら、攻撃力を6%UP＋通常攻撃力を16%UP(3T)＋自身の速度を3UP(3T)＋防御力を14%DOWN(3T)", 
         "name": "攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700302, 
         "note": "自身が我流属性なら、攻撃力を7%UP＋通常攻撃力を17%UP(3T)＋自身の速度を3UP(3T)＋防御力を13%DOWN(3T)", 
         "name": "攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700303, 
         "note": "自身が我流属性なら、攻撃力を8%UP＋通常攻撃力を18%UP(3T)＋自身の速度を3UP(3T)＋防御力を12%DOWN(3T)", 
         "name": "攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700304, 
         "note": "自身が我流属性なら、攻撃力を9%UP＋通常攻撃力を19%UP(3T)＋自身の速度を3UP(3T)＋防御力を11%DOWN(3T)", 
         "name": "攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700305, 
         "note": "自身が我流属性なら、攻撃力を10%UP＋通常攻撃力を20%UP(3T)＋自身の速度を3UP(3T)＋防御力を10%DOWN(3T)", 
         "name": "攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700400, 
         "note": "自身が我流属性なら、攻撃力を10%UP＋通常攻撃力を20%UP(3T)＋自身の速度を3UP(3T)＋防御力を10%DOWN(3T)", 
         "name": "攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700401, 
         "note": "自身が我流属性なら、攻撃力を11%UP＋通常攻撃力を22%UP(3T)＋自身の速度を3UP(3T)＋防御力を9%DOWN(3T)", 
         "name": "攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700402, 
         "note": "自身が我流属性なら、攻撃力を12%UP＋通常攻撃力を24%UP(3T)＋自身の速度を3UP(3T)＋防御力を8%DOWN(3T)", 
         "name": "攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700403, 
         "note": "自身が我流属性なら、攻撃力を13%UP＋通常攻撃力を26%UP(3T)＋自身の速度を3UP(3T)＋防御力を7%DOWN(3T)", 
         "name": "攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700404, 
         "note": "自身が我流属性なら、攻撃力を14%UP＋通常攻撃力を28%UP(3T)＋自身の速度を3UP(3T)＋防御力を6%DOWN(3T)", 
         "name": "攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90700405, 
         "note": "自身が我流属性なら、攻撃力を15%UP＋通常攻撃力を30%UP(3T)＋自身の速度を3UP(3T)＋防御力を5%DOWN(3T)", 
         "name": "攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800000, 
-        "note": "自身が剣神属性なら、剣術攻撃力を5%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を5%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800001, 
-        "note": "自身が剣神属性なら、剣術攻撃力を6%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を6%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800002, 
-        "note": "自身が剣神属性なら、剣術攻撃力を7%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を7%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800003, 
-        "note": "自身が剣神属性なら、剣術攻撃力を8%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を8%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800004, 
-        "note": "自身が剣神属性なら、剣術攻撃力を9%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を9%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800005, 
-        "note": "自身が剣神属性なら、剣術攻撃力を10%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800100, 
-        "note": "自身が剣神属性なら、剣術攻撃力を10%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800101, 
-        "note": "自身が剣神属性なら、剣術攻撃力を11%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を11%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800102, 
-        "note": "自身が剣神属性なら、剣術攻撃力を12%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を12%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800103, 
-        "note": "自身が剣神属性なら、剣術攻撃力を13%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を13%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800104, 
-        "note": "自身が剣神属性なら、剣術攻撃力を14%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を14%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800105, 
-        "note": "自身が剣神属性なら、剣術攻撃力を15%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を15%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800200, 
-        "note": "自身が剣神属性なら、剣術攻撃力を15%UP+ギレーヌ【剣王】の奥義「光の太刀」のダメージを10%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を15%UP+【剣王】ギレーヌの奥義「光の太刀」のダメージを10%UP", 
         "name": "スキル強化Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800201, 
-        "note": "自身が剣神属性なら、剣術攻撃力を16%UP+ギレーヌ【剣王】の奥義「光の太刀」のダメージを11%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を16%UP+【剣王】ギレーヌの奥義「光の太刀」のダメージを11%UP", 
         "name": "スキル強化Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800202, 
-        "note": "自身が剣神属性なら、剣術攻撃力を17%UP+ギレーヌ【剣王】の奥義「光の太刀」のダメージを12%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を17%UP+【剣王】ギレーヌの奥義「光の太刀」のダメージを12%UP", 
         "name": "スキル強化Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800203, 
-        "note": "自身が剣神属性なら、剣術攻撃力を18%UP+ギレーヌ【剣王】の奥義「光の太刀」のダメージを13%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を18%UP+【剣王】ギレーヌの奥義「光の太刀」のダメージを13%UP", 
         "name": "スキル強化Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800204, 
-        "note": "自身が剣神属性なら、剣術攻撃力を19%UP+ギレーヌ【剣王】の奥義「光の太刀」のダメージを14%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を19%UP+【剣王】ギレーヌの奥義「光の太刀」のダメージを14%UP", 
         "name": "スキル強化Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800205, 
-        "note": "自身が剣神属性なら、剣術攻撃力を20%UP+ギレーヌ【剣王】の奥義「光の太刀」のダメージを15%UP", 
+        "note": "自身が剣神流属性なら、剣術攻撃力を20%UP+【剣王】ギレーヌの奥義「光の太刀」のダメージを15%UP", 
         "name": "スキル強化Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800300, 
-        "note": "自身が剣神属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に10%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に10%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800301, 
-        "note": "自身が剣神属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に11%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に11%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800302, 
-        "note": "自身が剣神属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に12%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に12%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800303, 
-        "note": "自身が剣神属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に13%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に13%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800304, 
-        "note": "自身が剣神属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に14%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に14%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800305, 
-        "note": "自身が剣神属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800400, 
-        "note": "自身が剣神属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800401, 
-        "note": "自身が剣神属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に17%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に17%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800402, 
-        "note": "自身が剣神属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に19%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に19%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800403, 
-        "note": "自身が剣神属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に21%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に21%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800404, 
-        "note": "自身が剣神属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に23%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に23%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90800405, 
-        "note": "自身が剣神属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に25%の確率で気絶付与(1T)", 
+        "note": "自身が剣神流属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に25%の確率で気絶付与(1T)", 
         "name": "気絶状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900000, 
-        "note": "自身が北神属性なら、剣術攻撃力を5%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を5%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900001, 
-        "note": "自身が北神属性なら、剣術攻撃力を6%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を6%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900002, 
-        "note": "自身が北神属性なら、剣術攻撃力を7%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を7%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900003, 
-        "note": "自身が北神属性なら、剣術攻撃力を8%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を8%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900004, 
-        "note": "自身が北神属性なら、剣術攻撃力を9%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を9%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900005, 
-        "note": "自身が北神属性なら、剣術攻撃力を10%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900100, 
-        "note": "自身が北神属性なら、剣術攻撃力を10%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900101, 
-        "note": "自身が北神属性なら、剣術攻撃力を11%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を11%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900102, 
-        "note": "自身が北神属性なら、剣術攻撃力を12%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を12%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900103, 
-        "note": "自身が北神属性なら、剣術攻撃力を13%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を13%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900104, 
-        "note": "自身が北神属性なら、剣術攻撃力を14%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を14%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900105, 
-        "note": "自身が北神属性なら、剣術攻撃力を15%UP", 
+        "note": "自身が北神流属性なら、剣術攻撃力を15%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900200, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900201, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900202, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900203, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900204, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900205, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900300, 
-        "note": "自身が北神属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に10%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に10%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900301, 
-        "note": "自身が北神属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に11%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に11%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900302, 
-        "note": "自身が北神属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に12%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に12%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900303, 
-        "note": "自身が北神属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に13%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に13%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900304, 
-        "note": "自身が北神属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に14%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に14%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900305, 
-        "note": "自身が北神属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900400, 
-        "note": "自身が北神属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に15%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900401, 
-        "note": "自身が北神属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に17%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に17%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900402, 
-        "note": "自身が北神属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に19%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に19%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900403, 
-        "note": "自身が北神属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に21%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に21%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900404, 
-        "note": "自身が北神属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に23%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に23%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 90900405, 
-        "note": "自身が北神属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に25%の確率で恐怖付与(1T)", 
+        "note": "自身が北神流属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に25%の確率で恐怖付与(1T)", 
         "name": "恐怖状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000000, 
-        "note": "自身が水神属性なら、剣術攻撃力を5%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を5%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000001, 
-        "note": "自身が水神属性なら、剣術攻撃力を6%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を6%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000002, 
-        "note": "自身が水神属性なら、剣術攻撃力を7%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を7%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000003, 
-        "note": "自身が水神属性なら、剣術攻撃力を8%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を8%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000004, 
-        "note": "自身が水神属性なら、剣術攻撃力を9%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を9%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000005, 
-        "note": "自身が水神属性なら、剣術攻撃力を10%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000100, 
-        "note": "自身が水神属性なら、剣術攻撃力を10%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を10%UP", 
         "name": "剣術攻撃力UPLv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000101, 
-        "note": "自身が水神属性なら、剣術攻撃力を11%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を11%UP", 
         "name": "剣術攻撃力UPLv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000102, 
-        "note": "自身が水神属性なら、剣術攻撃力を12%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を12%UP", 
         "name": "剣術攻撃力UPLv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000103, 
-        "note": "自身が水神属性なら、剣術攻撃力を13%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を13%UP", 
         "name": "剣術攻撃力UPLv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000104, 
-        "note": "自身が水神属性なら、剣術攻撃力を14%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を14%UP", 
         "name": "剣術攻撃力UPLv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000105, 
-        "note": "自身が水神属性なら、剣術攻撃力を15%UP", 
+        "note": "自身が水神流属性なら、剣術攻撃力を15%UP", 
         "name": "剣術攻撃力UPLv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000200, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000201, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000202, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000203, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000204, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000205, 
         "note": "スキル無し", 
         "name": "スキル無し", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000300, 
-        "note": "自身が水神属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に5%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を5%UP＋3Tの間通常攻撃時に5%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000301, 
-        "note": "自身が水神属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に6%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を6%UP＋3Tの間通常攻撃時に6%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000302, 
-        "note": "自身が水神属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に7%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を7%UP＋3Tの間通常攻撃時に7%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000303, 
-        "note": "自身が水神属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に8%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を8%UP＋3Tの間通常攻撃時に8%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000304, 
-        "note": "自身が水神属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に9%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を9%UP＋3Tの間通常攻撃時に9%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000305, 
-        "note": "自身が水神属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000400, 
-        "note": "自身が水神属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を10%UP＋3Tの間通常攻撃時に10%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.1", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000401, 
-        "note": "自身が水神属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に12%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を11%UP＋3Tの間通常攻撃時に12%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.2", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000402, 
-        "note": "自身が水神属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に14%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を12%UP＋3Tの間通常攻撃時に14%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.3", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000403, 
-        "note": "自身が水神属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に16%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を13%UP＋3Tの間通常攻撃時に16%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.4", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000404, 
-        "note": "自身が水神属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に18%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を14%UP＋3Tの間通常攻撃時に18%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.5", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 91000405, 
-        "note": "自身が水神属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に20%の確率で毒付与(1T)", 
+        "note": "自身が水神流属性なら、攻撃力を15%UP＋3Tの間通常攻撃時に20%の確率で毒付与(1T)", 
         "name": "毒状態付与Lv.6", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002000, 
         "note": "相手のクリティカル率を100下げる", 
         "name": "相手のクリティカル率を100下げる", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002003, 
         "note": "魔術攻撃上昇", 
         "name": "魔術攻撃上昇", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002005, 
         "note": "水属性優先狙い", 
         "name": "水属性優先狙い", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002013, 
         "note": "火属性優先狙い", 
         "name": "火属性優先狙い", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002014, 
-        "note": "北神属性優先狙い", 
-        "name": "北神属性優先狙い", 
-        "updatedTime": 1617691477
+        "note": "北神流属性優先狙い", 
+        "name": "北神流属性優先狙い", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002015, 
-        "note": "剣神属性優先狙い", 
-        "name": "剣神属性優先狙い", 
-        "updatedTime": 1617691477
+        "note": "剣神流属性優先狙い", 
+        "name": "剣神流属性優先狙い", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002016, 
         "note": "麻痺耐性", 
         "name": "麻痺耐性", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200002019, 
-        "note": "水神属性優先狙い", 
-        "name": "水神属性優先狙い", 
-        "updatedTime": 1617691477
+        "note": "水神流属性優先狙い", 
+        "name": "水神流属性優先狙い", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003001, 
         "note": "水属性以外からの攻撃を8割減少", 
         "name": "水属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003002, 
         "note": "土属性以外からの攻撃を8割減少", 
         "name": "土属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003003, 
         "note": "火属性以外からの攻撃を8割減少", 
         "name": "火属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003004, 
         "note": "風属性以外からの攻撃を8割減少", 
         "name": "風属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003005, 
         "note": "闇属性以外からの攻撃を8割減少", 
         "name": "闇属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003006, 
         "note": "光属性以外からの攻撃を8割減少", 
         "name": "光属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003007, 
         "note": "我流属性以外からの攻撃を8割減少", 
         "name": "我流属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003008, 
-        "note": "水神属性以外からの攻撃を8割減少", 
-        "name": "水神属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "note": "水神流属性以外からの攻撃を8割減少", 
+        "name": "水神流属性以外からの攻撃を8割減少", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003009, 
-        "note": "剣神属性以外からの攻撃を8割減少", 
-        "name": "剣神属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "note": "剣神流属性以外からの攻撃を8割減少", 
+        "name": "剣神流属性以外からの攻撃を8割減少", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 200003010, 
-        "note": "北神属性以外からの攻撃を8割減少", 
-        "name": "北神属性以外からの攻撃を8割減少", 
-        "updatedTime": 1617691477
+        "note": "北神流属性以外からの攻撃を8割減少", 
+        "name": "北神流属性以外からの攻撃を8割減少", 
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 201003000, 
         "note": "風以外優先攻撃", 
         "name": "風以外優先攻撃", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 203001000, 
         "note": "風以外優先攻撃", 
         "name": "風以外優先攻撃", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 299003000, 
         "note": "魔術防御を50%上昇", 
         "name": "魔術防御上昇", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 299006000, 
         "note": "魔術防御を80%上昇", 
         "name": "魔術防御上昇", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }, 
     {
         "passiveSkillMstId": 405015000, 
         "note": "", 
         "name": "魔術防御力ダウン耐性", 
-        "updatedTime": 1617691477
+        "updatedTime": 1618302205
     }
 ]

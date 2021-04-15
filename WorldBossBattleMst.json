@@ -1,7 +1,7 @@
 [
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 1, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 101, 
@@ -14,7 +14,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 2, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 102, 
@@ -27,7 +27,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 3, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 103, 
@@ -40,7 +40,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 4, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 104, 
@@ -53,7 +53,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 5, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 105, 
@@ -66,7 +66,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 6, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 106, 
@@ -79,7 +79,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 7, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 107, 
@@ -92,7 +92,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 8, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 108, 
@@ -105,7 +105,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 9, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 109, 
@@ -118,7 +118,7 @@
     }, 
     {
         "worldBossMstId": 1, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 10, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 110, 
@@ -131,7 +131,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 1, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 201, 
@@ -144,7 +144,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 2, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 202, 
@@ -157,7 +157,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 3, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 203, 
@@ -170,7 +170,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 4, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 204, 
@@ -183,7 +183,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 5, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 205, 
@@ -196,7 +196,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 6, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 206, 
@@ -209,7 +209,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 7, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 207, 
@@ -222,7 +222,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 8, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 208, 
@@ -235,7 +235,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 9, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 209, 
@@ -248,7 +248,7 @@
     }, 
     {
         "worldBossMstId": 2, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 10, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 210, 
@@ -261,7 +261,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 1, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 301, 
@@ -274,7 +274,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 2, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 302, 
@@ -287,7 +287,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 3, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 303, 
@@ -300,7 +300,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 4, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 304, 
@@ -313,7 +313,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 5, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 305, 
@@ -326,7 +326,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 6, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 306, 
@@ -339,7 +339,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 7, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 307, 
@@ -352,7 +352,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 8, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 308, 
@@ -365,7 +365,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 9, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 309, 
@@ -378,7 +378,7 @@
     }, 
     {
         "worldBossMstId": 3, 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302209, 
         "waveNum": 10, 
         "backgroundImg": "bbg_003_212_00", 
         "worldBossBattleMstId": 310, 

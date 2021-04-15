@@ -3,24 +3,24 @@
         "chapterName": "第1章", 
         "chapterMstId": 1, 
         "bgImageName": "mbg_0001_01", 
-        "updatedTime": 1617691480
+        "updatedTime": 1618302209
     }, 
     {
         "chapterName": "第2章", 
         "chapterMstId": 2, 
         "bgImageName": "mbg_0002_01", 
-        "updatedTime": 1617691480
+        "updatedTime": 1618302209
     }, 
     {
         "chapterName": "第3章", 
         "chapterMstId": 3, 
         "bgImageName": "mbg_0003_01", 
-        "updatedTime": 1617691480
+        "updatedTime": 1618302209
     }, 
     {
-        "chapterName": "イベント", 
-        "chapterMstId": 99, 
+        "chapterName": "春の祝祭", 
+        "chapterMstId": 9001, 
         "bgImageName": "mbg_1001_01", 
-        "updatedTime": 1617691480
+        "updatedTime": 1618302209
     }
 ]

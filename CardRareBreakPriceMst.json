@@ -1,20 +1,20 @@
 [
     {
-        "updatedTime": 1617691483, 
+        "updatedTime": 1618302212, 
         "cardRareBreakPriceMstId": 1, 
         "valid": 1, 
         "price": 300000, 
         "rarity": 3
     }, 
     {
-        "updatedTime": 1617691483, 
+        "updatedTime": 1618302212, 
         "cardRareBreakPriceMstId": 2, 
         "valid": 1, 
         "price": 500000, 
         "rarity": 4
     }, 
     {
-        "updatedTime": 1617691483, 
+        "updatedTime": 1618302212, 
         "cardRareBreakPriceMstId": 3, 
         "valid": 1, 
         "price": 1000000, 

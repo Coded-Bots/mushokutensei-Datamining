@@ -4,1875 +4,1889 @@
         "attribute": "0", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 100101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10020, 
         "attribute": "2", 
         "effect": "DWN_BURN_RATIO", 
         "musicSkillEffectiveMstId": 100201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10030, 
         "attribute": "2", 
         "effect": "DWN_PARALYSIS_RATIO", 
         "musicSkillEffectiveMstId": 100301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10040, 
         "attribute": "2", 
         "effect": "DWN_SLEEP_RATIO", 
         "musicSkillEffectiveMstId": 100401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10050, 
         "attribute": "2", 
         "effect": "UP_CTD_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 100501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10060, 
         "attribute": "8", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 100601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10070, 
         "attribute": "2", 
         "effect": "DWN_MADNESS_RATIO", 
         "musicSkillEffectiveMstId": 100701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10071, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10080, 
         "attribute": "2", 
         "effect": "UP_ATK_NORMAL_RATIO", 
         "musicSkillEffectiveMstId": 100801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10081, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 100811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10100, 
         "attribute": "2", 
         "effect": "GIV_DMG_UP_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 101001, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10101, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101011, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10110, 
         "attribute": "4", 
         "effect": "DWN_CHARM_RATIO", 
         "musicSkillEffectiveMstId": 101101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10111, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10120, 
         "attribute": "2", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 101201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10121, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10130, 
         "attribute": "2", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 101301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10131, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10140, 
         "attribute": "8", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 101401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10141, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10150, 
         "attribute": "1", 
         "effect": "DWN_MADNESS_RATIO", 
         "musicSkillEffectiveMstId": 101501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10151, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10160, 
         "attribute": "1", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 101601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10161, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10170, 
         "attribute": "1", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 101701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10171, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10180, 
         "attribute": "2", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 101801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10181, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10190, 
         "attribute": "1", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 101901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10191, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 101911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10200, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 102001, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10201, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102011, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10210, 
         "attribute": "3", 
         "effect": "DWN_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 102101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10211, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10220, 
         "attribute": "3", 
         "effect": "DWN_POISON_RATIO", 
         "musicSkillEffectiveMstId": 102201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10221, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10230, 
         "attribute": "4", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 102301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10231, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10240, 
         "attribute": "4", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 102401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10241, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10250, 
         "attribute": "3", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 102501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10251, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10260, 
         "attribute": "4", 
         "effect": "DWN_DEEP_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 102601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10261, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10280, 
         "attribute": "4", 
         "effect": "DWN_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 102801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10281, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10290, 
         "attribute": "3", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 102901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10291, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 102911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10300, 
         "attribute": "4", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 103001, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10301, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 103011, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10310, 
         "attribute": "4", 
         "effect": "DWN_MADNESS_RATIO", 
         "musicSkillEffectiveMstId": 103101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10311, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 103111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10320, 
         "attribute": "3", 
         "effect": "DWN_MADNESS_RATIO", 
         "musicSkillEffectiveMstId": 103201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10321, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 103211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10330, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 103301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 10331, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 103311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20010, 
         "attribute": "0", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 200101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 200111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20020, 
         "attribute": "2", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 200201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 200211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20030, 
         "attribute": "2", 
         "effect": "DWN_POISON_RATIO", 
         "musicSkillEffectiveMstId": 200301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 200311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20040, 
         "attribute": "3", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 200401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 200411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20050, 
         "attribute": "1", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 200501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 200511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20060, 
         "attribute": "1", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 200601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 200611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20070, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 200701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 20071, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 200711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30010, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 300101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30020, 
         "attribute": "4", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 300201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30030, 
         "attribute": "4", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 300301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30040, 
         "attribute": "2", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 300401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30050, 
         "attribute": "2", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 300501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30060, 
         "attribute": "4", 
         "effect": "DWN_CHARM_RATIO", 
         "musicSkillEffectiveMstId": 300601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30070, 
         "attribute": "3", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 300701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30071, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30080, 
         "attribute": "3", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 300801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30081, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30090, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 300901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 30091, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 300911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40010, 
         "attribute": "0", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 400101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40020, 
         "attribute": "8", 
         "effect": "GIV_DMG_UP_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 400201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40030, 
         "attribute": "8", 
         "effect": "UP_CTD_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 400301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40040, 
         "attribute": "8", 
         "effect": "UP_PARALYSIS_RATIO", 
         "musicSkillEffectiveMstId": 400401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40050, 
         "attribute": "8", 
         "effect": "DWN_SLEEP_RATIO", 
         "musicSkillEffectiveMstId": 400501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40060, 
         "attribute": "9", 
         "effect": "UP_ATK_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 400601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40070, 
         "attribute": "8", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 400701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40071, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40080, 
         "attribute": "1", 
         "effect": "DWN_PARALYSIS_RATIO", 
         "musicSkillEffectiveMstId": 400801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40081, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40090, 
         "attribute": "8", 
         "effect": "UP_ATK_NORMAL_RATIO", 
         "musicSkillEffectiveMstId": 400901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40091, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 400911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40100, 
         "attribute": "8", 
         "effect": "UP_ATK_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 401001, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40101, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401011, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40110, 
         "attribute": "7", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 401101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40111, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40120, 
         "attribute": "7", 
         "effect": "DWN_CHARM_RATIO", 
         "musicSkillEffectiveMstId": 401201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40121, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40130, 
         "attribute": "7", 
         "effect": "DWN_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 401301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40131, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40140, 
         "attribute": "7", 
         "effect": "UP_ATK_NORMAL_RATIO", 
         "musicSkillEffectiveMstId": 401401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40141, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40150, 
         "attribute": "8", 
         "effect": "DWN_CHARM_RATIO", 
         "musicSkillEffectiveMstId": 401501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40151, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40160, 
         "attribute": "8", 
         "effect": "DWN_PARALYSIS_RATIO", 
         "musicSkillEffectiveMstId": 401601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40161, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40170, 
         "attribute": "7", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 401701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40171, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40180, 
         "attribute": "9", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 401801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40181, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40190, 
         "attribute": "8", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 401901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40191, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 401911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40200, 
         "attribute": "1", 
         "effect": "DWN_CHARM_RATIO", 
         "musicSkillEffectiveMstId": 402001, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40201, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 402011, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40210, 
         "attribute": "8", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 402101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40211, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 402111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40220, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 402201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40221, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 402211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40230, 
         "attribute": "7", 
         "effect": "DWN_POISON_RATIO", 
         "musicSkillEffectiveMstId": 402301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40231, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 402311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40240, 
         "attribute": "8", 
         "effect": "DWN_POISON_RATIO", 
         "musicSkillEffectiveMstId": 402401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40241, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 402411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40260, 
         "attribute": "7", 
         "effect": "GIV_DMG_UP_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 402601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 40261, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 402611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50010, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 500101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50020, 
         "attribute": "8", 
         "effect": "UP_ATK_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 500201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50030, 
         "attribute": "8", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 500301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50040, 
         "attribute": "10", 
         "effect": "UP_ATK_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 500401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50050, 
         "attribute": "10", 
         "effect": "DWN_CHARM_RATIO", 
         "musicSkillEffectiveMstId": 500501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50060, 
         "attribute": "10", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 500601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50070, 
         "attribute": "10", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 500701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50071, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50080, 
         "attribute": "8", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 500801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50081, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50090, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 500901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 50091, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 500911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60010, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 600101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 600111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60020, 
         "attribute": "3", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 600201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 600211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60030, 
         "attribute": "3", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 600301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 600311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60040, 
         "attribute": "3", 
         "effect": "DWN_PARALYSIS_RATIO", 
         "musicSkillEffectiveMstId": 600401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 600411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60050, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 600501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 60051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 600511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70010, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 700101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 700111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70020, 
         "attribute": "1", 
         "effect": "DWN_PROVOKE_RATIO", 
         "musicSkillEffectiveMstId": 700201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 700211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70030, 
         "attribute": "1", 
         "effect": "DWN_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 700301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 700311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70040, 
         "attribute": "10", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 700401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 700411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70050, 
         "attribute": "10", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 700501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 700511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70060, 
         "attribute": "1", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 700601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 700611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70070, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 700701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 70071, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 700711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100010, 
         "attribute": "0", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 1000101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100020, 
         "attribute": "8", 
         "effect": "DWN_DEEP_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 1000201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100030, 
         "attribute": "8", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1000301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100040, 
         "attribute": "1", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 1000401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100050, 
         "attribute": "1", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1000501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100060, 
         "attribute": "8", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 1000601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100070, 
         "attribute": "8", 
         "effect": "DWN_PROVOKE_RATIO", 
         "musicSkillEffectiveMstId": 1000701, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100071, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000711, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100080, 
         "attribute": "8", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1000801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100081, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100090, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 1000901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 100091, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1000911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110010, 
         "attribute": "0", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 1100101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1100111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110020, 
         "attribute": "3", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1100201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1100211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110030, 
         "attribute": "3", 
         "effect": "UP_ATK_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1100301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1100311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110040, 
         "attribute": "3", 
         "effect": "UP_ATK_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1100401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1100411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110050, 
         "attribute": "3", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 1100501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 110051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1100511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150010, 
         "attribute": "0", 
         "effect": "UP_ATK_RATIO", 
         "musicSkillEffectiveMstId": 1500101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150020, 
         "attribute": "7", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1500201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150030, 
         "attribute": "7", 
         "effect": "UP_ATK_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1500301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150040, 
         "attribute": "7", 
         "effect": "DWN_MADNESS_RATIO", 
         "musicSkillEffectiveMstId": 1500401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150050, 
         "attribute": "7", 
         "effect": "UP_HP_RATIO", 
         "musicSkillEffectiveMstId": 1500501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150060, 
         "attribute": "7", 
         "effect": "DWN_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 1500601, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150061, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500611, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150080, 
         "attribute": "7", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 1500801, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150081, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500811, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150090, 
         "attribute": "7", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1500901, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150091, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1500911, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150100, 
         "attribute": "7", 
         "effect": "DWN_DEEP_DARKNESS_RATIO", 
         "musicSkillEffectiveMstId": 1501001, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150101, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1501011, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150110, 
         "attribute": "7", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 1501101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150111, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1501111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150120, 
         "attribute": "7", 
         "effect": "DWN_PROVOKE_RATIO", 
         "musicSkillEffectiveMstId": 1501201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150121, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1501211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150130, 
         "attribute": "7", 
         "effect": "UP_ATK_NORMAL_RATIO", 
         "musicSkillEffectiveMstId": 1501301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 150131, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1501311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160010, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 1600101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1600111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160020, 
         "attribute": "10", 
         "effect": "DWN_CHARM_RATIO", 
         "musicSkillEffectiveMstId": 1600201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1600211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160030, 
         "attribute": "10", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1600301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1600311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160040, 
         "attribute": "10", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1600401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1600411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160050, 
         "attribute": "7", 
         "effect": "DWN_PROVOKE_RATIO", 
         "musicSkillEffectiveMstId": 1600501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 160051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1600511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170010, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 1700101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1700111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170020, 
         "attribute": "1", 
         "effect": "DWN_STUN_RATIO", 
         "musicSkillEffectiveMstId": 1700201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1700211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170030, 
         "attribute": "7", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1700301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1700311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170040, 
         "attribute": "1", 
         "effect": "DWN_SLEEP_RATIO", 
         "musicSkillEffectiveMstId": 1700401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1700411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170050, 
         "attribute": "1", 
         "effect": "UP_DEF_PECULIAR_RATIO", 
         "musicSkillEffectiveMstId": 1700501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 170051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1700511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180010, 
         "attribute": "0", 
         "effect": "UP_DEF_RATIO", 
         "musicSkillEffectiveMstId": 1800101, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180011, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1800111, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180020, 
         "attribute": "9", 
         "effect": "DWN_PROVOKE_RATIO", 
         "musicSkillEffectiveMstId": 1800201, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180021, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1800211, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180030, 
         "attribute": "9", 
         "effect": "UP_ATK_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1800301, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180031, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1800311, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180040, 
         "attribute": "9", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1800401, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180041, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1800411, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180050, 
         "attribute": "7", 
         "effect": "UP_DEF_PHYSICAL_RATIO", 
         "musicSkillEffectiveMstId": 1800501, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
     }, 
     {
         "musicSkillMstId": 180051, 
         "attribute": "0", 
         "effect": "GIV_DMG_UP_RATIO", 
         "musicSkillEffectiveMstId": 1800511, 
-        "updatedTime": 1617691476
+        "updatedTime": 1618302204
+    }, 
+    {
+        "musicSkillMstId": 90000010, 
+        "attribute": "1", 
+        "effect": "DWN_SLEEP_RATIO", 
+        "musicSkillEffectiveMstId": 900000101, 
+        "updatedTime": 1618302204
+    }, 
+    {
+        "musicSkillMstId": 90000011, 
+        "attribute": "0", 
+        "effect": "GIV_DMG_UP_RATIO", 
+        "musicSkillEffectiveMstId": 900000111, 
+        "updatedTime": 1618302204
     }
 ]

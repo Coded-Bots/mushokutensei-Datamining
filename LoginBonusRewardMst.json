@@ -1,272 +1,12 @@
 [
     {
         "dayCount": 1, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 1, 
-        "objectId": 0, 
-        "num": 500, 
-        "bonusNo": 1, 
-        "presentType": "freeCoin", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 2, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 1, 
-        "objectId": 0, 
-        "num": 500, 
-        "bonusNo": 1, 
-        "presentType": "freeCoin", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 3, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 1, 
-        "objectId": 0, 
-        "num": 500, 
-        "bonusNo": 1, 
-        "presentType": "freeCoin", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 4, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 1, 
-        "objectId": 0, 
-        "num": 500, 
-        "bonusNo": 1, 
-        "presentType": "freeCoin", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 5, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 1, 
-        "objectId": 0, 
-        "num": 1000, 
-        "bonusNo": 1, 
-        "presentType": "freeCoin", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 1, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 2, 
-        "objectId": 4003, 
-        "num": 3, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 1, 
         "isSpecialReward": 1, 
         "loginBonusMstId": 3, 
         "objectId": 4001, 
         "num": 1, 
         "bonusNo": 1, 
         "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 1, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 2, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 3, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 4, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 5, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 6, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 7, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 8, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 9, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 10, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 4, 
-        "objectId": 1000, 
-        "num": 2, 
-        "bonusNo": 1, 
-        "presentType": "item", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 1, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 2, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 3, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 4, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 5, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 6, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 7, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 8, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 9, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
-        "valid": 1
-    }, 
-    {
-        "dayCount": 10, 
-        "isSpecialReward": 0, 
-        "loginBonusMstId": 5, 
-        "objectId": 80000300, 
-        "num": 1, 
-        "bonusNo": 1, 
-        "presentType": "card", 
         "valid": 1
     }, 
     {
@@ -407,6 +147,106 @@
         "num": 1, 
         "bonusNo": 1, 
         "presentType": "item", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 1, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 1000, 
+        "num": 1, 
+        "bonusNo": 1, 
+        "presentType": "item", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 2, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 0, 
+        "num": 10000, 
+        "bonusNo": 1, 
+        "presentType": "virtualMoney", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 3, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "bonusNo": 1, 
+        "presentType": "card", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 4, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 0, 
+        "num": 10000, 
+        "bonusNo": 1, 
+        "presentType": "virtualMoney", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 5, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 0, 
+        "num": 300, 
+        "bonusNo": 1, 
+        "presentType": "freeCoin", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 6, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 1000, 
+        "num": 1, 
+        "bonusNo": 1, 
+        "presentType": "item", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 7, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 0, 
+        "num": 10000, 
+        "bonusNo": 1, 
+        "presentType": "virtualMoney", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 8, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 89900300, 
+        "num": 1, 
+        "bonusNo": 1, 
+        "presentType": "card", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 9, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 0, 
+        "num": 10000, 
+        "bonusNo": 1, 
+        "presentType": "virtualMoney", 
+        "valid": 1
+    }, 
+    {
+        "dayCount": 10, 
+        "isSpecialReward": 0, 
+        "loginBonusMstId": 8, 
+        "objectId": 0, 
+        "num": 300, 
+        "bonusNo": 1, 
+        "presentType": "freeCoin", 
         "valid": 1
     }
 ]

@@ -1,0 +1,15 @@
+[
+    {
+        "eventName": "春の祝祭", 
+        "characterShowCode": 1002004, 
+        "eventType": 1, 
+        "backgroundName": "event_bg_0001", 
+        "closeTime": 1620745199, 
+        "imageAppealName": "event_appeal_0001", 
+        "valid": 1, 
+        "startTime": 1618412400, 
+        "eventSceneMstId": 1001, 
+        "eventItemMstId": 3000, 
+        "layoutName": "event_layout_0001"
+    }
+]

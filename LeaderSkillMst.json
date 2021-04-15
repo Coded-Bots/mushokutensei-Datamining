@@ -1,2233 +1,2341 @@
 [
     {
         "note": "水属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100100, 
         "name": "転生者Lv.1"
     }, 
     {
         "note": "水属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100101, 
         "name": "転生者Lv.2"
     }, 
     {
         "note": "水属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100102, 
         "name": "転生者Lv.3"
     }, 
     {
         "note": "水属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100103, 
         "name": "転生者Lv.4"
     }, 
     {
         "note": "水属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100104, 
         "name": "転生者Lv.5"
     }, 
     {
         "note": "水属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100105, 
         "name": "転生者Lv.6"
     }, 
     {
-        "note": "水神属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100200, 
         "name": "あふれる才能Lv.1"
     }, 
     {
-        "note": "水神属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100201, 
         "name": "あふれる才能Lv.2"
     }, 
     {
-        "note": "水神属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100202, 
         "name": "あふれる才能Lv.3"
     }, 
     {
-        "note": "水神属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100203, 
         "name": "あふれる才能Lv.4"
     }, 
     {
-        "note": "水神属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100204, 
         "name": "あふれる才能Lv.5"
     }, 
     {
-        "note": "水神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100205, 
         "name": "あふれる才能Lv.6"
     }, 
     {
         "note": "土属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100300, 
         "name": "家庭教師Lv.1"
     }, 
     {
         "note": "土属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100301, 
         "name": "家庭教師Lv.2"
     }, 
     {
         "note": "土属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100302, 
         "name": "家庭教師Lv.3"
     }, 
     {
         "note": "土属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100303, 
         "name": "家庭教師Lv.4"
     }, 
     {
         "note": "土属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100304, 
         "name": "家庭教師Lv.5"
     }, 
     {
         "note": "土属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100305, 
         "name": "家庭教師Lv.6"
     }, 
     {
-        "note": "剣神属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100400, 
         "name": "剣神流初級Lv.1"
     }, 
     {
-        "note": "剣神属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100401, 
         "name": "剣神流初級Lv.2"
     }, 
     {
-        "note": "剣神属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100402, 
         "name": "剣神流初級Lv.3"
     }, 
     {
-        "note": "剣神属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100403, 
         "name": "剣神流初級Lv.4"
     }, 
     {
-        "note": "剣神属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100404, 
         "name": "剣神流初級Lv.5"
     }, 
     {
-        "note": "剣神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100405, 
         "name": "剣神流初級Lv.6"
     }, 
     {
         "note": "土属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100500, 
         "name": "神託の魔術師Lv.1"
     }, 
     {
         "note": "土属性の体力を11%UP+魔術攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100501, 
         "name": "神託の魔術師Lv.2"
     }, 
     {
         "note": "土属性の体力を12%UP+魔術攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100502, 
         "name": "神託の魔術師Lv.3"
     }, 
     {
         "note": "土属性の体力を13%UP+魔術攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100503, 
         "name": "神託の魔術師Lv.4"
     }, 
     {
         "note": "土属性の体力を14%UP+魔術攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100504, 
         "name": "神託の魔術師Lv.5"
     }, 
     {
         "note": "土属性の体力を15%UP+魔術攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100505, 
         "name": "神託の魔術師Lv.6"
     }, 
     {
         "note": "土属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100600, 
         "name": "冒険者Lv.1"
     }, 
     {
         "note": "土属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100601, 
         "name": "冒険者Lv.2"
     }, 
     {
         "note": "土属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100602, 
         "name": "冒険者Lv.3"
     }, 
     {
         "note": "土属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100603, 
         "name": "冒険者Lv.4"
     }, 
     {
         "note": "土属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100604, 
         "name": "冒険者Lv.5"
     }, 
     {
         "note": "土属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100605, 
         "name": "冒険者Lv.6"
     }, 
     {
         "note": "土属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100900, 
         "name": "幼少期Lv.1"
     }, 
     {
         "note": "土属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100901, 
         "name": "幼少期Lv.2"
     }, 
     {
         "note": "土属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100902, 
         "name": "幼少期Lv.3"
     }, 
     {
         "note": "土属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100903, 
         "name": "幼少期Lv.4"
     }, 
     {
         "note": "土属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100904, 
         "name": "幼少期Lv.5"
     }, 
     {
         "note": "土属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100100905, 
         "name": "幼少期Lv.6"
     }, 
     {
         "note": "火属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101000, 
         "name": "演技上手Lv.1"
     }, 
     {
         "note": "火属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101001, 
         "name": "演技上手Lv.2"
     }, 
     {
         "note": "火属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101002, 
         "name": "演技上手Lv.3"
     }, 
     {
         "note": "火属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101003, 
         "name": "演技上手Lv.4"
     }, 
     {
         "note": "火属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101004, 
         "name": "演技上手Lv.5"
     }, 
     {
         "note": "火属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101005, 
         "name": "演技上手Lv.6"
     }, 
     {
         "note": "風属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101100, 
         "name": "新天地へLv.1"
     }, 
     {
         "note": "風属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101101, 
         "name": "新天地へLv.2"
     }, 
     {
         "note": "風属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101102, 
         "name": "新天地へLv.3"
     }, 
     {
         "note": "風属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101103, 
         "name": "新天地へLv.4"
     }, 
     {
         "note": "風属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101104, 
         "name": "新天地へLv.5"
     }, 
     {
         "note": "風属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101105, 
         "name": "新天地へLv.6"
     }, 
     {
         "note": "水属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101200, 
         "name": "新たな装いLv.1"
     }, 
     {
         "note": "水属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101201, 
         "name": "新たな装いLv.2"
     }, 
     {
         "note": "水属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101202, 
         "name": "新たな装いLv.3"
     }, 
     {
         "note": "水属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101203, 
         "name": "新たな装いLv.4"
     }, 
     {
         "note": "水属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101204, 
         "name": "新たな装いLv.5"
     }, 
     {
         "note": "水属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100101205, 
         "name": "新たな装いLv.6"
     }, 
     {
         "note": "風属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200100, 
         "name": "家庭教師Lv.1"
     }, 
     {
         "note": "風属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200101, 
         "name": "家庭教師Lv.2"
     }, 
     {
         "note": "風属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200102, 
         "name": "家庭教師Lv.3"
     }, 
     {
         "note": "風属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200103, 
         "name": "家庭教師Lv.4"
     }, 
     {
         "note": "風属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200104, 
         "name": "家庭教師Lv.5"
     }, 
     {
         "note": "風属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200105, 
         "name": "家庭教師Lv.6"
     }, 
     {
         "note": "水属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200200, 
         "name": "小さな師匠Lv.1"
     }, 
     {
         "note": "水属性の攻撃力を11%UP+会心倍率を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200201, 
         "name": "小さな師匠Lv.2"
     }, 
     {
         "note": "水属性の攻撃力を12%UP+会心倍率を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200202, 
         "name": "小さな師匠Lv.3"
     }, 
     {
         "note": "水属性の攻撃力を13%UP+会心倍率を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200203, 
         "name": "小さな師匠Lv.4"
     }, 
     {
         "note": "水属性の攻撃力を14%UP+会心倍率を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200204, 
         "name": "小さな師匠Lv.5"
     }, 
     {
         "note": "水属性の攻撃力を15%UP+会心倍率を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200205, 
         "name": "小さな師匠Lv.6"
     }, 
     {
         "note": "水属性の会心発生率を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200300, 
         "name": "ミグルド族の魔術師Lv.1"
     }, 
     {
         "note": "水属性の会心発生率を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200301, 
         "name": "ミグルド族の魔術師Lv.2"
     }, 
     {
         "note": "水属性の会心発生率を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200302, 
         "name": "ミグルド族の魔術師Lv.3"
     }, 
     {
         "note": "水属性の会心発生率を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200303, 
         "name": "ミグルド族の魔術師Lv.4"
     }, 
     {
         "note": "水属性の会心発生率を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200304, 
         "name": "ミグルド族の魔術師Lv.5"
     }, 
     {
         "note": "水属性の会心発生率を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200305, 
         "name": "ミグルド族の魔術師Lv.6"
     }, 
     {
         "note": "火属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200400, 
         "name": "夜の座学の先生Lv.1"
     }, 
     {
         "note": "火属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200401, 
         "name": "夜の座学の先生Lv.2"
     }, 
     {
         "note": "火属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200402, 
         "name": "夜の座学の先生Lv.3"
     }, 
     {
         "note": "火属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200403, 
         "name": "夜の座学の先生Lv.4"
     }, 
     {
         "note": "火属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200404, 
         "name": "夜の座学の先生Lv.5"
     }, 
     {
         "note": "火属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200405, 
         "name": "夜の座学の先生Lv.6"
     }, 
     {
         "note": "水属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200500, 
         "name": "水王級魔術師Lv.1"
     }, 
     {
         "note": "水属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200501, 
         "name": "水王級魔術師Lv.2"
     }, 
     {
         "note": "水属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200502, 
         "name": "水王級魔術師Lv.3"
     }, 
     {
         "note": "水属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200503, 
         "name": "水王級魔術師Lv.4"
     }, 
     {
         "note": "水属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200504, 
         "name": "水王級魔術師Lv.5"
     }, 
     {
         "note": "水属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200505, 
         "name": "水王級魔術師Lv.6"
     }, 
     {
         "note": "土属性の会心発生率を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200700, 
         "name": "ジト目の魔術師Lv.1"
     }, 
     {
         "note": "土属性の会心発生率を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200701, 
         "name": "ジト目の魔術師Lv.2"
     }, 
     {
         "note": "土属性の会心発生率を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200702, 
         "name": "ジト目の魔術師Lv.3"
     }, 
     {
         "note": "土属性の会心発生率を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200703, 
         "name": "ジト目の魔術師Lv.4"
     }, 
     {
         "note": "土属性の会心発生率を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200704, 
         "name": "ジト目の魔術師Lv.5"
     }, 
     {
         "note": "土属性の会心発生率を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200705, 
         "name": "ジト目の魔術師Lv.6"
     }, 
     {
         "note": "火属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200800, 
         "name": "青髪の美少女Lv.1"
     }, 
     {
         "note": "火属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200801, 
         "name": "青髪の美少女Lv.2"
     }, 
     {
         "note": "火属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200802, 
         "name": "青髪の美少女Lv.3"
     }, 
     {
         "note": "火属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200803, 
         "name": "青髪の美少女Lv.4"
     }, 
     {
         "note": "火属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200804, 
         "name": "青髪の美少女Lv.5"
     }, 
     {
         "note": "火属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200805, 
         "name": "青髪の美少女Lv.6"
     }, 
     {
         "note": "風属性の会心発生率を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200900, 
         "name": "捜索の旅路Lv.1"
     }, 
     {
         "note": "風属性の会心発生率を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200901, 
         "name": "捜索の旅路Lv.2"
     }, 
     {
         "note": "風属性の会心発生率を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200902, 
         "name": "捜索の旅路Lv.3"
     }, 
     {
         "note": "風属性の会心発生率を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200903, 
         "name": "捜索の旅路Lv.4"
     }, 
     {
         "note": "風属性の会心発生率を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200904, 
         "name": "捜索の旅路Lv.5"
     }, 
     {
         "note": "風属性の会心発生率を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100200905, 
         "name": "捜索の旅路Lv.6"
     }, 
     {
+        "note": "火属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100201000, 
+        "name": "祝祭の火花Lv.1"
+    }, 
+    {
+        "note": "火属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100201001, 
+        "name": "祝祭の火花Lv.2"
+    }, 
+    {
+        "note": "火属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100201002, 
+        "name": "祝祭の火花Lv.3"
+    }, 
+    {
+        "note": "火属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100201003, 
+        "name": "祝祭の火花Lv.4"
+    }, 
+    {
+        "note": "火属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100201004, 
+        "name": "祝祭の火花Lv.5"
+    }, 
+    {
+        "note": "火属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100201005, 
+        "name": "祝祭の火花Lv.6"
+    }, 
+    {
         "note": "水属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300100, 
         "name": "ブエナ村の少女Lv.1"
     }, 
     {
         "note": "水属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300101, 
         "name": "ブエナ村の少女Lv.2"
     }, 
     {
         "note": "水属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300102, 
         "name": "ブエナ村の少女Lv.3"
     }, 
     {
         "note": "水属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300103, 
         "name": "ブエナ村の少女Lv.4"
     }, 
     {
         "note": "水属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300104, 
         "name": "ブエナ村の少女Lv.5"
     }, 
     {
         "note": "水属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300105, 
         "name": "ブエナ村の少女Lv.6"
     }, 
     {
         "note": "水属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300200, 
         "name": "泣き虫Lv.1"
     }, 
     {
         "note": "水属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300201, 
         "name": "泣き虫Lv.2"
     }, 
     {
         "note": "水属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300202, 
         "name": "泣き虫Lv.3"
     }, 
     {
         "note": "水属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300203, 
         "name": "泣き虫Lv.4"
     }, 
     {
         "note": "水属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300204, 
         "name": "泣き虫Lv.5"
     }, 
     {
         "note": "水属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300205, 
         "name": "泣き虫Lv.6"
     }, 
     {
         "note": "風属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300300, 
         "name": "見習い治癒術師Lv.1"
     }, 
     {
         "note": "風属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300301, 
         "name": "見習い治癒術師Lv.2"
     }, 
     {
         "note": "風属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300302, 
         "name": "見習い治癒術師Lv.3"
     }, 
     {
         "note": "風属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300303, 
         "name": "見習い治癒術師Lv.4"
     }, 
     {
         "note": "風属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300304, 
         "name": "見習い治癒術師Lv.5"
     }, 
     {
         "note": "風属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300305, 
         "name": "見習い治癒術師Lv.6"
     }, 
     {
         "note": "風属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300400, 
         "name": "奇跡の天使Lv.1"
     }, 
     {
         "note": "風属性の体力を11%UP+魔術防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300401, 
         "name": "奇跡の天使Lv.2"
     }, 
     {
         "note": "風属性の体力を12%UP+魔術防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300402, 
         "name": "奇跡の天使Lv.3"
     }, 
     {
         "note": "風属性の体力を13%UP+魔術防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300403, 
         "name": "奇跡の天使Lv.4"
     }, 
     {
         "note": "風属性の体力を14%UP+魔術防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300404, 
         "name": "奇跡の天使Lv.5"
     }, 
     {
         "note": "風属性の体力を15%UP+魔術防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300405, 
         "name": "奇跡の天使Lv.6"
     }, 
     {
         "note": "土属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300700, 
         "name": "美少年？Lv.1"
     }, 
     {
         "note": "土属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300701, 
         "name": "美少年？Lv.2"
     }, 
     {
         "note": "土属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300702, 
         "name": "美少年？Lv.3"
     }, 
     {
         "note": "土属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300703, 
         "name": "美少年？Lv.4"
     }, 
     {
         "note": "土属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300704, 
         "name": "美少年？Lv.5"
     }, 
     {
         "note": "土属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300705, 
         "name": "美少年？Lv.6"
     }, 
     {
         "note": "水属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300800, 
         "name": "長耳の少女Lv.1"
     }, 
     {
         "note": "水属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300801, 
         "name": "長耳の少女Lv.2"
     }, 
     {
         "note": "水属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300802, 
         "name": "長耳の少女Lv.3"
     }, 
     {
         "note": "水属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300803, 
         "name": "長耳の少女Lv.4"
     }, 
     {
         "note": "水属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300804, 
         "name": "長耳の少女Lv.5"
     }, 
     {
         "note": "水属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300805, 
         "name": "長耳の少女Lv.6"
     }, 
     {
         "note": "土属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300900, 
         "name": "依存克服Lv.1"
     }, 
     {
         "note": "土属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300901, 
         "name": "依存克服Lv.2"
     }, 
     {
         "note": "土属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300902, 
         "name": "依存克服Lv.3"
     }, 
     {
         "note": "土属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300903, 
         "name": "依存克服Lv.4"
     }, 
     {
         "note": "土属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300904, 
         "name": "依存克服Lv.5"
     }, 
     {
         "note": "土属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100300905, 
         "name": "依存克服Lv.6"
     }, 
     {
         "note": "火属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400100, 
         "name": "おてんばお嬢様Lv.1"
     }, 
     {
         "note": "火属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400101, 
         "name": "おてんばお嬢様Lv.2"
     }, 
     {
         "note": "火属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400102, 
         "name": "おてんばお嬢様Lv.3"
     }, 
     {
         "note": "火属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400103, 
         "name": "おてんばお嬢様Lv.4"
     }, 
     {
         "note": "火属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400104, 
         "name": "おてんばお嬢様Lv.5"
     }, 
     {
         "note": "火属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400105, 
         "name": "おてんばお嬢様Lv.6"
     }, 
     {
-        "note": "北神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400200, 
         "name": "ツンデレ姫Lv.1"
     }, 
     {
-        "note": "北神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400201, 
         "name": "ツンデレ姫Lv.2"
     }, 
     {
-        "note": "北神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400202, 
         "name": "ツンデレ姫Lv.3"
     }, 
     {
-        "note": "北神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400203, 
         "name": "ツンデレ姫Lv.4"
     }, 
     {
-        "note": "北神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400204, 
         "name": "ツンデレ姫Lv.5"
     }, 
     {
-        "note": "北神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400205, 
         "name": "ツンデレ姫Lv.6"
     }, 
     {
         "note": "我流属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400300, 
         "name": "冒険者Lv.1"
     }, 
     {
         "note": "我流属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400301, 
         "name": "冒険者Lv.2"
     }, 
     {
         "note": "我流属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400302, 
         "name": "冒険者Lv.3"
     }, 
     {
         "note": "我流属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400303, 
         "name": "冒険者Lv.4"
     }, 
     {
         "note": "我流属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400304, 
         "name": "冒険者Lv.5"
     }, 
     {
         "note": "我流属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400305, 
         "name": "冒険者Lv.6"
     }, 
     {
         "note": "我流属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400400, 
         "name": "ボレアス家令嬢Lv.1"
     }, 
     {
         "note": "我流属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400401, 
         "name": "ボレアス家令嬢Lv.2"
     }, 
     {
         "note": "我流属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400402, 
         "name": "ボレアス家令嬢Lv.3"
     }, 
     {
         "note": "我流属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400403, 
         "name": "ボレアス家令嬢Lv.4"
     }, 
     {
         "note": "我流属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400404, 
         "name": "ボレアス家令嬢Lv.5"
     }, 
     {
         "note": "我流属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400405, 
         "name": "ボレアス家令嬢Lv.6"
     }, 
     {
-        "note": "北神属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400500, 
         "name": "信頼の笑顔Lv.1"
     }, 
     {
-        "note": "北神属性の体力を11%UP+剣術攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を11%UP+剣術攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400501, 
         "name": "信頼の笑顔Lv.2"
     }, 
     {
-        "note": "北神属性の体力を12%UP+剣術攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を12%UP+剣術攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400502, 
         "name": "信頼の笑顔Lv.3"
     }, 
     {
-        "note": "北神属性の体力を13%UP+剣術攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を13%UP+剣術攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400503, 
         "name": "信頼の笑顔Lv.4"
     }, 
     {
-        "note": "北神属性の体力を14%UP+剣術攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を14%UP+剣術攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400504, 
         "name": "信頼の笑顔Lv.5"
     }, 
     {
-        "note": "北神属性の体力を15%UP+剣術攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を15%UP+剣術攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400505, 
         "name": "信頼の笑顔Lv.6"
     }, 
     {
-        "note": "北神属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400600, 
         "name": "赤毛の剣士Lv.1"
     }, 
     {
-        "note": "北神属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400601, 
         "name": "赤毛の剣士Lv.2"
     }, 
     {
-        "note": "北神属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400602, 
         "name": "赤毛の剣士Lv.3"
     }, 
     {
-        "note": "北神属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400603, 
         "name": "赤毛の剣士Lv.4"
     }, 
     {
-        "note": "北神属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400604, 
         "name": "赤毛の剣士Lv.5"
     }, 
     {
-        "note": "北神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100400605, 
         "name": "赤毛の剣士Lv.6"
     }, 
     {
-        "note": "剣神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401300, 
         "name": "ボレアスの血筋Lv.1"
     }, 
     {
-        "note": "剣神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401301, 
         "name": "ボレアスの血筋Lv.2"
     }, 
     {
-        "note": "剣神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401302, 
         "name": "ボレアスの血筋Lv.3"
     }, 
     {
-        "note": "剣神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401303, 
         "name": "ボレアスの血筋Lv.4"
     }, 
     {
-        "note": "剣神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401304, 
         "name": "ボレアスの血筋Lv.5"
     }, 
     {
-        "note": "剣神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401305, 
         "name": "ボレアスの血筋Lv.6"
     }, 
     {
-        "note": "剣神属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401400, 
         "name": "新天地へLv.1"
     }, 
     {
-        "note": "剣神属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401401, 
         "name": "新天地へLv.2"
     }, 
     {
-        "note": "剣神属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401402, 
         "name": "新天地へLv.3"
     }, 
     {
-        "note": "剣神属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401403, 
         "name": "新天地へLv.4"
     }, 
     {
-        "note": "剣神属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401404, 
         "name": "新天地へLv.5"
     }, 
     {
-        "note": "剣神属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401405, 
         "name": "新天地へLv.6"
     }, 
     {
-        "note": "北神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401500, 
         "name": "お気に入りの服Lv.1"
     }, 
     {
-        "note": "北神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401501, 
         "name": "お気に入りの服Lv.2"
     }, 
     {
-        "note": "北神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401502, 
         "name": "お気に入りの服Lv.3"
     }, 
     {
-        "note": "北神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401503, 
         "name": "お気に入りの服Lv.4"
     }, 
     {
-        "note": "北神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401504, 
         "name": "お気に入りの服Lv.5"
     }, 
     {
-        "note": "北神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100401505, 
         "name": "お気に入りの服Lv.6"
     }, 
     {
-        "note": "水神属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "火属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100401600, 
+        "name": "祝祭の花嵐Lv.1"
+    }, 
+    {
+        "note": "火属性の攻撃力を11%UP+魔術攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100401601, 
+        "name": "祝祭の花嵐Lv.2"
+    }, 
+    {
+        "note": "火属性の攻撃力を12%UP+魔術攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100401602, 
+        "name": "祝祭の花嵐Lv.3"
+    }, 
+    {
+        "note": "火属性の攻撃力を13%UP+魔術攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100401603, 
+        "name": "祝祭の花嵐Lv.4"
+    }, 
+    {
+        "note": "火属性の攻撃力を14%UP+魔術攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100401604, 
+        "name": "祝祭の花嵐Lv.5"
+    }, 
+    {
+        "note": "火属性の攻撃力を15%UP+魔術攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100401605, 
+        "name": "祝祭の花嵐Lv.6"
+    }, 
+    {
+        "note": "水神流属性の体力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500100, 
         "name": "ブエナ村駐在騎士Lv.1"
     }, 
     {
-        "note": "水神属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500101, 
         "name": "ブエナ村駐在騎士Lv.2"
     }, 
     {
-        "note": "水神属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500102, 
         "name": "ブエナ村駐在騎士Lv.3"
     }, 
     {
-        "note": "水神属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500103, 
         "name": "ブエナ村駐在騎士Lv.4"
     }, 
     {
-        "note": "水神属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500104, 
         "name": "ブエナ村駐在騎士Lv.5"
     }, 
     {
-        "note": "水神属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500105, 
         "name": "ブエナ村駐在騎士Lv.6"
     }, 
     {
-        "note": "剣神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500200, 
         "name": "グレイラットの大黒柱Lv.1"
     }, 
     {
-        "note": "剣神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500201, 
         "name": "グレイラットの大黒柱Lv.2"
     }, 
     {
-        "note": "剣神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500202, 
         "name": "グレイラットの大黒柱Lv.3"
     }, 
     {
-        "note": "剣神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500203, 
         "name": "グレイラットの大黒柱Lv.4"
     }, 
     {
-        "note": "剣神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500204, 
         "name": "グレイラットの大黒柱Lv.5"
     }, 
     {
-        "note": "剣神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500205, 
         "name": "グレイラットの大黒柱Lv.6"
     }, 
     {
-        "note": "剣神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500500, 
         "name": "ノトス家の悪童Lv.1"
     }, 
     {
-        "note": "剣神属性の防御力を11%UP+剣術攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を11%UP+剣術攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500501, 
         "name": "ノトス家の悪童Lv.2"
     }, 
     {
-        "note": "剣神属性の防御力を12%UP+剣術攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を12%UP+剣術攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500502, 
         "name": "ノトス家の悪童Lv.3"
     }, 
     {
-        "note": "剣神属性の防御力を13%UP+剣術攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を13%UP+剣術攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500503, 
         "name": "ノトス家の悪童Lv.4"
     }, 
     {
-        "note": "剣神属性の防御力を14%UP+剣術攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を14%UP+剣術攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500504, 
         "name": "ノトス家の悪童Lv.5"
     }, 
     {
-        "note": "剣神属性の防御力を15%UP+剣術攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の防御力を15%UP+剣術攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500505, 
         "name": "ノトス家の悪童Lv.6"
     }, 
     {
-        "note": "水神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500600, 
         "name": "剣術の天才児Lv.1"
     }, 
     {
-        "note": "水神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500601, 
         "name": "剣術の天才児Lv.2"
     }, 
     {
-        "note": "水神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500602, 
         "name": "剣術の天才児Lv.3"
     }, 
     {
-        "note": "水神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500603, 
         "name": "剣術の天才児Lv.4"
     }, 
     {
-        "note": "水神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500604, 
         "name": "剣術の天才児Lv.5"
     }, 
     {
-        "note": "水神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500605, 
         "name": "剣術の天才児Lv.6"
     }, 
     {
-        "note": "北神属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500700, 
         "name": "天才剣士Lv.1"
     }, 
     {
-        "note": "北神属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500701, 
         "name": "天才剣士Lv.2"
     }, 
     {
-        "note": "北神属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500702, 
         "name": "天才剣士Lv.3"
     }, 
     {
-        "note": "北神属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500703, 
         "name": "天才剣士Lv.4"
     }, 
     {
-        "note": "北神属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500704, 
         "name": "天才剣士Lv.5"
     }, 
     {
-        "note": "北神属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の体力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500705, 
         "name": "天才剣士Lv.6"
     }, 
     {
-        "note": "剣神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500900, 
         "name": "いたずらっ子Lv.1"
     }, 
     {
-        "note": "剣神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500901, 
         "name": "いたずらっ子Lv.2"
     }, 
     {
-        "note": "剣神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500902, 
         "name": "いたずらっ子Lv.3"
     }, 
     {
-        "note": "剣神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500903, 
         "name": "いたずらっ子Lv.4"
     }, 
     {
-        "note": "剣神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500904, 
         "name": "いたずらっ子Lv.5"
     }, 
     {
-        "note": "剣神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100500905, 
         "name": "いたずらっ子Lv.6"
     }, 
     {
         "note": "風属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600100, 
         "name": "慈愛の治癒術師Lv.1"
     }, 
     {
         "note": "風属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600101, 
         "name": "慈愛の治癒術師Lv.2"
     }, 
     {
         "note": "風属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600102, 
         "name": "慈愛の治癒術師Lv.3"
     }, 
     {
         "note": "風属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600103, 
         "name": "慈愛の治癒術師Lv.4"
     }, 
     {
         "note": "風属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600104, 
         "name": "慈愛の治癒術師Lv.5"
     }, 
     {
         "note": "風属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600105, 
         "name": "慈愛の治癒術師Lv.6"
     }, 
     {
         "note": "水属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600300, 
         "name": "ミリス教徒Lv.1"
     }, 
     {
         "note": "水属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600301, 
         "name": "ミリス教徒Lv.2"
     }, 
     {
         "note": "水属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600302, 
         "name": "ミリス教徒Lv.3"
     }, 
     {
         "note": "水属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600303, 
         "name": "ミリス教徒Lv.4"
     }, 
     {
         "note": "水属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600304, 
         "name": "ミリス教徒Lv.5"
     }, 
     {
         "note": "水属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100600305, 
         "name": "ミリス教徒Lv.6"
     }, 
     {
+        "note": "火属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100600400, 
+        "name": "祝祭の黄花Lv.1"
+    }, 
+    {
+        "note": "火属性の防御力を11%UP+魔術防御力を6%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100600401, 
+        "name": "祝祭の黄花Lv.2"
+    }, 
+    {
+        "note": "火属性の防御力を12%UP+魔術防御力を7%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100600402, 
+        "name": "祝祭の黄花Lv.3"
+    }, 
+    {
+        "note": "火属性の防御力を13%UP+魔術防御力を8%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100600403, 
+        "name": "祝祭の黄花Lv.4"
+    }, 
+    {
+        "note": "火属性の防御力を14%UP+魔術防御力を9%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100600404, 
+        "name": "祝祭の黄花Lv.5"
+    }, 
+    {
+        "note": "火属性の防御力を15%UP+魔術防御力を10%UP", 
+        "updatedTime": 1618302200, 
+        "leaderSkillMstId": 100600405, 
+        "name": "祝祭の黄花Lv.6"
+    }, 
+    {
         "note": "火属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700100, 
         "name": "グレイラット家のメイドLv.1"
     }, 
     {
         "note": "火属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700101, 
         "name": "グレイラット家のメイドLv.2"
     }, 
     {
         "note": "火属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700102, 
         "name": "グレイラット家のメイドLv.3"
     }, 
     {
         "note": "火属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700103, 
         "name": "グレイラット家のメイドLv.4"
     }, 
     {
         "note": "火属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700104, 
         "name": "グレイラット家のメイドLv.5"
     }, 
     {
         "note": "火属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700105, 
         "name": "グレイラット家のメイドLv.6"
     }, 
     {
-        "note": "水神属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700200, 
         "name": "眼鏡メイドLv.1"
     }, 
     {
-        "note": "水神属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700201, 
         "name": "眼鏡メイドLv.2"
     }, 
     {
-        "note": "水神属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700202, 
         "name": "眼鏡メイドLv.3"
     }, 
     {
-        "note": "水神属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700203, 
         "name": "眼鏡メイドLv.4"
     }, 
     {
-        "note": "水神属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700204, 
         "name": "眼鏡メイドLv.5"
     }, 
     {
-        "note": "水神属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の体力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700205, 
         "name": "眼鏡メイドLv.6"
     }, 
     {
-        "note": "水神属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700400, 
         "name": "凄腕メイドLv.1"
     }, 
     {
-        "note": "水神属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700401, 
         "name": "凄腕メイドLv.2"
     }, 
     {
-        "note": "水神属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700402, 
         "name": "凄腕メイドLv.3"
     }, 
     {
-        "note": "水神属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700403, 
         "name": "凄腕メイドLv.4"
     }, 
     {
-        "note": "水神属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700404, 
         "name": "凄腕メイドLv.5"
     }, 
     {
-        "note": "水神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 100700405, 
         "name": "凄腕メイドLv.6"
     }, 
     {
         "note": "火属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000100, 
         "name": "魔術師見習いLv.1"
     }, 
     {
         "note": "火属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000101, 
         "name": "魔術師見習いLv.2"
     }, 
     {
         "note": "火属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000102, 
         "name": "魔術師見習いLv.3"
     }, 
     {
         "note": "火属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000103, 
         "name": "魔術師見習いLv.4"
     }, 
     {
         "note": "火属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000104, 
         "name": "魔術師見習いLv.5"
     }, 
     {
         "note": "火属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000105, 
         "name": "魔術師見習いLv.6"
     }, 
     {
-        "note": "剣神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000200, 
         "name": "剣王Lv.1"
     }, 
     {
-        "note": "剣神属性の攻撃力を11%UP+剣術防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を11%UP+剣術防御力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000201, 
         "name": "剣王Lv.2"
     }, 
     {
-        "note": "剣神属性の攻撃力を12%UP+剣術防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を12%UP+剣術防御力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000202, 
         "name": "剣王Lv.3"
     }, 
     {
-        "note": "剣神属性の攻撃力を13%UP+剣術防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を13%UP+剣術防御力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000203, 
         "name": "剣王Lv.4"
     }, 
     {
-        "note": "剣神属性の攻撃力を14%UP+剣術防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を14%UP+剣術防御力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000204, 
         "name": "剣王Lv.5"
     }, 
     {
-        "note": "剣神属性の攻撃力を15%UP+剣術防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を15%UP+剣術防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000205, 
         "name": "剣王Lv.6"
     }, 
     {
-        "note": "剣神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000300, 
         "name": "眼帯の剣士Lv.1"
     }, 
     {
-        "note": "剣神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000301, 
         "name": "眼帯の剣士Lv.2"
     }, 
     {
-        "note": "剣神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000302, 
         "name": "眼帯の剣士Lv.3"
     }, 
     {
-        "note": "剣神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000303, 
         "name": "眼帯の剣士Lv.4"
     }, 
     {
-        "note": "剣神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000304, 
         "name": "眼帯の剣士Lv.5"
     }, 
     {
-        "note": "剣神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000305, 
         "name": "眼帯の剣士Lv.6"
     }, 
     {
-        "note": "剣神属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000400, 
         "name": "ボレアス家剣術指南役Lv.1"
     }, 
     {
-        "note": "剣神属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000401, 
         "name": "ボレアス家剣術指南役Lv.2"
     }, 
     {
-        "note": "剣神属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000402, 
         "name": "ボレアス家剣術指南役Lv.3"
     }, 
     {
-        "note": "剣神属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000403, 
         "name": "ボレアス家剣術指南役Lv.4"
     }, 
     {
-        "note": "剣神属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000404, 
         "name": "ボレアス家剣術指南役Lv.5"
     }, 
     {
-        "note": "剣神属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "剣神流属性の体力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101000405, 
         "name": "ボレアス家剣術指南役Lv.6"
     }, 
     {
         "note": "風属性の会心発生率を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100100, 
         "name": "英雄の使い魔Lv.1"
     }, 
     {
         "note": "風属性の会心発生率を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100101, 
         "name": "英雄の使い魔Lv.2"
     }, 
     {
         "note": "風属性の会心発生率を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100102, 
         "name": "英雄の使い魔Lv.3"
     }, 
     {
         "note": "風属性の会心発生率を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100103, 
         "name": "英雄の使い魔Lv.4"
     }, 
     {
         "note": "風属性の会心発生率を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100104, 
         "name": "英雄の使い魔Lv.5"
     }, 
     {
         "note": "風属性の会心発生率を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100105, 
         "name": "英雄の使い魔Lv.6"
     }, 
     {
-        "note": "北神属性の攻撃力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100300, 
         "name": "ダガーの使い手Lv.1"
     }, 
     {
-        "note": "北神属性の攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100301, 
         "name": "ダガーの使い手Lv.2"
     }, 
     {
-        "note": "北神属性の攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100302, 
         "name": "ダガーの使い手Lv.3"
     }, 
     {
-        "note": "北神属性の攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100303, 
         "name": "ダガーの使い手Lv.4"
     }, 
     {
-        "note": "北神属性の攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100304, 
         "name": "ダガーの使い手Lv.5"
     }, 
     {
-        "note": "北神属性の攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101100305, 
         "name": "ダガーの使い手Lv.6"
     }, 
     {
         "note": "我流属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500100, 
         "name": "忌み嫌われた種族Lv.1"
     }, 
     {
         "note": "我流属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500101, 
         "name": "忌み嫌われた種族Lv.2"
     }, 
     {
         "note": "我流属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500102, 
         "name": "忌み嫌われた種族Lv.3"
     }, 
     {
         "note": "我流属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500103, 
         "name": "忌み嫌われた種族Lv.4"
     }, 
     {
         "note": "我流属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500104, 
         "name": "忌み嫌われた種族Lv.5"
     }, 
     {
         "note": "我流属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500105, 
         "name": "忌み嫌われた種族Lv.6"
     }, 
     {
         "note": "我流属性の体力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500200, 
         "name": "スペルド族の戦士Lv.1"
     }, 
     {
         "note": "我流属性の体力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500201, 
         "name": "スペルド族の戦士Lv.2"
     }, 
     {
         "note": "我流属性の体力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500202, 
         "name": "スペルド族の戦士Lv.3"
     }, 
     {
         "note": "我流属性の体力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500203, 
         "name": "スペルド族の戦士Lv.4"
     }, 
     {
         "note": "我流属性の体力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500204, 
         "name": "スペルド族の戦士Lv.5"
     }, 
     {
         "note": "我流属性の体力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500205, 
         "name": "スペルド族の戦士Lv.6"
     }, 
     {
         "note": "我流属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500800, 
         "name": "新たな仲間Lv.1"
     }, 
     {
         "note": "我流属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500801, 
         "name": "新たな仲間Lv.2"
     }, 
     {
         "note": "我流属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500802, 
         "name": "新たな仲間Lv.3"
     }, 
     {
         "note": "我流属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500803, 
         "name": "新たな仲間Lv.4"
     }, 
     {
         "note": "我流属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500804, 
         "name": "新たな仲間Lv.5"
     }, 
     {
         "note": "我流属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101500805, 
         "name": "新たな仲間Lv.6"
     }, 
     {
         "note": "我流属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600100, 
         "name": "S級冒険者Lv.1"
     }, 
     {
         "note": "我流属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600101, 
         "name": "S級冒険者Lv.2"
     }, 
     {
         "note": "我流属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600102, 
         "name": "S級冒険者Lv.3"
     }, 
     {
         "note": "我流属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600103, 
         "name": "S級冒険者Lv.4"
     }, 
     {
         "note": "我流属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600104, 
         "name": "S級冒険者Lv.5"
     }, 
     {
         "note": "我流属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600105, 
         "name": "S級冒険者Lv.6"
     }, 
     {
-        "note": "水神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600200, 
         "name": "魔性の美貌Lv.1"
     }, 
     {
-        "note": "水神属性の防御力を11%UP+剣術攻撃力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を11%UP+剣術攻撃力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600201, 
         "name": "魔性の美貌Lv.2"
     }, 
     {
-        "note": "水神属性の防御力を12%UP+剣術攻撃力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を12%UP+剣術攻撃力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600202, 
         "name": "魔性の美貌Lv.3"
     }, 
     {
-        "note": "水神属性の防御力を13%UP+剣術攻撃力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を13%UP+剣術攻撃力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600203, 
         "name": "魔性の美貌Lv.4"
     }, 
     {
-        "note": "水神属性の防御力を14%UP+剣術攻撃力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を14%UP+剣術攻撃力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600204, 
         "name": "魔性の美貌Lv.5"
     }, 
     {
-        "note": "水神属性の防御力を15%UP+剣術攻撃力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を15%UP+剣術攻撃力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600205, 
         "name": "魔性の美貌Lv.6"
     }, 
     {
-        "note": "水神属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600300, 
         "name": "捜索の旅路Lv.1"
     }, 
     {
-        "note": "水神属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600301, 
         "name": "捜索の旅路Lv.2"
     }, 
     {
-        "note": "水神属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600302, 
         "name": "捜索の旅路Lv.3"
     }, 
     {
-        "note": "水神属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600303, 
         "name": "捜索の旅路Lv.4"
     }, 
     {
-        "note": "水神属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600304, 
         "name": "捜索の旅路Lv.5"
     }, 
     {
-        "note": "水神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "水神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101600305, 
         "name": "捜索の旅路Lv.6"
     }, 
     {
         "note": "土属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700100, 
         "name": "厳しき大峰Lv.1"
     }, 
     {
         "note": "土属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700101, 
         "name": "厳しき大峰Lv.2"
     }, 
     {
         "note": "土属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700102, 
         "name": "厳しき大峰Lv.3"
     }, 
     {
         "note": "土属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700103, 
         "name": "厳しき大峰Lv.4"
     }, 
     {
         "note": "土属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700104, 
         "name": "厳しき大峰Lv.5"
     }, 
     {
         "note": "土属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700105, 
         "name": "厳しき大峰Lv.6"
     }, 
     {
         "note": "火属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700200, 
         "name": "S級冒険者Lv.1"
     }, 
     {
         "note": "火属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700201, 
         "name": "S級冒険者Lv.2"
     }, 
     {
         "note": "火属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700202, 
         "name": "S級冒険者Lv.3"
     }, 
     {
         "note": "火属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700203, 
         "name": "S級冒険者Lv.4"
     }, 
     {
         "note": "火属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700204, 
         "name": "S級冒険者Lv.5"
     }, 
     {
         "note": "火属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700205, 
         "name": "S級冒険者Lv.6"
     }, 
     {
         "note": "我流属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700300, 
         "name": "捜索の旅路Lv.1"
     }, 
     {
         "note": "我流属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700301, 
         "name": "捜索の旅路Lv.2"
     }, 
     {
         "note": "我流属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700302, 
         "name": "捜索の旅路Lv.3"
     }, 
     {
         "note": "我流属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700303, 
         "name": "捜索の旅路Lv.4"
     }, 
     {
         "note": "我流属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700304, 
         "name": "捜索の旅路Lv.5"
     }, 
     {
         "note": "我流属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101700305, 
         "name": "捜索の旅路Lv.6"
     }, 
     {
-        "note": "北神属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を5%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800100, 
         "name": "守銭奴Lv.1"
     }, 
     {
-        "note": "北神属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を6%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800101, 
         "name": "守銭奴Lv.2"
     }, 
     {
-        "note": "北神属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を7%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800102, 
         "name": "守銭奴Lv.3"
     }, 
     {
-        "note": "北神属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を8%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800103, 
         "name": "守銭奴Lv.4"
     }, 
     {
-        "note": "北神属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を9%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800104, 
         "name": "守銭奴Lv.5"
     }, 
     {
-        "note": "北神属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "note": "北神流属性の防御力を10%UP", 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800105, 
         "name": "守銭奴Lv.6"
     }, 
     {
         "note": "我流属性の防御力を5%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800300, 
         "name": "にやけ顔Lv.1"
     }, 
     {
         "note": "我流属性の防御力を6%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800301, 
         "name": "にやけ顔Lv.2"
     }, 
     {
         "note": "我流属性の防御力を7%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800302, 
         "name": "にやけ顔Lv.3"
     }, 
     {
         "note": "我流属性の防御力を8%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800303, 
         "name": "にやけ顔Lv.4"
     }, 
     {
         "note": "我流属性の防御力を9%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800304, 
         "name": "にやけ顔Lv.5"
     }, 
     {
         "note": "我流属性の防御力を10%UP", 
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "leaderSkillMstId": 101800305, 
         "name": "にやけ顔Lv.6"
     }

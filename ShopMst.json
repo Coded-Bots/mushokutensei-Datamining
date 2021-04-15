@@ -1,7 +1,7 @@
 [
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 100001, 
         "paymentItemNum": 1000, 
         "viewSequence": 1, 
@@ -17,7 +17,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 100002, 
         "paymentItemNum": 500, 
         "viewSequence": 2, 
@@ -33,7 +33,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 100003, 
         "paymentItemNum": 300, 
         "viewSequence": 3, 
@@ -49,7 +49,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 100004, 
         "paymentItemNum": 50, 
         "viewSequence": 4, 
@@ -65,7 +65,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 100005, 
         "paymentItemNum": 10, 
         "viewSequence": 5, 
@@ -81,7 +81,215 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300001, 
+        "paymentItemNum": 3000, 
+        "viewSequence": 1, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 1, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 1, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300003, 
+        "paymentItemNum": 10000, 
+        "viewSequence": 3, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 1, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 2, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300005, 
+        "paymentItemNum": 10000, 
+        "viewSequence": 5, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 1, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 2, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300007, 
+        "paymentItemNum": 300, 
+        "viewSequence": 7, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 1, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 150, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300009, 
+        "paymentItemNum": 300, 
+        "viewSequence": 9, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 1, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 50, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300011, 
+        "paymentItemNum": 500, 
+        "viewSequence": 11, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 1, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 50, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300013, 
+        "paymentItemNum": 1000, 
+        "viewSequence": 13, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 1, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 10, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300016, 
+        "paymentItemNum": 1000, 
+        "viewSequence": 16, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 0, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 10, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300017, 
+        "paymentItemNum": 150, 
+        "viewSequence": 17, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 0, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 50, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300018, 
+        "paymentItemNum": 30, 
+        "viewSequence": 18, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 0, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 100, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300019, 
+        "paymentItemNum": 500, 
+        "viewSequence": 19, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 0, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 30, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300020, 
+        "paymentItemNum": 100, 
+        "viewSequence": 20, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 0, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 100, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
+        "shopMstId": 300021, 
+        "paymentItemNum": 20, 
+        "viewSequence": 21, 
+        "paymentItemMstId": 3000, 
+        "isPickup": 0, 
+        "closeTime": 1621313999, 
+        "startTime": 1577804400, 
+        "conditionMissionMstId": 0, 
+        "exchangeCount": 150, 
+        "giftText": "NULL", 
+        "type": 3, 
+        "giftName": "NULL"
+    }, 
+    {
+        "giftImg": "NULL", 
+        "updatedTime": 1618302208, 
         "shopMstId": 400101, 
         "paymentItemNum": 300, 
         "viewSequence": 1, 
@@ -97,7 +305,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400102, 
         "paymentItemNum": 50, 
         "viewSequence": 2, 
@@ -113,7 +321,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400103, 
         "paymentItemNum": 10, 
         "viewSequence": 3, 
@@ -129,7 +337,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400104, 
         "paymentItemNum": 10, 
         "viewSequence": 4, 
@@ -145,7 +353,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400105, 
         "paymentItemNum": 5, 
         "viewSequence": 5, 
@@ -161,7 +369,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400106, 
         "paymentItemNum": 5, 
         "viewSequence": 6, 
@@ -177,7 +385,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400107, 
         "paymentItemNum": 3, 
         "viewSequence": 7, 
@@ -193,7 +401,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400108, 
         "paymentItemNum": 3, 
         "viewSequence": 8, 
@@ -209,7 +417,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400109, 
         "paymentItemNum": 1, 
         "viewSequence": 9, 
@@ -225,7 +433,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400110, 
         "paymentItemNum": 1, 
         "viewSequence": 10, 
@@ -241,7 +449,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400201, 
         "paymentItemNum": 300, 
         "viewSequence": 1, 
@@ -257,7 +465,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400202, 
         "paymentItemNum": 50, 
         "viewSequence": 2, 
@@ -273,7 +481,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400203, 
         "paymentItemNum": 10, 
         "viewSequence": 3, 
@@ -289,7 +497,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400204, 
         "paymentItemNum": 10, 
         "viewSequence": 4, 
@@ -305,7 +513,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400205, 
         "paymentItemNum": 5, 
         "viewSequence": 5, 
@@ -321,7 +529,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400206, 
         "paymentItemNum": 5, 
         "viewSequence": 6, 
@@ -337,7 +545,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400207, 
         "paymentItemNum": 3, 
         "viewSequence": 7, 
@@ -353,7 +561,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400208, 
         "paymentItemNum": 3, 
         "viewSequence": 8, 
@@ -369,7 +577,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400209, 
         "paymentItemNum": 1, 
         "viewSequence": 9, 
@@ -385,7 +593,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400210, 
         "paymentItemNum": 1, 
         "viewSequence": 10, 
@@ -401,7 +609,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400301, 
         "paymentItemNum": 300, 
         "viewSequence": 1, 
@@ -417,7 +625,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400302, 
         "paymentItemNum": 50, 
         "viewSequence": 2, 
@@ -433,7 +641,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400303, 
         "paymentItemNum": 10, 
         "viewSequence": 3, 
@@ -449,7 +657,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400304, 
         "paymentItemNum": 10, 
         "viewSequence": 4, 
@@ -465,7 +673,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400305, 
         "paymentItemNum": 5, 
         "viewSequence": 5, 
@@ -481,7 +689,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400306, 
         "paymentItemNum": 5, 
         "viewSequence": 6, 
@@ -497,7 +705,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400307, 
         "paymentItemNum": 3, 
         "viewSequence": 7, 
@@ -513,7 +721,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400308, 
         "paymentItemNum": 3, 
         "viewSequence": 8, 
@@ -529,7 +737,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400309, 
         "paymentItemNum": 1, 
         "viewSequence": 9, 
@@ -545,7 +753,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400310, 
         "paymentItemNum": 1, 
         "viewSequence": 10, 
@@ -561,7 +769,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400401, 
         "paymentItemNum": 300, 
         "viewSequence": 1, 
@@ -577,7 +785,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400402, 
         "paymentItemNum": 50, 
         "viewSequence": 2, 
@@ -593,7 +801,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400403, 
         "paymentItemNum": 10, 
         "viewSequence": 3, 
@@ -609,7 +817,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400404, 
         "paymentItemNum": 10, 
         "viewSequence": 4, 
@@ -625,7 +833,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400405, 
         "paymentItemNum": 5, 
         "viewSequence": 5, 
@@ -641,7 +849,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400406, 
         "paymentItemNum": 5, 
         "viewSequence": 6, 
@@ -657,7 +865,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400407, 
         "paymentItemNum": 3, 
         "viewSequence": 7, 
@@ -673,7 +881,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400408, 
         "paymentItemNum": 3, 
         "viewSequence": 8, 
@@ -689,7 +897,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400409, 
         "paymentItemNum": 1, 
         "viewSequence": 9, 
@@ -705,7 +913,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400410, 
         "paymentItemNum": 1, 
         "viewSequence": 10, 
@@ -721,7 +929,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400501, 
         "paymentItemNum": 300, 
         "viewSequence": 1, 
@@ -737,7 +945,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400502, 
         "paymentItemNum": 50, 
         "viewSequence": 2, 
@@ -753,7 +961,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400503, 
         "paymentItemNum": 10, 
         "viewSequence": 3, 
@@ -769,7 +977,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400504, 
         "paymentItemNum": 10, 
         "viewSequence": 4, 
@@ -785,7 +993,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400505, 
         "paymentItemNum": 5, 
         "viewSequence": 5, 
@@ -801,7 +1009,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400506, 
         "paymentItemNum": 5, 
         "viewSequence": 6, 
@@ -817,7 +1025,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400507, 
         "paymentItemNum": 3, 
         "viewSequence": 7, 
@@ -833,7 +1041,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400508, 
         "paymentItemNum": 3, 
         "viewSequence": 8, 
@@ -849,7 +1057,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400509, 
         "paymentItemNum": 1, 
         "viewSequence": 9, 
@@ -865,7 +1073,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400510, 
         "paymentItemNum": 1, 
         "viewSequence": 10, 
@@ -881,7 +1089,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400601, 
         "paymentItemNum": 300, 
         "viewSequence": 1, 
@@ -897,7 +1105,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400602, 
         "paymentItemNum": 50, 
         "viewSequence": 2, 
@@ -913,7 +1121,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400603, 
         "paymentItemNum": 10, 
         "viewSequence": 3, 
@@ -929,7 +1137,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400604, 
         "paymentItemNum": 10, 
         "viewSequence": 4, 
@@ -945,7 +1153,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400605, 
         "paymentItemNum": 5, 
         "viewSequence": 5, 
@@ -961,7 +1169,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400606, 
         "paymentItemNum": 5, 
         "viewSequence": 6, 
@@ -977,7 +1185,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400607, 
         "paymentItemNum": 3, 
         "viewSequence": 7, 
@@ -993,7 +1201,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400608, 
         "paymentItemNum": 3, 
         "viewSequence": 8, 
@@ -1009,7 +1217,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400609, 
         "paymentItemNum": 1, 
         "viewSequence": 9, 
@@ -1025,7 +1233,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400610, 
         "paymentItemNum": 1, 
         "viewSequence": 10, 
@@ -1041,7 +1249,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400701, 
         "paymentItemNum": 300, 
         "viewSequence": 1, 
@@ -1057,7 +1265,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400702, 
         "paymentItemNum": 50, 
         "viewSequence": 2, 
@@ -1073,7 +1281,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400703, 
         "paymentItemNum": 10, 
         "viewSequence": 3, 
@@ -1089,7 +1297,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400704, 
         "paymentItemNum": 10, 
         "viewSequence": 4, 
@@ -1105,7 +1313,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400705, 
         "paymentItemNum": 5, 
         "viewSequence": 5, 
@@ -1121,7 +1329,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400706, 
         "paymentItemNum": 5, 
         "viewSequence": 6, 
@@ -1137,7 +1345,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400707, 
         "paymentItemNum": 3, 
         "viewSequence": 7, 
@@ -1153,7 +1361,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400708, 
         "paymentItemNum": 3, 
         "viewSequence": 8, 
@@ -1169,7 +1377,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400709, 
         "paymentItemNum": 1, 
         "viewSequence": 9, 
@@ -1185,7 +1393,7 @@
     }, 
     {
         "giftImg": "NULL", 
-        "updatedTime": 1617691480, 
+        "updatedTime": 1618302208, 
         "shopMstId": 400710, 
         "paymentItemNum": 1, 
         "viewSequence": 10, 

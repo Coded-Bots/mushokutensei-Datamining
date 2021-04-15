@@ -1,7 +1,7 @@
 [
     {
         "userIconMstId": 1, 
-        "description": "ルーデウスのアイコン", 
+        "description": "【幼少期】ルーデウスのアイコン", 
         "objectId": 0, 
         "grade": 1, 
         "series": "first", 
@@ -189,6 +189,21 @@
         "userIconImg": "pi_0018_001", 
         "num": 0, 
         "iconNo": 13, 
+        "startTime": 1524729600, 
+        "presentType": "none", 
+        "valid": 1, 
+        "isDefault": 1
+    }, 
+    {
+        "userIconMstId": 14, 
+        "description": "エリナリーゼのアイコン", 
+        "objectId": 0, 
+        "grade": 1, 
+        "series": "first", 
+        "closeTime": 1924959599, 
+        "userIconImg": "pi_0016_001", 
+        "num": 0, 
+        "iconNo": 14, 
         "startTime": 1524729600, 
         "presentType": "none", 
         "valid": 1, 

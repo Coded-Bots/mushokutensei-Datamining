@@ -1,6 +1,6 @@
 [
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 10000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 1, 
@@ -8,7 +8,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 20000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 2, 
@@ -16,7 +16,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 30000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 3, 
@@ -24,7 +24,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 40000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 4, 
@@ -32,7 +32,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 50000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 5, 
@@ -40,7 +40,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 20000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 6, 
@@ -48,7 +48,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 40000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 7, 
@@ -56,7 +56,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 60000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 8, 
@@ -64,7 +64,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 80000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 9, 
@@ -72,7 +72,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 100000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 10, 
@@ -80,7 +80,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 30000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 11, 
@@ -88,7 +88,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 60000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 12, 
@@ -96,7 +96,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 90000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 13, 
@@ -104,7 +104,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 120000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 14, 
@@ -112,7 +112,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 150000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 15, 
@@ -120,7 +120,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 50000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 16, 
@@ -128,7 +128,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 100000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 17, 
@@ -136,7 +136,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 150000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 18, 
@@ -144,7 +144,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 200000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 19, 
@@ -152,7 +152,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 250000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 20, 
@@ -160,7 +160,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 100000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 21, 
@@ -168,7 +168,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 200000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 22, 
@@ -176,7 +176,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 300000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 23, 
@@ -184,7 +184,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 400000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 24, 
@@ -192,7 +192,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 500000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 25, 
@@ -200,7 +200,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 150000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 26, 
@@ -208,7 +208,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 300000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 27, 
@@ -216,7 +216,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 450000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 28, 
@@ -224,7 +224,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 600000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 29, 
@@ -232,7 +232,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 750000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 30, 
@@ -240,7 +240,7 @@
         "type": "gear"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 5000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 31, 
@@ -248,7 +248,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 10000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 32, 
@@ -256,7 +256,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 15000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 33, 
@@ -264,7 +264,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 20000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 34, 
@@ -272,7 +272,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 25000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 35, 
@@ -280,7 +280,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 10000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 36, 
@@ -288,7 +288,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 20000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 37, 
@@ -296,7 +296,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 30000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 38, 
@@ -304,7 +304,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 40000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 39, 
@@ -312,7 +312,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 50000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 40, 
@@ -320,7 +320,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 15000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 41, 
@@ -328,7 +328,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 30000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 42, 
@@ -336,7 +336,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 45000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 43, 
@@ -344,7 +344,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 60000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 44, 
@@ -352,7 +352,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 75000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 45, 
@@ -360,7 +360,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 25000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 46, 
@@ -368,7 +368,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 50000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 47, 
@@ -376,7 +376,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 75000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 48, 
@@ -384,7 +384,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 100000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 49, 
@@ -392,7 +392,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 125000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 50, 
@@ -400,7 +400,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 50000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 51, 
@@ -408,7 +408,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 100000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 52, 
@@ -416,7 +416,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 150000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 53, 
@@ -424,7 +424,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 200000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 54, 
@@ -432,7 +432,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 250000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 55, 
@@ -440,7 +440,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 75000, 
         "limitBreakLevel": 1, 
         "cardLimitBreakPriceMstId": 56, 
@@ -448,7 +448,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 150000, 
         "limitBreakLevel": 2, 
         "cardLimitBreakPriceMstId": 57, 
@@ -456,7 +456,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 225000, 
         "limitBreakLevel": 3, 
         "cardLimitBreakPriceMstId": 58, 
@@ -464,7 +464,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 300000, 
         "limitBreakLevel": 4, 
         "cardLimitBreakPriceMstId": 59, 
@@ -472,7 +472,7 @@
         "type": "support"
     }, 
     {
-        "updatedTime": 1617691472, 
+        "updatedTime": 1618302200, 
         "limitBreakPrice": 375000, 
         "limitBreakLevel": 5, 
         "cardLimitBreakPriceMstId": 60, 
